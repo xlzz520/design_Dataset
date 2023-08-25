@@ -1,0 +1,38 @@
+节点编号,原文,设计行为,源节点
+1,"I'm thinking of middle-aged people now. Then the keywords are health, companionship.",基于功能的分析,0
+2,"The family scene, set a segmented scene",基于功能的分析,0
+3,"If the elderly person is going to go back in time from morning to night, get up, maybe go to the grocery store, then eat breakfast, some elderly people may have a vegetarian diet, do some health exercise habits, such as tai chi or other sports.",基于功能的先例,1;2
+4,The health movement can spread,基于功能的分析,3
+5,"In the morning, you may go for a walk, after lunch, you may have some entertainment, then nap at noon, then go to a friend's party after nap, then have dinner, and in the evening you may go to square dancing, similar social activities.",基于功能的先例,3
+6,The functions for these words can be divided into several main parts.,基于功能的分析,5
+7,"The daily prompt function, and some scenes for healthy scenes, will also include medication and rest.",概念合成-功能,6
+8,I feel like they're getting up as if they don't need a reminder.,基于功能的评估,7
+9,"Health reminders, such as taking medication, or health records, tips, or resting and exercising.",概念合成-功能,6
+10,"Social companionship, such as chatting, can also be used to connect with friends and family.",概念合成-功能,6
+11,"Considering what form it takes to carry these functions, it may be necessary to consider the physiological characteristics of the elderly themselves, such as their poor eyesight or hearing as young people.",基于结构的分析,6;9;10
+12,"If it is a bit larger in shape, it is movable, for example fixed in bed or movable, which is something to think about, then it is soft or hard.",基于结构的分析,11
+13,"He is distributed, integrated, and can be combined.",概念合成-结构,12
+14,"In some special situations, such as the bedroom, you may need help getting up and going to bed.",概念合成-功能,13
+15,"I think that it can be a relatively fixed thing, like a headboard, a backrest, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a seat, a, seat, a, seat, a, seat, seat, seat, seat,",概念合成-结构,12;14
+16,"When used, it can contract on its own, like a mechanical arm, can be extended out of the bed, and the elderly can help you get up if you just hold it.",概念合成-结构,15
+17,The robot can overlap with other functions in this form. It can store medication in addition to providing support.,概念合成-功能,15;16
+18,"If it's the kind of large equipment that can have some fixed, tablet-like visualization interface",概念合成-结构,17
+19,"The elderly he calls up, he can get up in front of the elderly, he can call his family.",概念合成-行为,18
+20,"For example, a guide robot, a walking stick, is a portable device that can be used to guide the elderly when they go out.",概念合成-功能,3
+21,"For example, on the way to the grocery store, on the way out, AI chat, GPS positioning to prevent getting lost.",概念合成-功能,20
+22,Is there a payment function? Not sure. There may be some elderly people who are not particularly used to paying with mobile phones while traveling.,基于行为的先例,21
+23,"What's the payment, maybe a crutch with an NFC sensor?",概念合成-结构,22
+24,Can you put more stuff on the crutches?,基于功能的分析,21;23
+25,"For example, health monitoring. It may have some sensors on it that detect some indicators such as heart rate etc.",概念合成-功能,24
+26,"For example, some elderly people may have a sudden heart attack or similar situations; this triggers family alerts, emergency calls; medications can be stored and pop up automatically.",概念合成-功能,24;25
+27,"Family reminders or ambulance calls. Because it has a GPS system, it can then accurately tell the exact location with an AI intelligent assistant",基于功能的评估,26
+28,Perhaps yes. This may need to be judged.,基于功能的评估,27
+29,"And then what else, could be a pet?",基于结构的分析,3;5
+30,"And the pet form, like that pet bird, that's the pet bird.",概念合成-结构,29
+31,"It's a lot of work to have a little bit of a life, to have some emotional value.",基于功能的分析,30
+32,The use of a spider to remind you to take your medicine or to socialize,概念合成-功能,31
+33,"For example: An elderly man and his friends have a pet bird, they can have some interesting interactions, like who told him the bird today, and they can hire someone",概念合成-功能,7;10
+34,"The same goes for some interesting activities, like the call letters.",基于功能的分析,33
+35,He can take a bird and then create a video and send it to his family.,概念合成-功能,34
+36,The same platform can be used to access a set of butler systems.,概念合成-结构,35
+37,"You can also check your health card, blood pressure, etc.",概念合成-功能,36

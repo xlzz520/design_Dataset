@@ -1,0 +1,56 @@
+节点编号,原文,设计行为,源节点
+1,"The first thing we'll do is look at some of the health risks that the elderly may have on a daily basis, based on some of their needs.",基于功能的分析,0
+2,The aspects that need to be accompanied can be divided into pain points and sticking points.,基于功能的分析,0
+3,"The focus may include some medical accompaniment and then daily care, two points may include emotional care, health risks.",基于功能的分析,2
+4,Maybe you'll think about drug management.,基于功能的分析,3
+5,"Some daily mobility aids, such as mobility management for elderly people with mobility disorders or bed bugs",基于功能的先例,1
+6,"Managing health problems, for example, in elderly people living alone. This includes monitoring their daily physical condition, which may include monitoring for falls, and testing for emergencies.",基于功能的分析,5
+7,"Emotionally, there may be some peace of mind for the elderly who live alone",基于功能的分析,3
+8,"It may also be considered as a whole, if it involves an interface or some presentation.",基于结构的分析,0
+9,"Perhaps the first is from the perspective of the health pain point of the elderly, health management, dietary monitoring, probably doing this.",基于功能的分析,2
+10,"The robot is likely to be considered a desktop-sized, small-sized, mobile-like computer that feels similar to a product from the Mii family.",基于结构的先例,9
+11,"For example, a feeling that is shaped like a little love, a little bit of something that might be something like this.",概念合成-结构,10
+12,"It is mainly on the desk, he will remind the elderly people including the daily dosage of medication and the administration of medication",概念合成-功能,11
+13,"The device may also be equipped with a bracelet. There may be more than one device, such as infrared monitoring and bracelets.",概念合成-结构,12
+14,"The bracelet can monitor the heart rate of the elderly, the blood pressure. Infrared monitoring devices can be used, for example, in places like the bathroom, to monitor the fall of the elderly.",概念合成-功能,13
+15,"All the information is transmitted to a robot on the desktop, a receiving terminal. It monitors the alarm and, if something goes wrong, can timely relay the information to multiple parties.",概念合成-功能,13
+16,"Emergency alerts, which may be synced to the platform to the family. In the event of an accident, the emergency whistleblower may be notified by the emergency whistleblower, such as the first aid center involved in the platform.",概念合成-功能,15
+17,The third thing that might be dietary monitoring is that you can put it on your desk and you can go and build a visual identification of your diet.,概念合成-功能,2
+18,"We might identify on my table, what dishes I ate today, if certain diets are meeting the nutritional criteria, if I'm missing an element in my diet for a long time, it might somehow remind me that I'm missing something.",概念合成-行为,17
+19,The second could be an aspect of elderly mobility. The most basic function of robotic mobility is to assist elderly people in moving from a distance.,概念合成-功能,5
+20,"It could be shaped like a portable human, and he could have some mainly mechanical",概念合成-结构,19
+21,"For example, help with stairs.",概念合成-功能,20
+22,"There are also some words that can be combined with the current travel software on the market. For example, this mobile robot can automatically help you call and then set the usual address.",概念合成-行为,19
+23,The elderly may not be able to do some of the daily activities like driving by themselves.,基于功能的先例,22
+24,Using a mobile computer in a robot wheelchair or helping elderly people book a ride online,概念合成-结构,23
+25,"Then the elderly don't need any input, so the computer can be automatically help me to identify my destination and trigger",概念合成-行为,24
+26,The project is also expected to have some monitoring and location features to prevent older people from getting lost.,概念合成-功能,19
+27,The app can also be used to control where family members are going.,概念合成-功能,26
+28,"Also consider how some elderly people move from a different robot carrier, needing some kind of support structure to lean on.",概念合成-结构,20
+29,"So how does an elderly person, sitting in bed, make the smooth transition from a robot to a portable robot like this?",基于功能的分析,28
+30,"The third option may be some of the above emotional support, especially for some elderly people who are alone or between elderly people who may not have anyone to accompany and communicate.",基于功能的分析,3
+31,The main reason for this is that there may be some robots that are similar to walking on the ground.,概念合成-结构,30
+32,"It's a bit like the robot that we have today, the one that we get from the hotel.",基于功能的先例,31
+33,"He can walk around the living room and has some voice interaction functions, including reading the news as an elderly person.",概念合成-行为,32
+34,"The first thing you need to do is to get the news on the news, and then inform about the hot events in time.",概念合成-功能,33
+35,The reason is that some older people are actually more psychologically afraid of being disconnected from society because of ageing.,基于功能的先例,34
+36,The information or state can be presented in some kind of visual way.,概念合成-结构,30
+37,"For example, if the plant in my vase has a sensor, the plant will probably run out of water and the robot will. I feel it is a kind of anthropomorphic way, for example, if the plant is an anthropomorphic thing, he may say that he is running out of water.",概念合成-功能,36
+38,"Because the everyday elderly person who lives alone is not the one who has no interaction in his life. If this is a short, hard interaction, it is not the kind of interaction that can be repeated day after day.",基于功能的评估,37
+39,It could be that you take some static thing that you don't have interactive in everyday life and you give it some kind of emotional way to give it some kind of interactive point.,基于功能的分析,38
+40,"For example, all plants can interact, and plants have emotional states.",基于功能的先例,39
+41,"Then, since the elderly person who lives alone may not necessarily have a pet, because the pet will actually be a great burden and trouble for him, he may not be able to pack it himself.",基于行为的先例,39
+42,It is possible to increase the possibility of some calendar interaction through the way of sensors to static content,概念合成-结构,40
+43,"The fourth example is kind of like a young person using some fitness software, like Keep, he might have some body management needs.",基于功能的分析,2
+44,"The older people actually have a lot of this healthy exercise, and it may not be for the relatively high energy or high-consumption exercise that young people do, the older people may have their own healthy exercise methods.",基于功能的先例,43
+45,"The robot can be in two forms. One is a box that projects a real person, and then it can be projected in the air, a real person who can give me some fitness tips or some exercise tips.",概念合成-功能,44
+46,"The second type is humanoid robots, which might be inside of them that I can actually see the person in a way that I can actually see the person, like teaching me some healthy exercise moves.",概念合成-结构,45
+47,"It's like, you know, something that older people might use, like Tai Chi, or eight-pin boxing, or something like that, that might be able to guide me through the robot way.",概念合成-行为,46
+48,"There is also some sticky management. If I don't exercise for a long time, it may give me a positive or negative feedback incentive.",概念合成-功能,46
+49,"He might be a bit like a card player, I come to this thing every day, maybe I get some kind of reward. Maybe this reward is more attractive to the elderly people's daily supply of vegetables, like I've been able to get a box of fruit every day for two months.",概念合成-功能,48
+50,It's a little bit like a health coach.,基于功能的评估,49
+51,The idea is to create a memory assistant robot. Is it possible that the elderly now have a hidden memory loss?,基于功能的分析,2
+52,"Maybe it's like an iPad, or it could be like walking on the ground, like a hotel.",基于功能的先例,51
+53,"The way we talk about it is twofold, on the one hand it helps to document; important things, important moments, a bit like a sense of history.",概念合成-功能,51
+54,"The second word is will. He will ask you in a voice-interaction way, what you remember about the day before, or what you remember about the week after.",概念合成-功能,51
+55,"Do some memory training, recalling some photos from a previous time.",概念合成-功能,54

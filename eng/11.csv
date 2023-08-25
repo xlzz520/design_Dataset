@@ -1,0 +1,81 @@
+节点编号,原文,设计行为,源节点
+67,"For example, a watch.",基于功能的先例,66
+50,"For example, my mother just said that she felt like she was suddenly sick with a lack of oxygen or blood supply.",基于功能的先例,49
+9,"For example, what kind of sensors or cameras monitor the current physical condition of the elderly, their behavior, and find that they are actively changing after they get tired?",概念合成-行为,8
+56,"For example, it is preferable for the elderly to be able to call the doctor directly through voice, like in the case of the elderly.",概念合成-行为,55
+45,"I don't want it to have any particularly complicated physical functions, particularly complicated movements or structures.",基于结构的分析,45
+70,The test is that it could have a robotic arm.,概念合成-结构,69
+17,"But I think that when he is at home, for example, and the old man has not decided or is hesitant about going out, he can be encouraged to go out by voice feedback or something.",概念合成-行为,16
+35,But there may be privacy concerns.,基于功能的评估,34
+46,But you can do something like turn around or blink and give a sense of companionship.,概念合成-结构,46
+2,"But he has problems, he has needs for movement and social interaction, he has problems with his legs and feet, he may need to walk, he needs to sit when he travels, he needs to sit when he is tired, or he has a crutch.",基于行为的先例,1
+48,But he's also feeling a little bit like option two.,基于功能的评估,47;19
+12,"The old man can also be passive, if he feels tired, he can also be passive.",概念合成-行为,11;7
+19,"The second health companion, which is a robot that can accompany you on your journey, maybe even at home, to take care of different scenes.",基于功能的分析,0
+42,"The old man, who is not particularly comfortable with comparing, can choose to turn on or not, but he can choose to turn on or not.",概念合成-行为,41
+22,"For example, for elderly people living alone, they may be eager to connect with their families, children, and other family members.",基于功能的先例,21
+68,"Oh, can he look like a watch?",概念合成-结构,67
+47,Option three: I'm thinking about the hot topic of telemedicine.,基于功能的先例,0
+41,"I'm not sure if I'm feeling the need, think about it, or need it.",基于功能的评估,40
+57,The feeling is a bit complicated.,基于行为的评估,56
+33,What other ways can distance care bring the two closer together?,基于功能的分析,25
+6,"The seat can be transformed into a resting chair at any time. For example, it can be deformed or folded, and then it can be turned into a chair when the elderly are tired.",概念合成-功能,5
+80,The same applies to the voice recognition of the content that the elderly need to measure and then call the appropriate instrument.,概念合成-行为,74;77
+10,Many older people may not realize they need rest.,基于功能的分析,9;7
+23,"Or I think that in turn, many young people want to take care of their parents or be concerned about their physical condition or contact them regularly.",基于功能的先例,22
+44,"The most important thing is that the infrastructure is not only a building block, but also a building block.",概念合成-结构,43
+51,"The elderly person may have a sudden situation or sudden discomfort, and it is not always convenient to go to the hospital or have someone else pick her up.",基于行为的先例,50
+63,The idea is to ask the AI everyday questions and then give them some simple rehabilitation instructions.,概念合成-行为,62
+15,"He has a very important one, he encourages the elderly to go out.",基于功能的分析,3
+40,Maybe we need a camera.,概念合成-功能,39
+75,Folding or rotating for instrument change and accommodation,概念合成-结构,74
+4,"The purpose is to accompany the elderly, to be a seat for them to rest at any time, and thus to achieve a role that encourages them to travel.",概念合成-功能,3
+21,"And that's about mental health, because a lot of older people are living alone.",基于功能的分析,20
+36,"For example, you can find out when your child comes to the elderly to look after him. What headaches do the elderly mention most often?",概念合成-行为,35
+62,That could be AI.,概念合成-功能,61
+61,"Can you say that? In the elderly, there is no emergency, no sudden discomfort, and you can help them in their daily life with some indoor exercise, simple exercise.",基于功能的分析,60;51
+24,"And you're in touch with them all the time, and you don't need to have any of these complex physical functions on the surface.",基于结构的分析,23
+3,"So I think it's healthy to have a companion robot that can be his when he travels, that can accompany him out and encourage him to travel.",基于功能的分析,2
+26,He could be a screen.,概念合成-结构,26
+13,Then there are some features that help older people avoid obstacles.,概念合成-功能,12;3
+32,The first is that the elderly are more likely to be able to communicate with their children and prevent accidents.,概念合成-功能,22;30
+59,The screen can then interact with the doctor.,概念合成-行为,58
+8,"And then his behavior, and most importantly, I think he could sense the fatigue of the old man himself.",概念合成-行为,7
+66,The robot is also capable of measuring the distance of the earth from the surface of the earth.,基于功能的分析,65
+64,"And then it can also have video feedback, which makes it easier to learn.",概念合成-功能,63
+27,And then you have products like voice assistants.,概念合成-功能,27
+78,"Then there's the passive-voicing, which lets the elderly and the doctor talk.",概念合成-行为,77
+43,"And then words like that, assistant, robot, he can also do some relatively simple gestures like turn his head and give people a sense of being with him.",概念合成-行为,42
+71,"It can measure blood pressure, heart rate and other daily monitoring, such as high blood sugar.",概念合成-功能,70
+69,"The clock is a robot? Yes, or a big screen, the old man sees a little bit.",基于结构的评估,68
+16,"Although he has a lot of behavior, he can help the elderly solve some problems on the road.",基于功能的评估,15;13;4
+11,So I hope that robots can take a little initiative.,基于行为的分析,10
+52,"He may need to be far away to get help, and that's how he gets relief quickly.",基于行为的分析,51
+34,"He may be, is the old man's collection of words",概念合成-功能,33
+30,"It may have functions, such as automatically talking to the elderly when he is not in contact with his relatives.",概念合成-功能,29
+72,"It also uploads this data and integrates it into his personal health data, so that the elderly can call on the data when they need help, and then they can get help.",概念合成-行为,71
+76,"I don't know if it's some kind of high blood pressure or something, but it needs to be measured regularly.",基于功能的分析,75
+29,I want it to be more of a feeling that accompanies you.,基于功能的评估,28
+60,I think that the product should be more than enough for telemedicine.,基于功能的评估,47;58
+28,"I think the screen is just an accessory. Otherwise, it feels a bit like watching him, but I'm not sure if I'm going to be able to watch him.",基于结构的评估,26
+55,"I think he's different from that kind of direct-to-computer treatment, and he needs to provide convenience.",基于功能的分析,54
+5,"I think that since he's the one who accompanies him on his travels, he might be a puppy, and can be an emotional companion.",概念合成-结构,4
+1,"The first thing to think about is if you have thought about something similar, like an elderly person who has some health problems and may need to travel.",基于功能的分析,0
+37,"I think it can be passive conversation, but it can be a conversation about the world.",概念合成-行为,30
+14,"The older generation is behaving like a child, and it is able to detect obstacles and guide the older generation around them.",概念合成-行为,13
+20,"I don't know much about the elderly person's illness, what his needs are, because I feel the old person's illness.",基于功能的评估,19
+7,"Because it looks like a puppy, I think, so the main structure has four limbs, plus the middle body, which is the part of the body that can be used as a seat for him when he rests.",概念合成-结构,6
+31,The article also highlights the importance of the health of older people.,基于功能的评估,30
+54,And there are big screens where you can talk to a doctor or ask for help.,概念合成-功能,53
+49,"What new features can be added? Then go to the doctor, make him a little bit more professional, design him into a professional.",基于功能的分析,48
+53,"The telehealth industry is definitely structured and shaped, and it still needs a big screen.",概念合成-结构,52
+58,"The point where you call the doctor, you may need a mediator to process the information and then call for help via voice.",概念合成-行为,57
+38,"You can also initiate a conversation when the elderly are bored or something is going on, like asking them something simple, like what the weather is like today or what they cooked and ate.",概念合成-行为,30
+39,"This can be a good thing for the elderly, dementia, some dementia can have all the benefits! and then they feel like there's always someone with them.",基于行为的评估,37;38
+65,These are all communication functions.,基于功能的评估,63;64
+77,"This way, he can voice reminders to the elderly for some regular monitoring.",概念合成-行为,76
+74,A machine arm like this can contain a lot of tools or instruments.,概念合成-结构,70;71
+73,This is a great way to learn more about some of his basic conditions.,基于功能的分析,72
+18,This can be a form of exercise.,基于行为的评估,17
+79,"The video is about a man who is trying to get his phone to work, but it's not working.",基于功能的评估,77
+25,What is needed is a timely dialogue between the two generations and how to achieve distance care.,基于功能的分析,24

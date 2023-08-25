@@ -1,0 +1,105 @@
+节点编号,原文,设计行为,源节点
+1,We can analyze the situation and the environment from different groups of older people.,基于功能的分析,0
+2,The project is aimed at providing them with different functions.,基于功能的分析,1
+3,"And then I just thought, some old people, he likes little animals, little kittens, little dogs, whatever.",基于功能的先例,1
+4,The elderly may then be targeted at the elderly in the nursing home or nursing home.,基于功能的分析,3
+5,The elderly are also in the same room or rooms as the patients.,基于功能的先例,4
+6,They may be relatively older and may be more difficult to communicate with.,基于功能的先例,5
+7,"I'm going to target this segment of people who are relatively young, but also older people living in nursing homes.",基于功能的分析,6
+8,"They might find it more boring, I mean, having some fun with other people is relatively less.",基于功能的先例,5;6
+9,They need a healthy companion robot like this.,基于功能的分析,8
+10,"The shape may be a more fluffy one, which may be better, is the shape of a kitten or a dog.",基于结构的分析,3;9
+11,"Structurally, it's definitely the kind of sensor that's inside, and then all the smart chips that are inside, and then all the smart chips that are inside, and then all the smart chips that are inside, and then all the smart chips that are inside, and then all the smart chips that are inside, and then all the smart chips that are inside, and then all the smart chips that are inside, and then all the smart chips that are inside, and then all the smart chips that are inside, and then all the smart chips that are inside, and then all the smart chips that are inside, and then all the smart chips that are inside, and then all the smart chips that are inside, and all the smart chips that are inside, and all the smart chips that are inside, and all the smart chips that are inside, and all the smart chips that are inside, and all the smart chips that are inside, and all the smart chips",基于结构的分析,3
+12,"Then we write, think about the internal structure. The internal word. There must be such a thing. It's a robot, it must be the same processor with the same chip.",基于结构的先例,11
+13,I don't think much of the smart.,基于结构的分析,12
+14,"Then he would definitely have to have some more sensors; say hearing, because it would have to do some language processing; sound sensors, vibration sensors, etc.",概念合成-结构,8;11
+15,He is also more concerned about his own physical and health condition.,基于功能的先例,9
+16,I'm going to add some blood pressure tests and stuff.,概念合成-功能,14
+17,"And this sensor, I'm not sure what it actually does.",基于功能的分析,16
+18,"Sensors that measure breathing, pulse, and sleep",概念合成-结构,16
+19,There must be some output modules.,概念合成-行为,3
+20,"It can, for example, bark like a kitten.",概念合成-行为,3
+21,"""Can it speak?""",概念合成-行为,20
+22,I'm not sure if you can talk.,基于行为的评估,8;21
+23,It's like selling mushrooms to old people.,概念合成-行为,22
+24,How to Make Older People Happy,基于行为的评估,23
+25,Talking is a reminder to the elderly when their blood pressure is relatively high.,概念合成-行为,16;22
+26,This is a reminder that nursing unions in nursing homes may be doing this.,基于行为的先例,25
+27,"If the number of nurses is not enough, the robot may also be able to remind them, which may help in the health of the elderly.",基于行为的评估,26
+28,"So what I just said is output, sound output.",基于行为的先例,27
+29,"If it's the kind of light that's going to be used to produce light, it doesn't need to be.",基于行为的分析,28
+30,"So let's say that we add an output, some action output.",基于行为的分析,29
+31,Let's say it has a shutter.,概念合成-结构,30
+32,The tail can be shaken.,概念合成-行为,3;31
+33,And there's a lot of other movements that the kitten does.,基于行为的分析,3;30
+34,"And then there's the whole ""rolling"".",概念合成-行为,33
+35,This is a pleasure to be able to enjoy.,基于行为的评估,34
+36,The words are particularly sweet.,基于结构的分析,10
+37,"The color I think is more orange, orange, or yellow, is the cat.",概念合成-结构,36
+38,It's also a lot brighter.,基于结构的评估,37
+39,"The elderly may also have a visual impairment, and then the more vivid colors will look more vivid.",概念合成-结构,38
+40,The second option I have is to target the empty nest.,基于功能的分析,1
+41,He is relatively wealthy.,基于功能的分析,40
+42,"But his family, his children, his grandchildren, are not around.",基于功能的分析,40
+43,He is also in a relatively less need of care in his life.,基于行为的分析,40
+44,"He may be with his old partner, but he wants to support each other.",基于行为的分析,43
+45,The main thing is that it is a spiritual vacuum.,基于行为的分析,42
+46,The first thing that I want to do is to ask the people of the world to come and see if they can have a machine like this.,概念合成-功能,45
+47,The words are more lovely in form.,概念合成-结构,46
+48,It must have sensors inside it.,概念合成-结构,47
+49,"The sensors are also used to get some attention and care for the health of the elderly, like blood pressure, just like the previous one.",概念合成-行为,18;48
+50,Because chatbots are hotter now.,基于行为的先例,46
+51,It is also functionally certain and should be used with older people.,概念合成-行为,47
+52,I think there used to be a robot companion.,基于行为的先例,51
+53,"But still, if an elderly person or user asks him a question, he will answer it.",基于行为的先例,52
+54,But he didn't say that he was the first to talk to others.,基于行为的先例,53
+55,I hope the robot can talk to people first.,概念合成-行为,54
+56,I can tell stories and remind the elderly.,概念合成-行为,55
+57,"The old man he probably cares about that kind of calendar, that kind of rhythm, because they're more traditional, more caring.",基于功能的先例,56
+58,"They're now generally saying that they're going to pass, say, that kind of calendar.",基于功能的先例,57
+59,"The robot can also remind you, for example, what the weather is like today, winter and summer.",概念合成-功能,56;57
+60,"Then the weather. For example, it's going to rain today, so you go out and take these.",概念合成-功能,60
+61,"In the morning, for example, the old man gets up, and later the robot detects the old man. He gets up or moves, he can think of a piece of music first. Say hello to him in a relatively gentle way, and then say a word to him, for example, what is the weather today, what is the festival?",概念合成-行为,59
+62,And then there's the reminder feature.,概念合成-功能,61
+63,I just talked about interacting with my grandchildren.,基于功能的先例,46
+64,"He could say, ""Well, he has a printer"".",概念合成-行为,63
+65,"The computer will print out what they say, and then it will be able to tell you what your child or grandchild wants to say to him or her, and then it will be able to use what you have to say to him or her, for example, to type in and talk with the mobile app.",概念合成-行为,63;64
+66,"Although it's now the same on WeChat, it's also easy to leave a message or make a phone call.",基于行为的先例,65
+67,"But I think the printer is printing it out. For example, a note, although it is printed, is a copy of something that your child or grandchild wrote.",概念合成-行为,66
+68,"So it looks more like a temperature, a temperature.",基于行为的评估,67
+69,"The first is that there are other, more interesting interactive devices.",基于行为的分析,68
+70,"I also think of other things on the web, like, ""What's the opposite of a couple?"" where they can press a button and on the other side, someone else will see that and they'll click that button.",基于行为的先例,69
+71,I think this could be transferred to the companion robot.,基于行为的分析,70
+72,"For example, if a child or grandchild is on the other side, say a button is pressed, and on this side, there is an interactive device to interact with it.",概念合成-行为,63;71
+73,I'm not sure what kind of form this is to give him to interact with.,基于行为的评估,72
+74,"Maybe for a moment, say something like, say, like a robot waving to him.",概念合成-行为,73
+75,This also allows them to customize.,概念合成-行为,74
+76,"They're also better at customizing, and they can do it in their own way.",基于行为的评估,75
+77,The new feature is also available in the form of an old photo.,基于功能的分析,40
+78,He likes to look back at the past and look at old photos from time to time.,基于功能的先例,77
+79,The robot can also show them some old photos from time to time.,概念合成-功能,78
+80,"And that's the kind of function that helps him remember, helps him think.",概念合成-功能,79
+81,"And then you can add some of these functions, which is what's going to help him slow down Alzheimer's, Alzheimer's, Alzheimer's.",基于功能的评估,80
+82,I also thought of one that was aimed at the kind of people who prefer chess.,基于功能的分析,1
+83,Many older people like that chess game.,基于功能的先例,82
+84,"I've been to a place before, when I was an undergraduate, a place where there were many chess stands on the street, where old people would play chess.",基于功能的先例,83
+85,"But the chess stands or the ones in the park, on rainy days, might be in the event hall.",基于功能的先例,84
+86,"Maybe there are some old people who like chess, but there is no such place nearby.",基于功能的先例,85
+87,"The game is played on a chessboard, which is a chess-playing machine.",概念合成-功能,86
+88,"And not just chess, because these computers are really good now.",基于功能的先例,87
+89,"The game is also available in other languages, such as Go, Chess, and Mahjong.",概念合成-功能,88
+90,"For example, if there are three people, you can bring him and play a game of mahjong.",概念合成-行为,89
+91,"Then on its structure. Perhaps compared to humans, having hands and feet that can walk on their own, and hands that can pinch a chessboard, is superior.",概念合成-结构,82
+92,"Because I think that old people, old people, they play chess, they play cards, they probably sit for a long time, and it's not good for them.",基于功能的先例,91
+93,You can set up a reminder function,概念合成-功能,92
+94,"The old man, for example, says he sits for an hour, he reminds him, this is paused, and tells the old man that you have to get up and rest; then I will come down with you.",概念合成-行为,93
+95,"In fact, the robot, since he can play chess, he can do a lot of other things.",基于功能的分析,87
+96,"For example, helping the elderly with household chores seems to make things easier for them.",概念合成-功能,95
+97,"He can play chess, do other things, even go to the old man's house and buy him some food.",概念合成-功能,95;96
+98,The fact is that I think we can also develop machines for older people with different interests that are relevant to their interests.,基于功能的分析,97
+99,"For example, an old man who likes to fish, he builds a robot.",概念合成-功能,98
+100,"So, the equivalent of a variant of option three, mostly accompaniment and then some help.",基于功能的评估,99
+101,"If you like to fish, you can help the elderly with something",概念合成-功能,99
+102,"For example, an old man who likes to dance gives him a robot partner.",概念合成-功能,98
+103,"And then he's got a high degree of flexibility, and then he's got a high degree of freedom.",基于功能的评估,102
+104,This can do a lot of things.,基于功能的评估,103

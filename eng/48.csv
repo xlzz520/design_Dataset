@@ -1,0 +1,63 @@
+节点编号,原文,设计行为,源节点
+1,The first thing that came to my mind was the physiological behavior of middle-aged people.,基于行为的分析,0
+2,If they are in a situation where they are suddenly ill or something may need to be able to inform the young person in time,基于功能的分析,1
+3,I think I'm going to give some health monitoring tips to young people.,概念合成-功能,2
+4,"And then I actually think that there's a lot of these robots on the market, like some Apple Watch, that actually do that.",基于功能的先例,3
+5,So I thought the breakthrough might be a quick notification.,概念合成-功能,4
+6,Or maybe some of the emotional aspects of the elderly can be given more attention.,基于功能的分析,0;5
+7,"Because I had an idea of something similar before, and then we did something that was kind of like a hanging calendar.",基于结构的先例,6
+8,Because there was a sister who said that his grandmother was older and they didn't use cell phones or electronics.,基于行为的先例,7
+9,"So we thought, can we compare something that they use frequently from their daily lives and then we can make a modification of it as a medium?",基于行为的分析,8
+10,He's been telling his kids about some of his health or emotional needs.,概念合成-功能,9
+11,The first is some of the commonly used items that older people come into contact with on a daily basis.,基于行为的分析,9
+12,"The idea is that the kind of electromagnetic calendar that you can hang, it can be something like a desktop, that you can put on your desk and it shows the date today.",概念合成-结构,11
+13,"And then it's going to do a linkage with some of the watches in the bottom of the hand, and then it's going to synchronize the data to this pendulum, and then it's going to be more convenient to tell his kids because he's going to be in touch with it every day.",概念合成-功能,12
+14,"The second is if it's in terms of companionship. I might think of pets. Because now in our society, there are more and more families that have pets.",基于行为的分析,0
+15,"I have a lot of middle-aged people around me who, if they're alone or if they don't have young people living with them, they often take a few cats or dogs or something to go with them.",基于行为的先例,14
+16,"And then I thought, if you look at it, you could make something that looks like a cat dog or a bird, and there are a lot of older people who like to keep birds, and these are the smaller ones that look like they're going to be able to do that.",基于结构的分析,15
+17,"I think it's a habit of animals to think about a specific function, like a dog, which may need to eat something often, and then a cat needs to feel that kind of touch.",基于功能的分析,16
+18,"The cat-like robot, if you touch it, the cat might have some sort of feedback, some kind of interaction, etc.",概念合成-行为,17
+19,"And then the bird can just do that. For example, an old man who wants to listen to a song now, and then he can have a conversation with the bird, is actually similar to that little love classmate.",概念合成-行为,17
+20,We'll have a conversation and then go to their little chat room and have some fun.,概念合成-功能,19
+21,"The first is that they need their children to take care of them, and the second is that they need machines to take care of them.",基于功能的分析,3;14
+22,"Thirdly, I want to take care of the elderly. They often like to go dancing in the square or playing cards together. They also have their own social circle.",基于行为的分析,21
+23,"Because my house is a small park downstairs, and then there's a lot of them every night, and the old people are dancing in the square, and then on their side, our park is divided into three parts, one for social dancing, one for square dancing and one for basketball, but those aunts also like to occupy the basketball court.",基于功能的先例,22
+24,"And then the young people who don't have a place to exercise, I might think, because dancing in the square is a very necessary activity for them, because they don't have anything to work for, they just need some luxury in life.",基于功能的分析,23
+25,"Some sports are still important for them in their free time, because they can enrich their social life and also benefit their physical and mental health.",基于功能的分析,24
+26,I'm going to take a group of like-minded middle-aged people and do a reasonable planning thing.,概念合成-功能,23;25
+27,I feel biased towards that software.,概念合成-结构,26
+28,"I started thinking about sorting their activities, and then they went to their own places and picked out, say, what time and how many times I was free, and then they went to a group registration and then they went to a group gathering in a designated area.",概念合成-行为,23;26;27
+29,"I think the next thing I can do is to take their peers, as a breakthrough, say they play cards. Then we can do some new innovations, like the Mahjong table he has that automatic Mahjong, chess, five-card draw.",概念合成-功能,28
+30,"A collection of game activities on different tables, such as a multifunctional table that has many entertainment items",概念合成-功能,29
+31,"They have a choice, so I say, ""I want to play cards, so I'll play cards"".",概念合成-行为,30
+32,"They might have some props, some systematic costumes, and then some fans on their hands can make an innovation out of some of their props.",概念合成-结构,24
+33,"When two team members dance in the square, and then some fans in their hands interact, there are some special effects.",概念合成-行为,32
+34,Most of the above are some innovative ideas related to the elderly.,基于功能的先例,3;22
+35,"And then I can think of some things now. middle-aged people they might have some more or less, they might have some problems with their bodies, and then they might have, say, high blood sugar and things like that, and then they need to go to their own regular health monitoring.",基于行为的先例,34
+36,"My grandmother used to, she used to, she used to record her blood sugar with that blood sugar monitor, and then she would record it with that pen and paper and give it to him.",基于行为的先例,35
+37,"For example, she can automatically record her blood sugar, and based on the software, the data is synchronized to her kids' devices, so they can easily see it.",概念合成-功能,36
+38,"There are some more obvious exceptions, and a prompt to automatically dial their phone is performed.",概念合成-功能,37
+39,"I just had some ideas about the health side of things, from a companion perspective, talking to family members, talking to people, and so on.",概念合成-功能,35
+40,"The app has one expression, which you choose one expression every day and record it to represent your mood for the day.",概念合成-行为,39
+41,I want to hang a calendar that shows something that is more convenient to see. Some of the mood or state of the elderly.,基于结构的评估,12
+42,"My grandfather, he likes his laduhu as a hobby, he knows a lot of people who are old college.",基于功能的先例,41
+43,"I think it's something like a radio recorder, teaching these middle-aged people a play, a dihu, some of the lessons that can be played on the radio.",概念合成-功能,42
+44,My grandfather bought that and that and needed to go there himself. He needed to download some accompaniment or other songs and he couldn't get it himself.,基于行为的先例,43
+45,"I thought I could do something, too, and make a robot that teaches through voice.",概念合成-功能,44
+46,"Because our young people are likely to learn more online, they say that the information on the internet is more complex, and then they will inevitably spend more time to understand that information, which will require a high learning cost.",基于功能的评估,45
+47,"I think again, if someone writes today in a bad mood, he might go straight to his child to continue.",概念合成-行为,13
+48,"Because many elderly people, when they are sick, sometimes they prefer to stay put, not to worry about their children.",基于功能的先例,47
+49,It can be a control through the child. It can be a control through the child. It can be a control through the child. It can be a control through the child.,概念合成-行为,48
+50,"The second accompaniment is the bird, which sings or broadcasts messages while the elderly are drinking tea or playing cards.",概念合成-功能,19
+51,The third word is their shared entertainment and social aspects. You can take one of theirs.,基于行为的分析,22
+52,"And the voice feels that it can also be used in that simple way of touching, and now the elderly are being told to do some simple things, and they can also accept that.",概念合成-结构,51
+53,"The most obvious classification, then the larger words, then the way they are combined with the images; this will allow them to find the information they want faster.",概念合成-结构,52
+54,"I think it's better to add one voice, but it's better to add one voice, considering there are some older people who may have old eyes and so on.",概念合成-功能,53
+55,"The patient, for example, says he has to take three pills, then he has two left, then he doesn't eat when, etc. to perform an intelligent reminder.",概念合成-功能,54
+56,"And then I thought, well, this could be integrated with a smart medicine box.",基于功能的分析,55
+57,I think the blood glucose meter can also be used to take some of the drugs that lower blood sugar.,概念合成-结构,56
+58,"When it comes to blood sugar, for example, middle-aged people say they need to have a regular check-up, for example, if they have high blood sugar, and then sometimes children say they may be too busy to work, forget or not have time to go.",基于行为的先例,57
+59,I think we're doing some blood sugar monitoring with watches now.,概念合成-功能,58
+60,"The watch can be used as a material or a formulation. It does not need to be a complementary function. It can be improved into a bracelet, but it has a monitor inside. Monitoring is one of the functions of your character, but the bracelet is something that fits the preferences of the elderly, one of their habits, so that they are happy to carry something with them.",概念合成-结构,9;59
+61,The user can add a small function such as location.,概念合成-功能,60
+62,I think that this is something that can make the family feel a little more comfortable. I think that this is something that can help me to get my family to feel a little more comfortable.,基于功能的评估,61

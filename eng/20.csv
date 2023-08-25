@@ -1,0 +1,77 @@
+节点编号,原文,设计行为,源节点
+1,I'm going to start by thinking about what the existing product might look like.,基于功能的分析,0
+2,"My first reaction might be to think of the Apple Watch shape, the little schoolboy sound.",基于功能的先例,1
+3,"Similar to this, it may be considered a voice assistant in the broad sense, but may not be a robot category.",基于功能的评估,2
+4,I wonder what the needs of middle-aged people will be.,基于功能的分析,1;3
+5,"The only thing that can be done is to get the person to talk to him, which is something that any current intelligent agent can do.",基于功能的先例,4
+6,"The second thing you might do is set up reminders, take medication, or remember something that you forget easily, the feeling of forgetting.",基于功能的先例,4
+7,"And then you might need to have some features, like some encyclopedia in life.",基于功能的先例,4
+8,"Or the solution to a problem, because middle-aged people may have some problems that are out of date.",基于功能的先例,4
+9,And then there's probably a feeling of senior college on top of that.,基于功能的评估,8
+10,And then the conversation might be a little bit more like this.,基于功能的评估,5;9
+11,"The chat may be more about addressing spiritual needs, sending time and so on.",基于功能的评估,5;10
+12,"Some may be widowed or single, with children who are not around often and need to talk.",基于行为的先例,11
+13,"And if you're not in good health, you may need some help with your life.",基于功能的先例,4
+14,"For example, as a crutch.",概念合成-结构,13
+15,And then as a navigation for the trip,基于功能的分析,14
+16,"If you're going out, I think it should be a little bit more prominent, which is a little bit strange.",基于结构的分析,14;15
+17,"Or it can take many forms, one at home, one outdoors.",基于结构的分析,16
+18,I was wondering if I could offer some more life support.,基于功能的分析,4
+19,"I'll start by sorting out the big points, chat reminders and encyclopedias, which are actually life-help. I'll list some more points and summarize them, otherwise I'd like a framework now, summarize a little too little, summarize not so much.",基于功能的评估,5;6;18
+20,"I'm just wondering if, in terms of functional and structural behavior, innovation is really going to be able to meet some of the needs of fitness.",基于功能的分析,4
+21,Because middle-aged people may prefer square dancing.,基于行为的先例,20
+22,I'm not sure if I can do that.,概念合成-行为,21
+23,Or maybe there's some kind of intelligence in there that can play chess with middle-aged people.,概念合成-行为,20
+24,"I'm a cook, but I think middle-aged people should be taught to cook.",基于行为的先例,20
+25,And there are some healthy tests.,基于功能的分析,20
+26,"For example, let the elderly do some actions, and then the robot will use feedback to decide whether it needs to see a doctor or what.",基于行为的分析,25
+27,"And then think about the health-related aspects of companionship, like providing some sleep testing, and then you're going to have to do a lot of sleep testing.",基于功能的分析,25
+28,"The alarm is triggered by pressing a button, as if the current product is already there.",基于功能的分析,4;25
+29,"And that's pretty much what it does in terms of feeling healthy, if you innovate in terms of function.",基于功能的评估,28
+30,Or it's a bit of a pushing role.,基于功能的分析,20;29
+31,It can encourage the elderly to go outside and exercise when their children are not around,基于功能的分析,30
+32,A person may be reluctant to go out.,基于行为的先例,31
+33,I think it's important that we all play a role in encouraging them to be able to exercise regularly and be healthy without being encouraged.,概念合成-行为,4;30;32
+34,"Is it possible to innovate in behavior structure, to help with some of the chores, etc.?",基于行为的分析,4;20;33
+35,It's a combination of a robot sweeper and other products.,基于结构的分析,34
+36,Or it's the kind of structure that can be separated.,基于结构的分析,35
+37,"For example, the base of the robot may be a smaller robot that sweeps the ground.",概念合成-结构,36
+38,"The separation can be done if necessary, and a robot can be sent to clean up the area once.",概念合成-结构,37
+39,Maybe I wondered if it would have some game-like capability to make the elderly as happy as possible and keep their bodies healthy.,基于功能的分析,4;29;34;38
+40,And I'm not really feeling like a feelingless robot.,基于功能的评估,39
+41,The project is a way of making life more interesting for older people.,基于功能的评估,40
+42,It's possible to put some tasks or some games in the form of a game to make their lives more interesting.,基于功能的分析,41
+43,"The only thing that's going to be possible for a while is maybe some connection and communication with your children, and maybe some kind of a relationship with your parents.",基于功能的分析,4;34
+44,"For example, if he can give some data to his children, this product should be available.",基于功能的分析,43
+45,"And then some of the classifications, say some of the mediums that they need, like the speech aspect might be one, two, three, mostly one, two, three.",基于行为的分析,6;7;44
+46,"If it's something physical, it could be 4, 5, 7, 11.",基于行为的分析,14;20;25;34;45
+47,"It's a little hard to play chess, and it's actually possible without the physical part.",基于行为的评估,23
+48,"Health testing, health testing difficulties can involve some physical aspects of things.",基于功能的评估,25;46;48
+49,Sleep detection may require some wearable device to support it,基于结构的分析,27;48
+50,"And then look at the input and output, and the input is actually mostly some of the voice and behavioral data of the elderly.",基于行为的分析,0
+51,"The output may have, say, a voice segment as a notification, and then there may be some physical behavior.",基于行为的分析,44;45;50
+52,"Visual notifications, because some things are not intuitive enough to be written or spoken, may be more intuitive to be expressed with images.",基于行为的评估,51
+53,"Option one, it feels hard to write this companion robot, but maybe the first option is a scenario that might be remote, without considering the outdoors.",基于行为的分析,0
+54,"If it's a home scene, I think the form can be a little bit more human-like, mainly to meet some of the needs that are underneath the home scene.",基于结构的分析,53
+55,"Its base, or rather the whole shape, is somewhat like that of a puppet, but its base is a more like a robot-sweeper.",概念合成-结构,54
+56,"The word ""popular"" is probably more appropriate at home.",基于结构的分析,55
+57,And the older people are actually more realistic about what's more like something.,基于结构的分析,56
+58,"If it's just a form of something that's cold, it might not have that kind of emotional accompaniment.",基于结构的评估,57
+59,"It has some possibly humanoid structures, and older people are also able to interact with it more easily.",基于结构的评估,55;56;57;58
+60,"It can be used to teach older people to do things like exercise or health monitoring, and it can be used to teach older people to do things like that in a human way.",概念合成-行为,59
+61,"Or, you know, I feel like it's designed to look a little bit like a child, so it's kind of scary.",基于结构的评估,59
+62,"Option two, maybe I'll consider a healthcare companion robot for middle-aged people who might be outdoors, and I feel like I'm still in the home scene.",基于功能的分析,0;25;61
+63,"Maybe option two, I think it's more about health.",基于功能的分析,62
+64,"Because option one is probably more geared towards a life-support robot that's all-powerful, and maybe not as prominent in terms of health.",基于功能的评估,54;63
+65,"If it's going to be something more prominent in health, I feel it will require some integration of existing medical equipment.",概念合成-功能,64
+66,"And then there are things like blood pressure, blood pressure readings.",基于功能的先例,65
+67,"There may be some other physical examination instruments that are currently being used, and if they can be combined into a robot form, it's possible that they could be used to test the body.",概念合成-结构,66
+68,"It can do some physical examinations, or health tests, quickly with a robot like this.",概念合成-功能,67
+69,"I'm not sure what this format is supposed to be, because now the physical exam is probably still a person-based exam, and there's not a lot of equipment.",基于结构的分析,68
+70,Some devices are hard to fit into the size of a robot.,基于结构的评估,69
+71,"The last option, if you think about it, is the big white shape, which is the same as the white shape.",概念合成-结构,0
+72,"Because it feels like the elderly person is probably sitting a lot of the time, and he's sitting in this position and he's most exposed to the chair and the sofa.",基于行为的分析,71
+73,"And he's able to do something like this, and he's able to make it feel like he's wrapped up in it every time, and it's very healing.",概念合成-结构,72
+74,"I've seen a lot of these, a lot of these larger devices at design shows, and there's a feeling that you can't help but lie in.",基于结构的先例,73
+75,"Maybe if he was in a more relaxed state, which is the robot, the total area of contact would be bigger.",基于结构的分析,74
+76,And it's also easier to capture some of his physiological data.,概念合成-功能,75

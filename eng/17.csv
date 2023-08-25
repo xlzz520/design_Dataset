@@ -1,0 +1,58 @@
+节点编号,原文,设计行为,源节点
+1,"The first feature should be more interesting, but the second is not.",基于功能的分析,0
+2,The elderly are more likely to be affected by the disease.,基于功能的分析,1
+3,"The design is human-like in appearance but to prevent the Valley of Terror effect, the humanity is not too high, it is a nice thing to do.",基于结构的分析,2
+4,Interface design and interaction: Interfaces can't be too complicated,基于行为的分析,3
+5,"Otherwise, it is more difficult for the elderly to use and there is a higher cognitive load.",基于行为的评估,4
+6,The most intuitive and efficient way to do this is to use the most effective layout possible.,概念合成-行为,5
+7,The interaction can also be done using more natural voice interaction.,概念合成-行为,4;5;6
+8,"Option two, the apparently different, can be done animalistically.",基于结构的分析,0
+9,"And then you have a little animal, and you do something cute.",概念合成-结构,3;8
+10,Perhaps older people will be more accepting.,基于结构的评估,9
+11,This is a habit that people may have to consider in their behavior.,基于行为的分析,10
+12,"For example, if this is a situation where you have some privacy, it's like the elderly have some privacy, like, what do you want to take off your clothes?",基于行为的先例,11
+13,"The robot is probably carrying a camera, but it's not a robot.",基于行为的分析,12
+14,"It can be automatic, or it can be a turn on.",概念合成-行为,13
+15,The only thing that I can say is that this is the kind of behavior that is more consistent with the habits of people.,基于行为的评估,11;14
+16,"This is the interaction, the consideration of his limb movement.",基于行为的评估,14;15
+17,"And then this interface interaction should be the same, which is to interact with this natural",基于行为的分析,7;8
+18,It's also a multi-channel interaction.,基于行为的分析,17
+19,"For example, the voice and gesture sets.",基于行为的评估,18
+20,The main thing is to interact with the voice.,概念合成-行为,19
+21,The size of the bag should not be too big.,基于结构的分析,8
+22,I'm going to put it on the table and let it go.,概念合成-结构,21
+23,"But yes, but if it's possible, this would allow him to walk this would be better.",基于行为的分析,22
+24,He can move around the room.,概念合成-行为,23
+25,The first is the ability to use a machine that can stretch and accommodate a person.,概念合成-结构,24
+26,"I can help the elderly with something, like a water bottle, a remote control or something.",概念合成-行为,25
+27,The project is being implemented in the form of a new project.,基于结构的评估,24;25;26
+28,"And the third one, the third one, it can look less human.",基于结构的分析,0
+29,It may be a little bit of science fiction.,基于结构的分析,28
+30,He may not be particularly human.,基于结构的分析,29
+31,"It looks like a device, but it also has an interface.",概念合成-结构,28;29;30
+32,"He is a big screen, and he can sit on it. He may have two eyes, but he doesn't have to have five senses.",概念合成-结构,31
+33,"He is also a very sensitive person, and he may have this reaction in his eyes when he interacts with people.",概念合成-行为,32
+34,He may have a different expression when he listens to the elderly man.,概念合成-行为,33;32
+35,"He's listening to the old man talking, and his facial expressions will give him a hint when he thinks.",概念合成-行为,34
+36,The old man is in a different state.,概念合成-行为,35
+37,"The transparency will be a little higher, the older people may be in the operation; it may be easier to understand.",基于行为的评估,31;36
+38,"Then the color, you can also consider, because the old people, it is used to accompany, is it possible to color slightly, not necessarily just some black and white gray, this experience what a technological feeling.",基于结构的分析,29
+39,It can also be a little more colourful.,概念合成-结构,38
+40,The color of the flowers is very bright.,基于结构的评估,39
+41,"The structure, it's like that. He doesn't have to walk like a human.",基于结构的分析,28
+42,"He may be primarily a sweeper robot, he may be the wheel master.",基于结构的先例,41
+43,"He said that the scenes are not particularly complicated at home, and that they are usually flat, so it may not be necessary to be like a human.",基于结构的先例,42
+44,The structure that walks is also more expensive.,基于结构的评估,43
+45,"This structure of his daily movements, given the use of this situation and the needs of the elderly, is probably one of those wheels below.",概念合成-结构,44
+46,"Then you might encounter something like a carpet, which might be raised a little bit when it's higher.",概念合成-结构,45
+47,"The simplest thing is that this structure, because the functionality itself is not particularly complex, is not a simple one.",基于结构的分析,46
+48,"He doesn't move around the house every day, and he doesn't say that the terrain is complicated, so he says something simple.",基于结构的评估,47
+49,"The second option, fixed placement, without exporting mobile?",概念合成-结构,8;24;48
+50,"The main function is to accompany, provide emotional value, entertainment and other rich life and spiritual world of the elderly",基于功能的分析,27
+51,"The third option is complementary, similar to a car, but with a retractable machine arm, such as a device that can be used to move the vehicle.",概念合成-结构,31;50
+52,"It's easy to grab and deliver things for the elderly, because the elderly are not well.",基于功能的评估,51
+53,"The new features include a second option, which can be considered a reminder feature.",基于功能的分析,8;52
+54,"For example, you can ask the robot where it has put the XX stuff.",概念合成-功能,53
+55,The elderly have poor memory.,基于行为的分析,54
+56,"I have a bad memory, but I also have bad legs.",基于行为的分析,52;55
+57,"If the robot has the corresponding functions, it will be better to solve the corresponding problems, mainly or more based on his needs and his demographic characteristics.",基于功能的评估,56

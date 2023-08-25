@@ -1,0 +1,52 @@
+节点编号,原文,设计行为,源节点
+1,"The users are middle-aged and older people? There are already a lot of products that are aging, if you want to do something new.",基于功能的分析,0
+2,"The reason for this is that there are already a lot of drugs on the market that don't have a lot of information about what they are, or what they are talking about.",基于功能的先例,1
+3,The first thing that comes to mind is probably the fitness aspect.,基于功能的分析,2
+4,"I'm not going to say that I'm not going to do it because a lot of young people are doing it now, and they're going to do it.",基于功能的先例,3
+5,"Some outdoor fitness facilities may be used when the weather is hot or cold. The elderly are not very comfortable and the elderly are not very comfortable to travel, so it may be a fitness robot",基于功能的分析,4
+6,"The functional module, first of all, needs to have a ≪timing ≫.",概念合成-功能,5
+7,"And then, the companion definitely needs one, a big screen.",概念合成-结构,5
+8,The video is also a great way to get a feel for the physical activity.,概念合成-功能,7
+9,The body is not too tired during exercise.,基于功能的评估,8
+10,"The whole product needs to be round and comfortable, so the impact is taken into account.",概念合成-结构,5
+11,The product is simple and easy to use for middle-aged and elderly people.,概念合成-结构,5
+12,"Then the size of the robot, I consider it a gym companion, the overall size, the proportional size ratio, is it close to the size of at least one landing fan?",概念合成-结构,5
+13,"The timer function can then be displayed on a rounded, circular screen.",概念合成-结构,6;7;10
+14,"Then it has some buttons that are relatively simple to operate. It is suitable for middle-aged and older people to use something easy to operate, such as starting a workout or ending a workout or taking a break.",概念合成-结构,11
+15,Then the voice module is definitely to be added. The elderly he may.,基于功能的分析,5
+16,Then the whole robot. It may be rounded on top. It may be conical on the bottom.,概念合成-结构,10
+17,The middle ⇒ adds one ⇒ tilted over ⇒ can place some ⇒ function buttons ⇒ screen buttons ⇒ visualization ⇒ movement visualization ⇒,概念合成-结构,16;8;14
+18,"You might think: ""There's a circle at the bottom, then there's a double layer, then there's a light inside, then there's a light that can appear"".",概念合成-结构,17
+19,The whole machine has a recognition function for the elderly. The exercise is a simple lifting exercise at home.,概念合成-功能,18
+20,"Then, some rehabilitation training can identify whether the action is standard and give a voice cue.",概念合成-行为,19;15
+21,"The entire product is displayed at the bottom of the screen with a corresponding display light, such as red for the current error, action error or alert situation.",概念合成-行为,20;18
+22,The elderly may fall at home during exercise. Or what?,基于功能的先例,21
+23,"Then the yellow light is a reminder that the action is not standard, and the green light is: ""The action comparison standard can continue"".",概念合成-行为,21
+24,"The second one is a little bit smaller, more convenient, and can be moved around.",基于结构的分析,0
+25,You may want to bring some. It's also the kind of slide that can be tightened up.,概念合成-结构,24
+26,"The to do list is a small word. It can be something like a to do list, then a physical version.",基于功能的先例,24
+27,The elderly person may have a memory problem. Then the to-do list should be able to resonate with the companion. Maybe he has something to do every day that the middle-aged person often forgets after doing it.,基于功能的分析,26
+28,"He can be placed on a table, about the size of a small fan on a table.",概念合成-结构,24
+29,And then it can have a screen projection function.,概念合成-功能,24
+30,Can be pasted onto the wall at an angle; can also be placed directly on the table,概念合成-结构,28
+31,The main thing I thought about is that it can be displayed on its screen and it can also show a to-do list of what to do and what not to do every day.,概念合成-功能,27;29
+32,"Then he reminds me: ""I have to take my medicine today, how many times do I have to take my medicine?""",概念合成-行为,31
+33,"He can connect with the house if there is some smart. Some furniture can be connected. For example, the windows are not closed.",概念合成-功能,32
+34,The design of the whole product is then more concise.,概念合成-结构,24
+35,"The third product is the ""If in an outdoor scene"".",基于功能的分析,0
+36,"It may be similar to a.small one, which can.hold with both hands. It can also be worn on one's hand. But he.will have one.holding.In and out more.",概念合成-结构,35
+37,"In the outdoors, the first thing that comes to mind is the possibility of hot weather.",基于功能的分析,35
+38,"When it's hot, wind blows.",概念合成-功能,37
+39,"Then in winter, the heating module is disconnected.",概念合成-功能,38
+40,The hardware. ⇒ He compares. ⇒ He can hold it in his hand.,概念合成-结构,36
+41,"The software angle, function may be │software angle│exit│ to perform a navigation function.",概念合成-功能,36
+42,"The one that comes out on the wristband is similar to the one on the bus, where you stand at the back door and there is a handle. The handle is the one that you just held.",概念合成-结构,36
+43,"It can be configured with a box called a card button, which can be opened and the box can be put in.",概念合成-结构,42
+44,"Then, charging mode, as usual, like wearing a charger.",基于功能的先例,36
+45,Temperature controller. Can you use it? I forgot what it's called. Electronic room temperature controller is a temperature controller. Wear a bracelet.,基于功能的先例,39
+46,This box is also a good choice. An inverted design with hand rings can be made of aluminum.,概念合成-结构,42;43
+47,Some of the smart functions are: ◎ navigation ◎ and ◎ that can actually be added to the voice ◎ function.,概念合成-功能,41
+48,"I'm not sure if it's real, though.",基于功能的评估,47
+49,"The first thing that you can do is add a small screen, a small screen, a small screen, and then you have a to-do list.",概念合成-功能,26;47
+50,"The first thing that happens is that the voice is not the same as the other voice, but it is the same as the voice.",概念合成-行为,49
+51,"If the setting is silent when outdoors may be less convenient, then the vibration mode is a warning.",基于行为的评估,50

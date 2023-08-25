@@ -1,0 +1,35 @@
+节点编号,原文,设计行为,源节点
+1,I think about the needs of middle-aged people and then I look at their behavior and what they need most.,基于功能的分析,0
+2,"Health information may be available, a record of daily physiological data is then analyzed for any abnormal body markers, abnormal index of deviation.",基于功能的先例,1
+3,Accompanying may be chatting. Ai chat features will play the role of children. It is best to simulate the voice of the child and collect enough data.,基于功能的先例,2
+4,"The middle-aged people will definitely have some learning needs, self-improvement needs.",基于功能的分析,1
+5,"For example, teaching, writing in pencil, or dancing.",概念合成-功能,4
+6,The robot is a mobile robot that can be used as a tutor.,概念合成-结构,5
+7,The most important thing is definitely health. Health can be a daily monitoring.,基于功能的分析,1
+8,"For example, the daily recipe, if the elderly person is not willing to buy the dishes themselves.",概念合成-功能,8
+9,"The main thing is to help him with his daily physical health, dietary health. If there is a chronic disease, it can be analyzed and monitored.",概念合成-功能,9
+10,"The project is a collaboration between the two companies, which has been developing a new technology for the development of mobile robots.",概念合成-结构,0
+11,"I'm going to innovate a little bit more, robots.",基于结构的评估,10
+12,It could be a desktop product.,概念合成-结构,11
+13,What special activities do middle-aged people use?,基于行为的分析,1
+14,"There may be some recreational functions, exercise of the muscles of the hands.",基于功能的先例,13
+15,"Chat while exercising, interact with feedback bots like facial expressions",概念合成-行为,14
+16,We can also have wearables.,概念合成-结构,11
+17,Interactive toy robots with multiple modules,概念合成-结构,11
+18,Wearable devices can record physiological data and take it out,概念合成-功能,16
+19,The project is aimed at people with special chronic conditions.,基于功能的评估,17
+20,The mobile home robot could be an electronic pet with companion functions,概念合成-功能,10
+21,The technology is more innovative than the one you can carry around.,概念合成-结构,20
+22,"Desktop products can have intelligent voice-activated interactions, such as cooking, getting up, sleeping, square dancing, and playing a companion role.",概念合成-功能,12
+23,Reminds the elderly of their daily routine,概念合成-功能,22
+24,"The elderly may need to be accompanied by family members to the hospital, and there may be some family doctors in their daily lives.",基于功能的先例,1
+25,"The same goes for the need for a remote doctor, medication, check-ups, etc.",基于功能的先例,24
+26,"The AI chat can tell your child about key information recorded in the chat, such as what they've been up to lately, what problems they have, what interests they have, what they want to eat.",概念合成-功能,25
+27,Older People Have Social Needs,基于功能的分析,1
+28,"The robot pairs with other people and accompanies them on their walks. They eat, walk, play chess, exercise, and pet the dog.",概念合成-功能,27
+29,"Robots can arrange for travel planning, navigation, security, real-time positioning, and assist with social activities",概念合成-功能,28
+30,"First, a portable robot, perhaps an electronic dog, that requires some technological innovation.",基于结构的分析,10
+31,But many people feel that it is not acceptable.,基于结构的评估,30
+32,"The sensors can record health information, recording various indicators such as heart rate, oral health, etc.",概念合成-功能,30
+33,Desktop products can be paired with smart security,概念合成-功能,29
+34,"Online guidance, informing family when outdoor activities are available",概念合成-功能,16

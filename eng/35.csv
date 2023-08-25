@@ -1,0 +1,65 @@
+节点编号,原文,设计行为,源节点
+1,"The first is a healthcare robot, which has to have some kind of health and safety monitoring function, and the second is a healthcare robot.",基于功能的分析,0
+2,"And then through some interactive software, you can then be able to broadcast in real time to your loved ones, including your children.",基于行为的分析,1
+3,"And I think that the most important thing is to think about the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of the surveillance, the frequency of",基于行为的分析,2
+4,"And then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the problem of the elderly, and then there's the",基于功能的先例,3
+5,I feel that the product I designed is primarily about solving the problem of caring for the disabled.,基于功能的分析,4
+6,"And then? The feature point, the feature point is first of all, you need to have audio-video phone interaction.",概念合成-功能,5
+7,The study also found that the use of the drug in the elderly can reduce insomnia and anxiety.,概念合成-功能,5
+8,"The system will also include automatic monitoring alarms for heart rate, respiratory and respiratory abnormalities.",概念合成-功能,5
+9,"For example, there may be some text files here, which can be connected through some software.",概念合成-行为,8
+10,"For example, if you notice that your family's heart rate is rapidly rising to 150 at a certain time, such as 7:20 a.m., please pay attention.",概念合成-行为,9
+11,"It may also include some common scenarios such as elderly people, some self-discomfort, and some need for fall alarms.",基于功能的先例,8
+12,"If you fall abnormally, I call you ‧ leave the window‧ one item ‧ one tenth ‧ not picked up ‧ a little bit automatic ‧ automatic rescue ‧ automatic rescue function ‧",概念合成-功能,11
+13,The first word may need to be supplemented to be able to do the usual daily care and attention.,概念合成-功能,5
+14,"The second word. as a companion robot, maybe the first one is to be a companion in terms of health, and then the second one I think might be to be a companion in some of my own leisure activities, but I think it's a little bit more complicated than that.",基于功能的分析,0;1
+15,"So it would have to have some kind of application, like something that's common now, like some cell phone or some tablet.",概念合成-功能,14
+16,"And then it can also do some of the other things like take care of the video, and so on and so forth.",概念合成-功能,15
+17,"In addition to this leisure function, he will also bring some video entertainment, some exclusive to his care, remember for me.",概念合成-功能,16
+18,"He may have his own hobbies, like the old man now, including chess, writing perhaps.",基于功能的先例,17
+19,"He will be a robot like AI, in addition to health companions, then there are some companions on top of the needs in some aspects of leisure entertainment, including chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess, chess,",概念合成-功能,18
+20,"The third word, perhaps, is a question of some health issues, such as old age.",基于功能的分析,0
+21,"And then there are more elderly people, and then as they get older, there are more cardiovascular problems, like some strokes or cerebral palsy, and then there are more people who have a lot of problems with their brain.",基于功能的先例,20
+22,He may need medical attention for a brain tumor or a head injury.,概念合成-功能,21
+23,There may be some stimulators on the market today.,基于功能的先例,22
+24,I feel like I can combine this with a healthy companion robot.,基于功能的分析,23
+25,"Yes, and then the other elderly person may have a greater sleep and a greater problem with healthy sleep. He may have some anxiety, insomnia or depression, etc.",基于功能的先例,20
+26,"We're going to do a design that's specific to these issues, and then we're going to do a design that's specific to those issues.",基于功能的分析,25;21
+27,"It may be a form or structure, it may be more of a stimulus like a headband.",概念合成-结构,26
+28,The brain is a tool for stimulating health.,概念合成-功能,27
+29,"To address the brain health issues of older adults, a complex functional integration is done in combination with some specific conditions that may be present, such as neurological, or dementia, stroke, cerebral palsy.",基于功能的分析,21
+30,"The second one might be some of your own psychology, the first one might be physical, the second one might be psychological, insomnia, anxiety, depression, and the third one might be psychological.",基于功能的分析,25
+31,And then we're going to go to the brain and we're going to do a brain-stimulating device.,概念合成-功能,29;30
+32,"It is probably more of a head-wear, like a therapy hat.",概念合成-结构,31
+33,"And he's probably going to have a lot of holes in his brain, and then he's probably going to need an MRI.",基于结构的分析,32
+34,"The head is then used to hold the head, which is then used to hold the head in place, including a head like a magnetic head, to direct the head to the hole.",概念合成-行为,33
+35,"The most common symptoms of depression are: sleeplessness, anxiety, depression, etc. Some voice help may be needed, but the most common symptoms are:",概念合成-功能,31
+36,"The reason is that now it is sound therapy, it is also a better means and way to treat the pain.",基于功能的评估,35
+37,"And then it might have some headphones, because it's headphone-based, and we can go and combine some of the headphone aspects to design it.",基于功能的分析,36
+38,"And then you could have some magnetic fields around it, and then you could make a multi-unit therapy hat like this, and then you could have a multi-unit therapy hat, and then you could have a multi-unit therapy hat, and then you could have a multi-unit therapy hat, and then you could have a multi-unit therapy hat, and then you could have a multi-unit therapy hat, and then you could have a multi-unit therapy hat, and then you could have a multi-unit therapy hat, and then you could have a multi-unit therapy hat, and then you could have a multi-unit therapy hat.",概念合成-功能,37
+39,"And then the other thing is the headgear, because everyone's headgear is different, and then we're going to do something that's designed specifically for older people.",基于结构的分析,38
+40,The first thing you need to do is make it easy to adjust.,概念合成-行为,39
+41,The second is ease of use.,概念合成-行为,39
+42,The third is that it's more stable.,概念合成-行为,39
+43,"And that's one of the features of it, and then you combine those to make it a healing magnetometer that you can wear on your head.",基于功能的评估,40;41;42
+44,"The treatment is then done by pointing different magnetic head holes at the head, and also includes a triangular surround magnetic field setting, lightweight, easy to adjust, to suit different head surfaces",基于功能的评估,43
+45,"The fourth word, the word that accompanies the robot, is that as an elderly person he may be relatively lonely, but he is not alone.",基于功能的先例,0
+46,"Then we can use some of the features and technologies that are more common now, and then we can make one that is probably more common now, like being able to tell stories or being able to have intelligent conversations.",基于行为的分析,45
+47,"Now, some of the technologies that are available now in GPT are also capable of taking some of the requests you've just stated or things you want to do in real time, and it can do a lot of the answers, but it's not the only way to do it.",基于行为的先例,46
+48,And then we can combine some of these databases or some of these technologies and make robots like this.,基于功能的分析,47
+49,"And then maybe like an old person, he might have some confusion or inconvenience with the software.",基于行为的先例,48
+50,And then you can focus on some of the voice functions and do some design.,基于功能的分析,49
+51,"It's like a button play, then a smart question and answer, and so on.",概念合成-功能,50
+52,It could be in the form of a smart chatbot.,概念合成-结构,51
+53,"And if you're able to go out with the elderly, then his smart chat is probably more about some aspect of the elderly's mental health.",基于功能的分析,52
+54,"And as I mentioned earlier, he might be accompanying a robot, which would probably involve some kind of intimate connection, the first feature point is intimate connection.",概念合成-功能,53
+55,"If he is an old man with a cell phone, or if there is an inconvenience for him, I can use this companion robot to make a friendly connection with some of the apps like WeChat.",基于行为的先例,54
+56,The second feature will have some encyclopedia questions and answers.,概念合成-功能,53
+57,"And third, it's like having some kind of continuous dialogue feature.",概念合成-功能,53
+58,"Add a second, like some national language content, knowledge of different disciplines.",概念合成-功能,56
+59,The fourth is some poetic stories.,概念合成-功能,53
+60,This is the intelligent chatbot.,基于功能的评估,59;57;58;54
+61,"The robot health and safety guard needs a few things added here, like some elderly person, whose memory might not be very good, he might forget to take his medicine, he might forget to take his medicine, he might forget to take his medicine, he might forget to take his medicine, he might forget to take his medicine, he might forget to take his medicine, he might forget to take his medicine, he might forget to take his medicine, he might forget to take his medicine, he might forget to take his medicine, he might not remember to take his medicine, he might not remember to take his medicine, he might not remember to take his medicine, he might not remember to take his medicine, he might not remember to take his medicine, he might not remember to take his medicine, he might not remember to take his medicine, he might not remember to take his medicine, he might not take his medicine, he might not take his medicine, he might not take his",基于行为的先例,60
+62,"And then this needs to be a reminder, a reminder of the medicine.",概念合成-功能,61
+63,"Mainly to help the elderly to help remind the elderly in time, to seek a doctor's prescription in time to take medication, to avoid forgetting, to prevent adverse health effects",基于功能的评估,62
+64,"Additionally, the third continuous dialogue feature combines chat GPT technology to integrate knowledge from different fields.",概念合成-功能,57

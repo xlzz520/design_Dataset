@@ -1,0 +1,75 @@
+节点编号,原文,设计行为,源节点
+1,"I'm going to break it down after I get this, and in this case, he gives me a limited population, first of all, his age range is middle-aged people.",基于功能的分析,0
+2,The average person is at a different age and the average person is not at the same level of health.,基于功能的分析,1
+3,The study also found that the number of older people living alone in the United States is increasing.,基于功能的分析,2
+4,"If the elderly person lives alone, he lives alone, the child is not around, he has no children. Then the function of this thing may need a little more.",基于功能的先例,3
+5,"If you're the kind of family that has kids visiting on the weekends, this companion function might be a little less, and then focus on an interactive and connected function.",基于功能的先例,3
+6,"If it is a fully ─ a fully, partially or completely disabled middle-aged person ─ his robot may be more of a chat-unfollowing function.",基于功能的先例,3
+7,The first thing we're going to do is break down the three categories of people.,基于功能的分析,4;5;6
+8,The first category is healthy older people who are not widows,基于功能的分析,5
+9,"Then the second group, we gave him a healthy, single old woman.",基于功能的分析,4
+10,The third category of people we gave him was a middle-aged man who was partially disabled.,基于功能的分析,6
+11,"And then you have the target population, and the next step is to develop a function of it based on his health status, and it's two types, and the first is the function of the target population, and the second is the function of the target population.",基于功能的分析,8;9;10
+12,The first type is healthy.,基于功能的分析,11
+13,This is the part of the underlying chronic disease that can allow middle-aged people to have some.,基于行为的分析,12
+14,And then the second part is partial disability.,基于功能的分析,11
+15,"This part of the brain that's affected by this can be partly impaired in walking, or in limb movement, or in language communication.",基于行为的分析,14
+16,The first type of person is the one who is capable of living independently.,基于功能的分析,12
+17,The second part is for people who need partial care.,基于功能的分析,14
+18,The first category is those with children.,基于功能的分析,8
+19,The second group is the children-free.,基于功能的分析,9
+20,"The third category is that it doesn't matter to him if he has children, he needs to be looked after.",基于功能的分析,10
+21,So we can do a sorting combination of their functions.,基于功能的分析,18;19;20
+22,"When faced with the first type of person, we need to focus on a mutual interaction.",概念合成-功能,8;21;18
+23,It can build a communication network with family members.,概念合成-行为,22
+24,"If it's for the elderly today, this section may need to have a primary or a tier, what we call a tier one health care or a seeking function.",概念合成-功能,23
+25,"If it is the future of the elderly, then our generation is becoming the elderly.",基于功能的分析,24
+26,He may need his entertainment function more or its video game function may be a little more important.,概念合成-功能,25
+27,The report also highlights the need for a special medical service for some people who have children.,基于功能的评估,18;26
+28,"He is also concerned about establishing effective communication, as he may not see his children for a while.",基于功能的分析,27
+29,The second category of words we say is the elderly single person. If he has no children. He may be more interested in creating one. Give him a simulation.,概念合成-功能,19;9;21
+30,Then there is the information browsing function and the community communication function.,概念合成-功能,29
+31,"And if we can build a form of home consultation, a community-integrated, door-to-door networking, we can do this.",概念合成-行为,30
+32,And the same shopping functionality is definitely there.,概念合成-功能,29
+33,"I personally understand that the third category of people is more about entertainment, relaxation and communication with caregivers.",概念合成-功能,20;10
+34,"This should be the basic function, much of it is fine.",基于功能的评估,33
+35,"And then when it comes to the design of the machine, the design of the machine, in general, we have two scenarios.",基于结构的分析,21
+36,The first is to be a real robot.,基于结构的分析,35
+37,"It has many advantages, but we're talking about the disadvantages, which is that it can prevent many people from using it, and it can prevent some people from wanting to use it.",基于结构的分析,36
+38,"Because we did a survey before, and there are a thousand different opinions about the actual robot.",基于结构的先例,37
+39,The other is a virtual robot that is now commonly used.,基于结构的分析,35
+40,It's more that it has a virtual interaction image of the subject.,基于结构的先例,39
+41,"If it is for the first group of healthy and lonely middle-aged people, I think it can be a robot in the form of an entity.",概念合成-结构,36;8
+42,We can do something similar to the addictive form of pet.,概念合成-结构,41
+43,It could be a four-group or a six-group robot.,概念合成-结构,42
+44,This is mainly due to his acceptance.,基于结构的分析,43
+45,"If it's going to be mass-produced in the future, the cost of this kind of thing should be very low.",基于结构的评估,44
+46,And then he better not have a really stupid big screen on his robot head.,概念合成-结构,43
+47,And then we interact in a conversation way.,概念合成-功能,46
+48,It has a screen projection function.,概念合成-功能,47
+49,"So when he doesn't need to search or ask for information or contact outside, he can just talk directly and then fulfill some of his functions.",概念合成-行为,47
+50,"So far, this kind of particularly fluid conversation is not working, but in about 10 to 15 years, it will be possible to have a particularly fluid conversation.",基于功能的评估,49
+51,"Then the height, in non-standing conditions, is about 60 centimeters.",概念合成-结构,43
+52,Users can use headphones or hardware to set their voice indoors,概念合成-行为,47
+53,The idea of the Internet of Things should be the basic idea.,基于功能的分析,52
+54,The idea is to make pet robots a point of contact for home hardware and monitoring devices.,概念合成-功能,42;54
+55,Color can be DIY,概念合成-结构,54
+56,The second type of person suggests both physical and virtual robots.,概念合成-结构,36;39;9
+57,"We have interviewed many of these elderly people before, and they prefer the home robot, half human, which he prefers to be a device similar to a fixed location.",基于结构的先例,56
+58,"They'd rather have a box shape, and a cylinder shape.",基于结构的先例,57
+59,They want more of a voice-to-speech terminal.,基于功能的先例,58
+60,"This means that he can communicate when he is bored, and when needed, he can play the role of a rescue and outreach.",基于功能的先例,59
+61,So we can design a decorative device that can be placed in any corner of the home without connecting the monitor.,概念合成-结构,56;57
+62,"This is the best way to say that if you don't look closely, the hardware device is best suited to blend in with the home layout around it.",基于结构的分析,61
+63,The other is that it can be connected via a cell phone or other mobile device.,概念合成-功能,56;59
+64,The video is also available on YouTube and YouTube.,概念合成-结构,63
+65,"He's really not good at this virtual image, and after researching a lot of people before, he doesn't have a consistent claim to this thing.",基于结构的评估,64
+66,"This type of person is very strange, this type of person, this type of person without children, he is especially numerous in China. Although the official does not have an exact number, we interviewed at least 300 people at the time.",基于功能的先例,65
+67,Then they have a very obvious choice: he is willing to accept something fresh; he is more serious about rejecting something warm or interesting.,基于行为的先例,66
+68,The best way to design for this type of person is to use what we often call a frozen style or a machine style.,基于结构的分析,67
+69,"The product is not to be taken out of his life, especially in his living environment.",基于结构的评估,68
+70,"Then its virtual image, if they want to use it, is something they can set up themselves.",概念合成-行为,64
+71,"The third is basically because he can't eat or move normally. It's more like he needs a switch, this time a mobile terminal, and then give him a virtual robot that can fulfill his switch function.",概念合成-结构,10;39
+72,"My understanding of a companion is that when he needs it, he can go directly to the person who is getting the communication, interaction or help.",基于行为的分析,71
+73,"And then there's the kind of person who needs a bed, and now basically, it shows that his entertainment equipment is all over the bed.",概念合成-行为,72
+74,He might be able to use something more convenient.,基于行为的评估,73

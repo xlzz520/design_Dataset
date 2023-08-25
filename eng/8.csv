@@ -1,0 +1,48 @@
+节点编号,原文,设计行为,源节点
+1,The middle-aged and elderly may be a more critical point.,基于功能的分析,0
+2,The report also highlights the lack of quality services and healthcare.,基于功能的先例,1
+3,The need for... monitoring of health... psychological dredging...,基于功能的分析,2
+4,What are the health conditions of the elderly? What kind of objects or people will they be in contact with?,基于功能的先例,1
+5,"We define the empty nest as ""the old man who is able to move"".",基于功能的分析,4
+6,The old people now if they play cards. It's mainly Mahjong!,基于功能的先例,5
+7,"Based on the outer extension of the slot machine, we can expand to potentially integrated game physical machines.",概念合成-功能,6
+8,But focus on their health. Older people may forget the time when playing mahjong.,基于功能的分析,7
+9,Is it healthy? Design output? Outdoor? Health goes with solar energy? Energy and profitability?,基于结构的分析,0
+10,Robot it is a word for process. It means standing. It means a direction.,概念合成-结构,9
+11,But it doesn't look that attractive.,基于结构的评估,10
+12,"I think the main difference is that in terms of the environment, he can be outdoors.",基于功能的分析,9
+13,"The game of Mahjong or chess or something like that is supposed to be a long sitting, but does affect the body and mind.",基于行为的评估,6
+14,Going outdoors.  Being able to play this game to attract him to do some sport.,概念合成-功能,12;13
+15,The engine is a stepping-stone generator.,概念合成-功能,14
+16,The device also has a built-in voice assistant.,概念合成-功能,8
+17,"So, for example, the average lottery has a box full of money.",基于结构的先例,16
+18,The oldest person can set up a reminder for themselves.,概念合成-功能,17
+19,Where does the gap stand? Is it a win-lose problem? Is it the feeling that someone is always with you when you win or lose? Create a psychological character.,概念合成-行为,16
+20,"What kind of machines will there be for customized companions, and our elderly will have a health monitoring situation",基于功能的分析,0
+21,The first is a hanging arm.,概念合成-结构,20
+22,"Say a PDA. For PDC, what is it called, you look at a device.",基于结构的先例,21
+23,"It is different from the existing one, which is the existing one. I go. Apple is the apple watch.",基于结构的先例,22
+24,"Otherwise, the device can have a larger volume. It can be implemented simultaneously.",基于功能的分析,23;20
+25,The various health monitoring functions are visualized. It takes a point to make the elderly feel his health data.,概念合成-行为,24
+26,"Then there are the visual problems, the sensations, and the lower level of manipulation in the elderly.",基于行为的分析,25
+27,Will VR be the form of teaching older people how to use this thing?,概念合成-行为,26
+28,Apple's devices are customized? Customized devices include detection devices.,概念合成-结构,23;24
+29,"It feels like making accessories for Apple. But, no, I can't say that I can.",基于结构的评估,28
+30,"One pain point that you want to achieve, and the existing pain point may be not being able to carry around and know your health status in real time.",基于功能的分析,0
+31,People are different. Detection modules are different.,基于功能的分析,30
+32,Can this thing add a function to read reports?,概念合成-功能,31
+33,The difference between the elderly in the nursing home and the elderly in the empty nest is that they have many friends.,基于功能的分析,0
+34,He wants to have a personalized healthcare companion robot in the nursing home,基于功能的分析,33
+35,The problem for the elderly is that. I am an elderly man who cannot grow a crop and wants to grow something.,基于功能的先例,0
+36,This brought me to a question. There was an old grandmother who asked me later about the plant by the road. What kind of plant did he ask me to scan with my phone?,基于功能的先例,35
+37,But it is important to make the elderly play smartphones.,基于功能的评估,36
+38,The hardware is equipped with a number of sensors.,概念合成-结构,35
+39,"The company has also been working on a new product called ""Smartphone"".",概念合成-结构,38
+40,The hardware is used to manipulate the planting posture.,概念合成-功能,38
+41,Record the time of planting,概念合成-功能,39
+42,The report also highlights the importance of the role of the media in the development of the country's economy.,概念合成-功能,39
+43,"If you are a vegetarian, then you are a vegetarian, and if you are a vegetarian, then you are a vegetarian.",概念合成-功能,38
+44,The sensor then records the plant's growth information!,概念合成-功能,38
+45,Customization accompanies him growing his own potted plant or having his own field; as a selling point for the nursing home.,基于功能的分析,44
+46,The old man in the nursing home who likes to plant grass.,基于功能的评估,45
+47,The health companion robot app can also be a rating system that records every wave of cabbage I plant.,概念合成-功能,41;44

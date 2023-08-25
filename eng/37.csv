@@ -1,0 +1,66 @@
+节点编号,原文,设计行为,源节点
+1,I may have to start by understanding some of the common diseases of middle-aged people.,基于功能的分析,0
+2,"There may be some chronic diseases that need long-term monitoring, and then some emerging diseases.",基于功能的先例,1
+3,Here I'm going to analyze how this robot is helping middle-aged people cope with their illnesses.,基于功能的分析,2
+4,"The most popular products are the Huawei bracelet, the Xiaomi bracelet and so on.",基于功能的先例,3
+5,So they're not robots either?,基于功能的评估,4
+6,"If the robot is a robot, can he carry it around?",基于行为的分析,5
+7,How can robots monitor the elderly if they can't be carried around?,基于行为的分析,6
+8,"Now there's this kind of infrared, this kind of ultraviolet, that you can use to monitor.",基于行为的先例,7
+9,I feel like some of the health products that are out there are just wearable.,基于结构的先例,8
+10,"It's a wearable robot, he says it's like a voice assistant for a cell phone, and it can also be thought of as a robot, not a physical robot, but a virtual robot.",基于结构的分析,9
+11,I'm confused about the actual robots.,基于结构的评估,10
+12,I think of robots as a kind of a big toy.,基于结构的先例,11
+13,What is the health mechanism if you can't carry it?,基于行为的评估,12;7
+14,"Maybe it's the same structure as a machine that measures high blood pressure, high lipids, weights.",基于结构的先例,13
+15,"When you want to use it, you can put your hand up, it can monitor you.",概念合成-行为,14
+16,The only way to do this is to use a functional scales monitoring mechanism.,基于行为的评估,15
+17,"It's like there's a smart wearable mirror, and I remember people looking directly at the mirror and doing things like that.",基于行为的先例,16;13
+18,The system also allows for monitoring using smart glasses.,概念合成-行为,17
+19,The first thing to do is to stand up or hold it with your hand.,概念合成-行为,18
+20,"I've never seen a product like this before, but I'm sure you'll find it very useful.",基于行为的评估,19
+21,"The first thing to do is to be able to move around easily, especially when talking about appearance.",基于结构的分析,20
+22,That's a wheel.,概念合成-结构,21
+23,Then the height can be adjusted.,概念合成-结构,22
+24,"And then the part that holds the handle, it must be compatible with the human machine, so that everyone is comfortable.",概念合成-结构,23;19
+25,"Otherwise, I have to bring a big screen!",概念合成-结构,24
+26,Set up a voice assistant,概念合成-结构,25
+27,"The hardware is a bit lame and I think about it so much, then I analyze the software.",基于结构的评估,26
+28,The main feature of the software is personalization,概念合成-功能,27
+29,"It's a simple way to tell what you're sick with, what you're taking, and then it reminds you to take your medication or get checked out.",概念合成-功能,28
+30,And then there's the health science.,概念合成-功能,27
+31,This feeling is common.,基于功能的评估,30
+32,"And then there are the measurements that are related to what the heart rate is, what the blood pressure is, and so on.",概念合成-功能,27
+33,"He needs a camera to measure, doesn't he?",基于功能的分析,32
+34,"In case something happens to his elderly family suddenly, he feels the risk and automatically sends a message to the emergency contact set up.",概念合成-行为,33
+35,It's like an apple bracelet that says you might fall and die in an accident.,基于行为的先例,34
+36,The health of the robot is a matter of humanity and care,基于功能的分析,27
+37,Set up a virtual voice image to chat with you,概念合成-功能,36
+38,"The first thing you need to do is to be able to interact with the other person, for example, if it's cold and reminds you to wear clothes.",概念合成-行为,37
+39,"Then you can add the function list, measure health indicators, virtual image interaction, and then remind people to take their medication, and so on.",基于功能的评估,37;29;32
+40,We're going to break down these functionalities into three.,基于功能的分析,39
+41,"The first thing that is going to be a big hit is a health monitoring system, a Huawei bracelet.",基于功能的分析,40;32
+42,The target population is middle-aged patients with chronic diseases who need a physical examination,基于功能的分析,41
+43,Is it possible to wear a patch with your body?,概念合成-结构,42
+44,"The robot then records the body's condition in real time, which can generate a daily, weekly health risk assessment report.",概念合成-行为,43
+45,The following is a list of the most commonly used indicators:,概念合成-行为,44
+46,"And then this looks like, it should be this little machine that's fixed somewhere, not moving around.",概念合成-结构,45
+47,The video shows a group of people who are trying to get a job in a small town.,概念合成-行为,46
+48,It can also be connected to a mobile phone remote control.,概念合成-行为,47
+49,"Option two, it's probably more like a talking robot, treating mental illness.",基于功能的分析,37;40
+50,I'm not sure how to say mental illness is a health condition.,基于功能的先例,49
+51,The children are being given some kind of humanitarian care when their friends are not around.,基于功能的分析,36
+52,This is definitely a voice feature.,概念合成-功能,51
+53,"I feel like the voice is not so reliable, not so smart.",基于功能的评估,52
+54,"The voice dialogue in my program can be accompanied by reading, chess, comic books, and tai chi.",概念合成-功能,53
+55,The main theme is to provide family-like companionship to users.,基于功能的分析,54
+56,The first is that the people of the country are not so happy with the way they look.,基于结构的分析,55
+57,"It would be round, maybe a bunch of curves, and of course a little bit of humanization.",概念合成-结构,56
+58,But it is not possible to be too human and avoid the Valley of Terror effect.,基于结构的评估,57
+59,And then the third word is the reminder function.,基于功能的分析,29;40
+60,"Alert on medication, health alert",概念合成-功能,59
+61,Now it seems that some smart medicine boxes already have these features.,基于功能的先例,60
+62,"It's like a smart medicine box, reminding you to take your medicine on time, avoid missing or overdosing.",概念合成-功能,61
+63,Timely alerts for potential exposure to high-risk environments,概念合成-功能,62
+64,Telemedicine and medical information,概念合成-功能,63
+65,"The word ""wearable"" is a word that can be used to describe a wearable device.",概念合成-结构,64

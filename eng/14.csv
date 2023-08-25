@@ -1,0 +1,93 @@
+节点编号,原文,设计行为,源节点
+1,"First of all, I think that the middle-aged and elderly are a very special group, and I think that they are the most vulnerable to the effects of the pandemic.",基于功能的分析,0
+2,"I'd think of a healthcare companion robot that could have two uses, one at home, and then another that might not be in a hospital or some other kind of retirement setting that might be used.",基于功能的先例,1
+3,"I'm going to go to the doctor and ask him if he can do a little bit of yoga, and then I'll think.",基于功能的分析,2
+4,"But since I probably don't know much about these things at the moment,",基于功能的评估,3
+5,So I'm going to start thinking about what functionality I can give him that he doesn't want on the market.,基于功能的分析,4
+6,"So I think if it's middle-aged people, they might have some of that basic health monitoring function, but they're not going to be able to do that.",基于功能的先例,5
+7,"I feel that if we talk about these features, is there something that can be upgraded and extended in terms of functionality?",基于功能的分析,6
+8,"For example, maybe something ordinary has to be done by a machine, and I wonder if I can have something in common with some smart product.",基于功能的分析,7
+9,"For example, he has a ring with a ring on it.",基于功能的先例,8
+10,"As if that wasn't necessary, I hit a fork, a question mark.",基于功能的评估,9
+11,"I'm wondering what other functional health benefits it can have, if it's the kind of health needs that you're going to have every day, but it's not the same as having a healthy diet.",基于功能的分析,10
+12,"For example: ""Eat a little, will there be a middle-aged person who has some health tips?""",概念合成-功能,11
+13,"Health is like that long question, like what can and can't be eaten together?",基于功能的先例,12
+14,"I feel like I can do it, or merge our GPT?",概念合成-功能,13
+15,"For the middle-aged, I think their eyesight might not be as good as it should be.",基于功能的先例,14
+16,Can you give him a word pattern?,概念合成-行为,15
+17,"The more simple the behavior, I feel, the older the person he might want his interactions to be, the better, or the more straightforward the better, the simpler.",基于行为的分析,16
+18,"I think it's probably best to do it without a screen or less of a screen, in the form of some kind of voice conversation.",概念合成-行为,17
+19,It's like a little bit of a miniature robot or something?,基于行为的先例,18
+20,"The engine is a bit more advanced than the original, but it's still a bit more advanced than the original.",概念合成-结构,19
+21,"I feel like I can be that kind of smart robot in the restaurant, not just respond to that smart sound.",基于结构的先例,20
+22,But that's also a little ridiculous.,基于结构的评估,21
+23,"What is the structural role of the drug, and how does it structure with other small drug boxes?",概念合成-结构,22
+24,"For example, if she is sick and her children are worried about her.",基于功能的先例,23
+25,"So I think if our intelligent companion robot, it could have that special medical model.",概念合成-功能,24
+26,"He is a very good doctor and he has a lot of experience in the medical field, and he is very good at taking medicines.",概念合成-行为,23;25
+27,"Then when he brought it forth, he commanded him how to eat.",概念合成-功能,26
+28,"I think that the middle-aged person, he might have another characteristic that he might have children.",基于功能的分析,27
+29,"I suddenly felt that my first idea was still working, even though it was my first project, taking medication with a robot.",基于功能的评估,27
+30,"It's a feature that, in terms of its functionality, it's connected, preferably to a hospital, to a hospital or a doctor.",概念合成-功能,29
+31,"And that's one of the products that I feel more comfortable with, which is that I feel like I can probably compare the authority and get the most accurate dosage.",基于功能的评估,30
+32,"The second word is then used every time, and can be combined with a small medicine box, which is easy to remove.",概念合成-功能,29;23
+33,And then there's the fact that you can notify your children in time.,概念合成-功能,29;28
+34,"The feeling is that one is these elderly people who can get better when they take their medication, and the other is his children who are reassured, his doctors who are reassured.",基于功能的评估,33
+35,The following are some of the benefits of using a prescription drug.,概念合成-功能,34
+36,This scene is at home.,基于功能的分析,35
+37,"The way the conversation is then conducted, the behavior can be both passive and active.",基于行为的分析,36
+38,"Yes, I think the elderly person has problems of his own, he can go to voice and ask.",概念合成-行为,37
+39,He can also ask for a small medicine box to remind him in time.,概念合成-行为,37
+40,"The second category, I think, is the healthy companion of the robot, and I think the other is probably a different group of people who are taking medication, maybe there is a group of people who are currently healthy and not in trouble.",基于功能的分析,1;29
+41,And this is the kind of person that I feel he might be in the category of health monitoring that you just mentioned.,基于功能的分析,6;40
+42,I suddenly thought that it might be a little better to combine it with that kind of smart product.,基于功能的评估,41
+43,"Or a healthy companion robot, a middle-aged person, who might want to go to the square or go somewhere to exercise, and then go to exercise.",基于行为的先例,41
+44,Is it possible to let him do it at home?,基于行为的分析,43
+45,But I think that's a question.,基于行为的评估,44
+46,"I think the first group of people might be people who want to take medication, but they don't want to take it.",基于行为的分析,29
+47,"The second category is for example children who are away from home for a long time and may need some regular health monitoring, health accompanied by robots.",基于行为的分析,45
+48,"And then I even gave it option three, which is home exercise.",基于行为的分析,44
+49,"And when it comes to health monitoring, I feel like there's definitely some basis for it, like blood pressure, blood sugar, and so on.",基于功能的分析,47
+50,"I feel like he's probably a big collection, that's the feeling that he's probably in every home, and he's probably got some kind of blood pressure, blood sugar, blood oxygen meter and stuff.",基于功能的先例,49
+51,"Sensation can turn these things into, and integrate them into, tiny robots.",概念合成-功能,50
+52,I think he could start some kind of active interaction at that point.,概念合成-行为,51
+53,"For example, some people who he might be at home with right now are definitely self-initiated.",基于行为的先例,52;49
+54,Is it possible to let machines start some kind of health monitoring behavior?,基于行为的分析,53
+55,"And if you have an older person, and he's sure he's going to, and he feels healthy, and he's going to buy these things, but he's probably not going to be the one to say, ""I'm going to take my blood sugar"", and he's usually going to say, ""I'm going to take it when I'm not comfortable"".",基于行为的先例,53
+56,"And that health monitoring companion might be that he not only has these things, but then integrates them into his own.",概念合成-功能,51
+57,"And then he can also take the initiative, say, every day or at what time periodically to monitor.",概念合成-行为,56;54
+58,"And then I feel like he could also intelligently generate dietary or other life-related recommendations based on some of the results of the monitoring, like high blood pressure, for example.",概念合成-功能,57
+59,And then there's the feeling of being able to get to the doctor in time.,概念合成-功能,58
+60,Then his location must also be primarily at home.,基于功能的分析,36;59
+61,"In fact, it is possible to do so in hospitals.",基于功能的分析,60
+62,"And then in the hospital, the feeling actually gives him a possibility that if he were in the hospital, he might be functionally more biased toward the inpatient.",基于功能的分析,61
+63,The pressures on nurses,基于功能的评估,62
+64,He was able to run back and forth every day with the machine after each test.,概念合成-行为,63
+65,There's a wheel underneath.,概念合成-结构,64
+66,"And then there are two kinds of this feeling, one is passive, the elderly coming in, and then there's the robot that starts it all.",概念合成-行为,64;52;37
+67,"I feel like it's about supporting connectivity with some smart devices, like an elderly person's watch, and then putting together a unified data monitoring system.",概念合成-行为,66
+68,"It's a little bit more accurate, it's a little bit more scientific, it's a little bit more comprehensive.",基于行为的评估,67
+69,The third is the exercise robot. This is also related to health.,基于功能的分析,48
+70,"But there are some things that most older people feel like they're probably going to want to do now, like go to that square and play or something.",基于行为的先例,69
+71,And then there's a habit he's building every day that's definitely going to be better.,基于行为的评估,70
+72,"I felt that if there was such a need for exercise at home, and there are some elderly people, he said yes, I feel like I should remember the characteristics of the other group.",基于功能的分析,71;44
+73,"I feel that he may, because of his illness, feel more inclined to the kind of disadvantage of elderly people.",基于功能的分析,72
+74,Especially if you are in the northeast or one northern country. The snow falls in winter and the ground is slippery. It is not convenient to go out.,基于行为的先例,73
+75,Is it possible to give him a little more companionship with a little robot?,基于功能的分析,74
+76,"And then the function of this little robot, which I feel is also quite obvious, it can do all kinds of radio gymnastics, square dancing.",概念合成-功能,75
+77,I feel like I want to give him a community of seniors.,概念合成-功能,76
+78,"The feeling is that it's actually the people nearby, because if he goes out to eat, there are also the old women nearby, and then this time it's the people nearby using the machine, he can go to the pool, and then after the pool or go to the gym together.",概念合成-行为,77
+79,"And I feel that they can not only have this community, but also lead the movement.",概念合成-功能,78
+80,"For example, if you enter a specific body type or select a specific body type, you can recommend a more suitable exercise for your child.",概念合成-行为,79
+81,I think that's important too.,基于行为的评估,80
+82,"Especially now that there are some elderly people who are doing that kind of fast square dancing, then he might have a negative role instead.",基于行为的先例,81
+83,And then he felt like he could give him a life satisfaction when he was not comfortable going out.,基于功能的评估,73;74;75
+84,"For example, he would like to be able to exercise with other people, or he might be able to exercise, but when he is not doing anything, the little robot will remind him of the time every day.",概念合成-功能,83
+85,I'm using the scene at home.,基于功能的分析,84
+86,"The word is a verb. As above, one is passive, he can operate on his own or be a voice.",概念合成-行为,52;37;85
+87,The other is timing.,概念合成-功能,86
+88,"I thought about this feature, and there is one more thing that is better.",基于功能的评估,87;43
+89,"In the square, you can go out and exercise or you can exercise, maybe one exercise for a long time.",基于行为的先例,88
+90,I'm going to give him the one. It's a bit like sitting around reminding him. Give him a day.,概念合成-行为,87;89
+91,"The words, which can be used a few times a day, are certainly more appropriate.",基于行为的评估,90
+92,The person can also be customized according to some of his own health conditions.,概念合成-功能,1

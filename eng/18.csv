@@ -1,0 +1,47 @@
+节点编号,原文,设计行为,源节点
+1,"The first is a health robot that can be a cat, cat, dog, or dog.",基于结构的分析,0
+2,The main thing is to have a class and some psychology.,基于功能的分析,1
+3,The feeling that the elderly are more friendly than many people in a nursing home who have cats and dogs is a comparatively friendly image.,基于结构的先例,2
+4,"And then it behaves not just like an animal, it might be able to make a human voice, and it could be able to make a human voice.",基于行为的分析,3
+5,"For example, remind him to be careful with his feet when he is at home. Sometimes it is safe to go down stairs or to use a ladder to the kitchen door.",概念合成-功能,4
+6,"It can also be made more intelligent. For example, it helps regulate some of the temperature of the light in the home, and may also be linked to some data on the elderly.",概念合成-功能,5
+7,Some internal psychological or other data can help you call your family or the hospital if things go wrong.,概念合成-功能,6
+8,"The voice of the animal is similar to the gesture of the animal, the voice of the human.",概念合成-行为,7;4
+9,The same interaction with the cat dog in the house can be used as a cat cat dog head. Help the elderly to distribute the daily cat food to the dog.,概念合成-行为,8
+10,"It is also a pet that does not need to go out, and can also be used to communicate with the owner in a human voice way for elderly families without a cat dog; it provides more emotional companionship.",基于行为的分析,4;9
+11,"Then, in structure, a pet-like robot can have some simulated hair, and then more realistic and have more flexible limbs.",概念合成-结构,10;1
+12,Then it may also have a chatgpt built in. It is a robot that helps to accompany the elderly in counseling and therapy.,概念合成-功能,1;4;11
+13,"The second option is a robot that sucks the roof off the ceiling. The behavioural pathway of the robot on the ground is the same as that of the robot on the ground, one of which may cause inconvenience to the elderly. It may affect the elderly's mobility when walking on the ground.",基于行为的先例,0
+14,It could be a vacuum cleaner or a robot on a wall.,概念合成-结构,13
+15,In function it can also be used as an indicator light,概念合成-功能,14
+16,And I'm not going to say that I'm not going to be able to do it because I'm not going to be able to do it because I'm not going to be able to do it.,基于结构的评估,14;15
+17,It is not convenient for the elderly to find or turn on the lights when they go to the toilet at night.,基于行为的先例,15;16
+18,"The robot can track the elderly in real time, providing a dynamic.",概念合成-行为,17
+19,"And then there are other functions, like some basic health data monitoring, which are also very useful.",概念合成-功能,18
+20,"While sleeping, you can see that the robot's display has some information or instructions, and there may be some game interaction.",概念合成-功能,19
+21,"It is usually mounted on the side wall, can be used as a mobile clock, or as a display, game interaction, indoor higher position operation assistant",概念合成-功能,20
+22,"In the daily life, the elderly are less likely to initiate behavior.",基于行为的先例,21
+23,The main reason is that the robots themselves interact in a timely manner and proactively according to the needs of the family and their own settings.,基于行为的分析,22
+24,"It will initiate interaction and exchange with the elderly and then implement it at the same time, giving some interaction as the case may be.",概念合成-行为,22;23
+25,"The structure should have some spider's tentacles, which would allow it to crawl on the ceiling, and then it would be able to move around the floor.",概念合成-结构,14;24
+26,"But the style is more friendly, in case crawling on the ceiling would be intimidating, and crawling in a side position on the wall.",基于结构的评估,25
+27,"The first thing that you need is some lighting, smart detection equipment, etc.",概念合成-功能,15;26
+28,"The third option is a finger-pointing robot, which will be smaller.",基于结构的分析,0
+29,It is only necessary to be on your phone or in your fingertips.,概念合成-行为,28
+30,"And it's probably because it's not careful, it's crawling up to the phone, or it's crawling up to the fingertip, and it's not really moving.",基于行为的分析,29
+31,It may look like a small bracelet or a ring with a few pins at the bottom.,概念合成-结构,30
+32,"It is also useful for strengthening the muscles, such as the elderly, and for strengthening the muscles.",概念合成-功能,28
+33,"The elderly are gradually losing their physical strength or vision, and some needle threads may not be as easy for the elderly.",基于行为的先例,32
+34,The first is that the human eye is a powerful force that can be used to help you see.,基于行为的分析,31;33
+35,Then some words from above can be dangerous. It helps the old man with some strength at the fingertips.,基于行为的先例,34
+36,"The second is the use of a subtle operational aid, such as the use of a needle string.",概念合成-行为,33;35
+37,"At the same time, you can also give some tactile feedback with your fingers, such as pulling your finger and telling the elderly what to do, what to take medication, etc.",概念合成-行为,36
+38,"Then because it's on the finger, it can better monitor some older people's data behavioral data, like data.",概念合成-功能,37
+39,"The animal is a small, pointed animal, but is more flexible and can resemble a small tiger.",基于结构的分析,28;31
+40,"It can swim from one finger to the other, and it's not done in the past.",概念合成-行为,39
+41,The old people can also touch it and say hello.,概念合成-行为,40
+42,"The first is that the structure is not fixed in between, but it is still there.",基于结构的分析,31
+43,"The hand needs to be positioned, for example, to use some force, it can be nailed to death, and it can be used to make a hand feel like it is being pulled.",概念合成-结构,32;35;42
+44,The creature is able to swim freely. It can crawl when not needed.,概念合成-行为,43
+45,The first thing I did was to ask them to say hello and to add a little fun to the conversation.,概念合成-行为,44
+46,"Then there are some enhanced and refined operating modules, the Intelligent Modules, which come with small chips the size of a display that can be carried around outside.",概念合成-结构,28

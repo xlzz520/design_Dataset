@@ -1,0 +1,53 @@
+节点编号,原文,设计行为,源节点
+1,Products for the healthcare of middle-aged and elderly people. There may be some features that will have some comparison basics for them first.,基于功能的分析,0
+2,"For example, taking control of their physical health level may give them some health advice.",基于功能的分析,1
+3,For middle-aged people. The first people to buy such products are probably mostly our middle-aged people themselves and their family members.,基于功能的分析,0
+4,I think there might be some feedback on some of the health tests that I just mentioned.,概念合成-功能,2
+5,"There will be some feedback that will include the information records themselves, and then there will be some warning messages, some warning to the guardian.",概念合成-功能,4
+6,"The other I think is two aspects, one is health just mentioned. Some concern for these health aspects. And then one is companionship, because he is an escort robot.",基于行为的分析,2
+7,Emotion is the care of both the material and the spiritual.,基于功能的分析,6
+8,"He is a robot himself, which is easy for the elderly.",基于结构的分析,0
+9,All information input and output is feedback. Make it easy for seniors to understand and understand,基于功能的分析,8
+10,"He may have some knowledge about robots. For the average young person who is very used to smart devices, they may not understand much.",基于功能的先例,9
+11,"There's something more verbal for robots, something more suitable for the elderly.",概念合成-功能,10
+12,"The first is the basic need, and on some levels of health, his companionship may include physical and psychological.",基于功能的分析,1
+13,"The use of robots is easy to use, feedback is provided, and the language is spoken.",基于行为的分析,12
+14,"Additionally, some additional functions may include feedback from health observations",概念合成-功能,13
+15,"Can there be something else about life, for the elderly, like what they usually buy for food, some situations that they might find more typical in their daily lives?",基于功能的先例,14
+16,The most common behavior among the elderly is buying food and listening to the news,基于功能的先例,0
+17,"And if you're going to do some research on this, maybe you can do some research on whether you can intervene in this little function of ours.",基于功能的分析,16
+18,"I think that maybe from these levels, they can set up their specific program.",基于功能的先例,17
+19,"He's going to need some control over some of the data on his body, and he's going to need some wearable devices.",基于功能的分析,12
+20,It's probably a lighter watch.,概念合成-结构,19
+21,"Then waterproof, or it's a thing on the neck.",概念合成-结构,19
+22,"There is a very small robot, and the robot is more lifelike and friendly.",概念合成-结构,19
+23,And we can do a human-like design on it.,概念合成-结构,22
+24,"He looks like a child, his voice is like a child, his voice is like a child.",概念合成-结构,23
+25,"I think that's a very basic function, so different programs should have it.",基于功能的分析,4
+26,Some of the underlying diseases of older people are more common than those of older people,基于功能的先例,0
+27,"So, for example, what part of the population we're targeting, what age group, they have some very specific needs, what data of the body do we need to monitor some of?",基于功能的分析,26
+28,"The elderly are often asked to provide emotional support, which may include following the elderly through their daily routines.",基于功能的分析,7
+29,From getting up in the morning to three meals and a snack,基于功能的先例,28
+30,"This might require a data set to be obtained first, based on what it takes a week to get data like this.",基于功能的分析,29
+31,"It is possible to have a rough model of the elderly person, his daily life; then to give some support when the model is back to normal everyday behavior.",概念合成-功能,30
+32,I think it's probably more important to build up the elderly.,基于功能的分析,7
+33,"The communication of this information between family members; the communication of health information; the timely feedback of this data to their family members, which is a vital function for family members.",概念合成-功能,32
+34,And I'm going to tell you about some of the little things that are useful in life.,概念合成-功能,18
+35,Using input and output of information to compare spoken speech functions,概念合成-功能,13
+36,"The data is based on the data of the older population, and the data is based on the data of the older population.",基于功能的评估,35
+37,"It can be integrated into a wearable device, as the wearable device itself may be necessary.",基于结构的分析,19
+38,"In addition to the wearable device, it may also have a display on top, and then some functions such as voice are integrated. The shape may be a watch, glasses, necklace, etc.",概念合成-结构,37
+39,The key hanger is also fine.,概念合成-结构,38
+40,"I feel like it needs to be functional and fit for its health, including its positioning and its button-down.",概念合成-功能,2
+41,"If it's a portable device, it may be less likely to provide the kind of emotional care that older people need.",基于功能的评估,7
+42,"Because it doesn't have a more humanoid shape, it's more like a cooler device.",基于功能的评估,41
+43,Some of the possible problems with the portable,基于结构的评估,42
+44,And perhaps the most important function of this language is some of the expressions on the surface.,基于功能的分析,38
+45,I think it's usually a child's voice or the kind of soft female voice that I hear.,概念合成-结构,42;44
+46,"If everyone had a little piece of hardware that was so portable, could it be based on a social aspect of content?",概念合成-功能,38
+47,An object that is more friendly to the elderly. It may make them feel more friendly and familiar throughout their use.,基于结构的分析,8
+48,It's a book or a radio.,概念合成-结构,47
+49,He likes to read some health books and listen to some health lectures.,基于功能的先例,1
+50,This thing can put some intellectual information on top of it and then it can be presented.,概念合成-功能,49
+51,"First of all, hardware is a familiar object with a friendly feel, but also a function of intelligence.",基于功能的评估,47;50
+52,"If it's a book, it's more of an emotional concern.",基于功能的评估,48

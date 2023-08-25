@@ -1,0 +1,71 @@
+节点编号,原文,设计行为,源节点
+1,"I think there are three groups that have come up with three solutions, the first group is the empty nest elderly.",基于功能的分析,0
+2,"The child may be away from home, and then some of his health problems cannot be answered in time, i.e. he may need a remote understanding if his child works far away, he is alone in the old house, and then if something goes wrong.",基于功能的先例,1
+3,And then there may be some isolated pain points for the empty nest elderly that need to be explained.,基于功能的分析,2
+4,"Then there is the other group of people who are: ""There are some hidden health risks"".",基于功能的分析,0
+5,The latter chronic disease may be dementia. See also: Alzheimer's disease. See also: What is an elderly person's swallowing disorder?,基于功能的先例,4
+6,"Then for the elderly population with these inherent diseases, the robot that designs a healthy companion for him may have to start from his own needs for some disease care to design its functionality.",基于功能的分析,5
+7,"The third group is probably in hospitals or nursing homes where the elderly are concentrated. The robot is not just looking after this elderly person, but another elderly person.",基于功能的分析,0
+8,"This place of residence, for them health management may be without another person's file there may be a centralized management of a placement so they may also have different needs",基于功能的分析,7
+9,"The first thing to do is to talk about the empty nest, which is one of the main pain points of the old man's body!",基于功能的分析,3
+10,"Because the elderly man has some illness and suddenly some chronic illness, he doesn't say like we have a cold, I have a fever today, I know I have a cold, I sneeze today I know I have a cold, but this empty nest is like the old man saying, without these children, he can't.",基于功能的先例,9
+11,"The robot will help him to perform a regular health check-up, and he will be able to check his health and his health care.",概念合成-功能,10
+12,The second pain point is that some of the diseases in his later years have a lot to do with his mood.,基于功能的分析,11
+13,"The fact is that previous studies have shown that the elderly who are often accompanied by children, who have this warm family companionship, have a lower incidence of some cancers, some dangerous diseases, and a longer life expectancy than the elderly who live in their own homes.",基于功能的先例,12
+14,"So some care for the emotions. For these elderly, the direction of health care is also important.",基于功能的评估,13
+15,"For functionality, timely feedback is possible. The robot should be able to monitor the health of the elderly regularly.",概念合成-功能,11
+16,He is able to synchronize the data he monitors with the elderly.,概念合成-功能,15
+17,"Or he's a regular, there's a primary care doctor or a concurrent doctor; if he needs some data, he needs to know something.",概念合成-功能,16
+18,"The word for emotional care is that this robot can be remotely controlled to interact with the pet in the house, like many pets do today.",基于行为的先例,14
+19,"So, if you're going to be able to talk to the old man, you can also have your child control the machine, and then you can control the machine, and you can just talk to the old man, and then you can interact with him.",概念合成-行为,18
+20,"Even though video calls are common today, many older people are still making video calls.",基于行为的先例,19
+21,"But the robot has its own advantage, which is that it will have some physical contact.",基于行为的评估,20
+22,"So, for example, if I could manipulate a robot and give something to this old man next to the refrigerator, even though no one was there, it would be a gesture of the robot taking care of the problem.",概念合成-行为,21
+23,"The robot he will give the elderly a language to use to communicate with could be a model of speech, a voice recording of the child for training.",概念合成-功能,19
+24,"And then use this voice model to communicate with the elderly, as if their own children were talking to themselves.",基于功能的评估,23
+25,These functions can also help the elderly person feel more cared for by their children.,基于行为的评估,24
+26,"In terms of behavior, the robot is not just going to come and go, he may have some more; in terms of behavior, he may have more; in terms of interaction, he may have more.",基于行为的分析,22
+27,"In addition to the function of helping someone get something, the robot may also help the elderly with some things, such as whether it can control the vacuum cleaner in the home, then some smart homes, then some smart homes, then create a better living environment for the elderly.",概念合成-行为,26;22
+28,"For example, the children of the elderly people today find out that the city of the elderly people suddenly cooled down or it rained suddenly, and then the house is very humid. The temperature is also relatively low, which can be controlled remotely using a robot. The temperature of the air conditioner in their home, and then some switches in some homes can be used to achieve a remote relationship in these ways.",概念合成-行为,27
+29,"Speaking of structure, if the robot can not only walk around, but also help to pick up something, he may need it. The robot is not just a wheel inside to support it everywhere it goes. It can involve some structure of the mechanical arm.",概念合成-结构,28
+30,"The second approach is for some elderly people with inherent diseases. First, he divides the elderly in this group into groups, pain points and needs of the elderly.",基于功能的分析,6
+31,The first of the greatest needs of inherited diseases is the need for long-term stable monitoring of their chronic disease.,基于功能的分析,30
+32,"For example, if an elderly person has high blood pressure, he is prone to fainting, it is easy, and then some danger occurs.",基于功能的先例,31
+33,"So some of his heart rate and blood pressure just need to be nailed down, and the long term ones are the ones that can be monitored anytime, anywhere.",概念合成-功能,31
+34,The problem is more obvious if he has both a inherent disease and an empty nest elderly person.,基于功能的分析,32
+35,"First, for these inherited diseases, the greatest need is to control the disease itself first. It targets older people with different inherited diseases, who may have different functions for which they have designed the robot.",基于功能的分析,32
+36,"And then the elderly people in this age group, they're in a state of mind that's been plagued by the disease.",基于功能的分析,30
+37,"But this state, which many elderly people are more kind to, and are not willing to bother their children, may be __ hiding some __ hiding some of their illness __ this hiding will cause his illness problems to be more prominent.",基于功能的先例,36
+38,"The function is to hope that it will be able to; based on its inherent disease differentiation, and to carry out some long-term monitoring of these elderly people, it may involve some some wearable devices that are fixed in the elderly for a long time, to achieve a stable monitoring.",概念合成-结构,35;33
+39,"Wearable devices are designed to be placed on this little robot, and if he needs to use them, he can take them off the robot and put them on himself, so there is a removable structure here.",概念合成-结构,38
+40,"It can be disassembled or modular. For example, some of it requires long-term measurements of water pressure and heart rate, for example, for hypertension, and then heart rate and some blood oxygen values, for example, for heart disease.",基于功能的先例,39
+41,"Then it's actually a free combination of different diseases, it might just need two or three of them, so it can add some modular monitoring equipment.",概念合成-结构,40
+42,Modular monitoring devices include some blood glucose monitors. These comparison basics can be done in a loose combination and then used to place the removable structure on the elderly.,概念合成-结构,41
+43,"He can then achieve a stable long-term monitoring, and then feed back the data to him, his doctor in charge or his children who will help him.",概念合成-功能,42
+44,"The elderly with the disease also have a pain point, which is more common in emergencies.",基于功能的分析,30
+45,"It was a lot of news before that a lot of people were walking on the street, and they might find an old man suddenly falling to the ground, then an old man suddenly had a heart attack, then suddenly. Sudden fainting.",基于功能的先例,44
+46,"But now the moral of the society is that people are more timid, and when they see an old man falling, they are less likely to go and check on him and call an ambulance.",基于功能的先例,45
+47,"So basically he happens. If an old man goes out and there's a danger outside, maybe. I feel bad about relying on the self-consciousness of the pedestrian.",基于功能的评估,46
+48,"These wearable devices are removable and if worn on an elderly person, if the elderly person is just going out, then the device is able to monitor, monitor for some dangerous occurrence to give timely feedback and then do some emergency rescue.",概念合成-功能,42;47
+49,"For example, he will automatically alert the elderly family members.",概念合成-行为,48
+50,"Then the content of the notification, including his current one. Because it is the device it is able to monitor some of his health data, including the data he was displaying at the time, it can help the doctor quickly find a treatment point for what happened to him.",概念合成-功能,49
+51,"If the data can be transmitted to some of his emergency contacts, it can help doctors to locate where he is more quickly and save time in emergency rescue.",基于功能的评估,50
+52,"The data section intensity is on the rise. Some of the notifications include: ""where is he now?"" and ""where is he?""",概念合成-功能,51
+53,"For the behavior of the robot itself. The behavior of the robot itself, he as a robot he can not be carried around at all times, he is probably recording and storing some of the wearable components that can be worn if he is in a house.",概念合成-功能,41
+54,"I want it to have a feature that is a mobile small hospital, and it can provide remote care to an elderly person who might not be comfortable going out, can he connect with his doctor remotely through the robot?",概念合成-功能,53
+55,The third is about some centralized scenarios. The pain point of centralized scenarios is how some of the data is processed and stored after the number of people has increased.,基于功能的分析,8
+56,The situation of each elderly person is different.,基于功能的分析,55
+57,"First, it can be more diverse in its functions, in addition to being able to monitor blood pressure. Some of the most basic monitoring devices are modular. There are many interfaces.",概念合成-功能,55;56
+58,"In the case of data management, a separate system or app may be needed to perform a centralized management, but the data may be stored in a separate location.",概念合成-结构,56
+59,"Then, for example, Zhang Daqiang and Wang Daqiang, they are the ones that can have a lot of differentiated data themselves.",基于结构的评估,58
+60,His robot's behavior may include routine checks; it then collects data from a round of the elderly every day; and it records their health.,概念合成-行为,59
+61,The function of the contact person is to inform the elderly person of his or her condition and to inform his or her family in a timely manner.,概念合成-功能,60
+62,"Because now it's basically a nurse who checks the room, and then he checks the room. They also work shifts, no robots.",基于功能的评估,61
+63,The first is to provide a remote exchange of information.,概念合成-功能,55
+64,"Because these concentrated nursing homes, like some kind of nursing homes and hospitals, these elderly people may have higher emotional demands than the previous two situations.",基于功能的分析,63
+65,The video also provides a video function. The video function allows you to contact your family.,概念合成-功能,63;64
+66,"In addition to the variety of layouts, the variety of interfaces, and more, there is a need for some storage space, for example, it can store many cases of patients.",概念合成-结构,55
+67,And then it can also act as a delivery robot that can deliver the drugs to them from bed number three.,概念合成-行为,66
+68,"If it is necessary. If you are carrying some medicines that need to be refrigerated or some vials of ampoules, you may also need some refrigerated refrigerators inside.",概念合成-结构,66
+69,"Then for its mechanical structure, maybe in addition to the interface, the wheel is necessary, and then this wheel might say a little bit higher",概念合成-结构,66
+70,"It can travel in hospitals in more complicated environments, so it needs some wheels, some quality requirements, and some turning requirements.",基于结构的分析,69

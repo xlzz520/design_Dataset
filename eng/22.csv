@@ -1,0 +1,74 @@
+节点编号,原文,设计行为,源节点
+1,"So first of all, think about this middle-aged person, who is, say, his elderly, who actually has different types of people.",基于功能的分析,0
+2,"He may have been a little too tired to get up at home, or he may have been a little too energetic, and he's old and he's still very energetic, and he dances in the square all the time.",基于功能的先例,1
+3,"First of all, the kind of bed that the house is not good for. Then he may have, say, a stroke, or paranoia, and this type of thing.",基于功能的先例,2
+4,"So he probably needs a robot to do something, get him something or something.",基于功能的分析,3
+5,"The robot may need to have some kind of mechanical arm structure, and then it can go and pick things up, and it can pick things up.",概念合成-结构,4
+6,"The second is that he might not be able to be himself in general, and would need someone to look after him.",基于功能的先例,1
+7,"The robots are likely to have some sort of division of labor, collaboration between the caregivers.",基于行为的分析,6
+8,The work is divided into tasks such as picking up things or cooking household chores.,基于行为的分析,7
+9,"The mechanism of how it works, the way it works, it could be some specific design details.",基于结构的评估,8
+10,"And then there's this thing where he's in bed and he needs some sort of nursing-related skill, like picking him up and then saying, or making him eat, and then getting up straight is a nursing-type task.",基于功能的分析,3
+11,"The second is that the usual accompaniment is that he may not have any physical illness, he may have some chronic illness.",基于功能的先例,6
+12,The first is that the person who is suffering from this type of disease is not as bad as the first type.,基于功能的评估,3;11
+13,"And the problem is that this old man has some self-awareness, and then there are some areas where he needs to pay attention, like maybe a diabetic, and he needs to control the amount of sugar he's taking in every day, and this nature may have some professional knowledge of pathology.",基于功能的先例,12
+14,"And this kind of thing is okay, because it doesn't need much, and it's probably going to be able to carry some of this kind of work, not to mention the kind of flexible mechanical arm that it needs, like the first kind.",基于结构的分析,5;13
+15,The first category can be redefined as a relatively flexible robot that can perform a variety of tasks.,概念合成-功能,5
+16,The second type of word that doesn't need to be as flexible to perform the usual tasks.,概念合成-功能,14
+17,"He doesn't have to be a mechanical arm with hands, he could be a monkey-like thing or something that can move things.",概念合成-结构,16
+18,"And then, this type of user he might need, like a chronic illness, he might often forget to take his medication when he comes, because he's sick for a long time, and taking his medication and eating his daily food is just some of the things that he's going to take care of every day.",基于功能的先例,11
+19,The third category is those who prefer active older people. These are those who prefer to socialize or have some social attributes.,基于功能的先例,1
+20,"The robot may be building some kind of connection between the elderly person and his friends and family, for example.",基于功能的分析,19
+21,"He said that he would have some daily activities, like going to a senior college or going to a square dance.",基于功能的先例,20
+22,The robot can manage his schedule based on this.,基于功能的分析,21
+23,"Remind him that he has learned some knowledge, and then the robot can go to his house and help him if he needs it.",概念合成-行为,21;22
+24,"So, for example, painting, he might practice at home, and the robot could go to his side during the practice, remind him what to do and so on.",概念合成-行为,24
+25,The first thing the robot should do is go online and search for relevant content.,概念合成-结构,25
+26,And then there's the look.,基于结构的分析,0
+27,The first is to have a more complete structure.,基于结构的分析,26
+28,"And it has a mechanical arm that can move, and then there's a trunk with a screen on top.",概念合成-结构,5;27
+29,"And then it makes people feel more, how to say, like more professional, more professional in appearance, like a medical device.",基于结构的评估,28
+30,And then we're more flexible in our interactions.,基于行为的分析,7
+31,"He can work with people who can take care of the elderly and then complete the task, so he needs to go to school.",概念合成-行为,7;30
+32,"It's like a conversation on the other side of the table, and it's like a conversation on the other side of the table.",基于行为的先例,31
+33,"Take things, care tasks, simple household chores",概念合成-行为,32
+34,"The second type of robot, it might not look like the first one, it's going to be a little bit simpler.",基于结构的评估,27
+35,"It could be a desk, or a computer.",概念合成-结构,34
+36,"And this moving thing on the desk, he doesn't seem to need to move animals very much either.",基于行为的分析,14;35
+37,"The third category, plus moving animals, is that it may have some simple needs to move to do some movements.",概念合成-行为,36
+38,The third category could be desktop robots.,概念合成-结构,26
+39,The second category is the simple mechanical arm.,概念合成-结构,34
+40,"The first is that the medical device can be more integrated into everyday life, without the need to be as intimate as the first.",基于结构的评估,39;29
+41,"And then functionally, he's going to be a medical expert, a medical advisor.",概念合成-功能,39
+42,"I'm not going to be able to do anything, I'm going to take things.",概念合成-行为,39;5
+43,"The third category, which looks like a desktop robot, is a more lovable type.",概念合成-结构,38
+44,"The main function is to accompany, then social? Link the social relationships of the user",概念合成-功能,20;43
+45,It's like a personal assistant.,基于功能的评估,44
+46,I'm going to list a few more uses.,基于行为的分析,0
+47,The first category of first words may be bed-ridden care.,基于行为的分析,3;46
+48,"For example, when you eat, hold your food.",概念合成-行为,47
+49,And then there's the collaborative household.,概念合成-行为,6;47
+50,"For example, accompanying family members with tasks and self-directed tasks",概念合成-行为,6;47
+51,The second category of words is first medical advice.,概念合成-行为,46
+52,Then link the community and the hospital.,概念合成-行为,51
+53,Then there's the simple thing of picking up and moving things.,概念合成-行为,37;51
+54,"Third, use the scene to link relatives and friends.",概念合成-行为,19;46
+55,And the companionship chat.,概念合成-行为,20;54
+56,Calendar management,概念合成-行为,22;54
+57,"This old man has something, a need for self-improvement",基于功能的先例,54
+58,"So you can offer some general expertise, like drawing, calligraphy.",概念合成-功能,24;57
+59,"And then think about how to innovate, and also about food.",基于功能的分析,0
+60,"The first class of beds, its diet is managed mainly by the family who accompanies him",基于功能的先例,3;59
+61,"The second type of person is the second person whose family doesn't necessarily have to be there, so someone who is close to them can come in and take over.",基于功能的先例,6;59
+62,"The third group of energetic elderly people don't need it either, because they have more autonomy to decide what they eat.",基于功能的先例,20;59
+63,The first class of external structures increases the height of the bed and some of the carrying tasks,概念合成-结构,60
+64,"And the third category is desk robots that move around the desk, and I think it's not really necessary to move around a lot in space because he's mostly going to be a companion, he's not going to be helping the elderly move things, and so on.",基于行为的分析,62
+65,So I'm going to define it as a robot on your desk.,概念合成-结构,44
+66,And the robot is a little bit like the little robot on the desk in Japan.,基于结构的先例,65
+67,"The thing is that it actually has some movement, otherwise it is similar to a desktop display.",基于结构的评估,66
+68,"And let's make it even more so, it's like a living thing that you can talk to, not like you're talking to a computer.",基于行为的评估,67
+69,There are also some links between robots and the outside world.,基于行为的分析,0
+70,"And then the first robot, which is mainly connected to hospitals.",概念合成-结构,47;69
+71,So he has some knowledge of the care that is specifically for this person.,概念合成-结构,70
+72,"The second category of words is networking with the community, when the elderly go to a specific hospital.",概念合成-结构,52;69
+73,"The third category is the networking with your own small circle, family circle, social circle.",概念合成-结构,54;69

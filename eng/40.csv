@@ -1,0 +1,55 @@
+节点编号,原文,设计行为,源节点
+1,"The first thing to consider is the health aspects of the elderly person's need for companionship, which are the disease and some of his physical indicators.",基于功能的分析,0
+2,"First of all, my first procedure is to test the basic vital signs, he has some underlying diseases like diabetes.",基于功能的先例,1
+3,"It's a bit like the Apple Watch. For example, if you fall in an emergency, it will automatically sound an emergency alarm.",基于功能的先例,2
+4,"It's a companion robot, and I think that this function is probably monitoring is part of it, it's a little bit like that module design.",概念合成-结构,0;3
+5,The old man takes it off every day and puts it on his hands. The robot senses something bad and runs past. I save him or say something. Give him a call.,概念合成-功能,4
+6,He would run to the user every day and give him the bracelet.,概念合成-功能,5
+7,"The bracelet can monitor his basic vital signs and life indicators, and also remind him. Since many elderly people have a habit of taking medication, they may have underlying diseases, such as diabetes, high blood pressure, which means they have to take medication every day, and not taking medication is more dangerous.",概念合成-功能,6
+8,"Maybe it's like a little bit of a cough medicine machine that we buy ourselves. Then you put a week's worth of medicine in it, and every day by that time that box will be vibrating, and you have to take the medicine at that time.",基于功能的先例,7
+9,"For example, if his children put it in every week and then change it a week later, or if the old man changes it himself, he might say, ""I'm going to change it"".",概念合成-行为,8
+10,"He may go to do some tests, and then he will put all that information together with the platforms that work with the healthcare.",概念合成-功能,2;8
+11,"And this is a very simple way to diagnose online, because a lot of older people, he might have some emergencies, but there's no one around.",基于功能的评估,10
+12,"There may be no particular emergency, he is a chronic process. Then he may not be very convenient, he has to go to the hospital himself, then if there is an online diagnosis or if there is an emergency, if there is an online diagnosis, some measures can be better taken.",基于功能的评估,11
+13,"The medical platform works together. The video he takes and some of the tests he does are synchronized to the machine. The machine also makes its own diagnosis and has its own analysis, so it knows. The user knows his own physical condition.",概念合成-功能,10
+14,"For example, if the patient has poor lung function and if his blood oxygen saturation and pH are low, the risk may be greater.",基于功能的评估,13
+15,"I think the older people don't want to look so good looking, as long as they have a simple, fluid shape.",概念合成-结构,2
+16,"I thought the human form might not be so good, I wanted to do a modular one, and I said before that one of the accessories is a bracelet, maybe it will have other things.",概念合成-结构,15
+17,"He should be moving around, following his master.",概念合成-功能,16
+18,"The material is a bit like a robot sweeper, says the plastic. Then I thought it would be better to not use too much humanity, a simple form, because too much humanity can have that kind of horror valley effect.",概念合成-结构,17
+19,"Modular design can be two or three elderly people in a home, because some elderly people will live together, they are brothers and sisters, in this case, a robot can handle all the needs of the elderly in the home. For example, it can have several modules on it, then several bracelets.",基于结构的评估,4;17
+20,"The word behavior. Many elderly people have the habit of going out for walks, and there may be some danger in going out.",基于功能的分析,0
+21,"Remote monitoring. If you find his positioning abnormal, such as he is in one place for a long time, and then his life indicators are not good, it may be that he has an emergency outside, call his children or 120",概念合成-功能,20
+22,And then I thought it would be better not to have surveillance because I think that older people need privacy in their lives.,基于功能的评估,21
+23,"It has a relatively asynchronous function, where the child can tell the older person what they're doing at a later time, say he's taken his medication, and then half an hour later remind the child that your dad has taken his medication today.",概念合成-功能,22
+24,"If there is an emergency, such as an abnormal blood pressure or glycemic index, and it is already serious, call your child immediately.",概念合成-功能,23
+25,"The second option is to have an old man who is constantly moving, and his children may not be comfortable, and take care of her around the clock, how, with robots, to complete their daily lives.",基于功能的分析,0
+26,"If there is a more unfortunate situation, it can also be used in a nursing home. Because of the nursing home. Many elderly people he may also not have many children to accompany, then those nurses can not take care of so completely.",基于功能的先例,25
+27,The robots can help them when the nurses can't. Give them some help so they can? Enjoy a better quality of life!,基于功能的分析,26
+28,"First of all, the functionality. I think it's a bit like a wheelchair, like a transformer, like a bed, like a chair.",概念合成-结构,27
+29,"I know of elderly people with lower limb paralysis who need more care. They defecate, wash their hair, and then they need someone to be around.",基于功能的先例,25
+30,"Because from a healthy person to a person like that, they will experience a very painful mental breakdown, if he can do these things on his own through this machine.",基于功能的分析,29
+31,"For example, ""go out and walk"" for these old people. There is a wheelchair that can take him outside. There is a function of an electric wheelchair.",基于功能的分析,30
+32,"A wheelchair can be a variant. It can have other functions. For example, can he help me take a shower? That's a bit like that. The feeling of a smart home, he comes to the shower.",概念合成-功能,31
+33,"The elderly are not allowed to urinate, and they need to be wrapped in a long-term wrapper so as not to get wet.",基于功能的先例,29
+34,"If it is detected, if the body detects that he may be urinating, it will remind him to return to his home and then; give him a new sock, or tell him to change his wet urine.",概念合成-功能,34
+35,"It's kind of like that. It's kind of like that custom feel that it measures the size of an old person. And then this wheelchair, it's a piece that has a part that can just be folded up, and then you take his neck down, and then this robot takes that neck to the old man, and the old man puts it on his legs first, and then he slowly lifts it up, referring to his waist.",概念合成-功能,35
+36,"I think these old people are also lonely sometimes. If he is alone at home, he has difficulties, his children have no way, they are always there for him.",基于功能的先例,25
+37,"This robot is a bit like old people dating software. The old man is using the old man, he has his own. He can probably have a conversation with the old man on the robot.",概念合成-功能,36
+38,The robots can also chat with them and do the same thing in a small way.,基于功能的先例,37
+39,The design is not very good.,基于功能的评估,38
+40,I want to be a health companion machine for a specific group of people.,基于功能的分析,0
+41,Alzheimer's disease. The elderly with dementia are unable to recognize people and roads when they start to get sick.,基于功能的先例,40
+42,I wonder if this robot can monitor his brain electricity and judge his condition and intervene in him.,基于功能的分析,41
+43,It is a bit like a top hat.,概念合成-结构,41
+44,"He can wear a head monitor, and the hat will dial the phone directly. The flashing lights will remind the passersby that the person next to you is an old man and he may be lost.",概念合成-功能,42
+45,"I think it could be like a headset, with a bone conductor that he could put next to his ear, and he would put it in the old man, something he liked to hear.",概念合成-功能,43
+46,"I suspect he might be able to get some intervention therapy. For example, to release something. Because there are treatments that have been seen, sometimes releasing some alpha brainwaves releases beta.",基于功能的评估,44
+47,"If he is not awake, perhaps you can tell him; if you talk to him, you can remind him; this may give him a little more time to refresh himself.",概念合成-功能,45
+48,"Your son says he's coming to join you today. Then he says to him or something, ""You have a party on Monday, who are you going to go to with?"" and all of this is over.",基于功能的评估,41
+49,"It is also possible that the old man himself spoke to him when he was awake, for example, who is my son and how is he?",概念合成-功能,41
+50,"The elderly man from Alzheimers, who is actually more easily lost. He often forgets where he is.",基于功能的先例,42
+51,The feeling of wearing a hat.,概念合成-功能,41
+52,"The second option, sometimes shaped like an electric car, is to use a larger electric car, then, if he is outside, he can shade from the wind and rain, if he is indoors, he can. Some unnecessary construction will be removed and not picked up.",概念合成-结构,32
+53,"Many elderly people transfer from bed to chair from the boat. The process is also quite troublesome, he needs to be lifted.",基于功能的分析,52
+54,The robot may have one function: it can move to the bed; it may have a board and a bed support; it can sleep directly in the bed after it is put in.,概念合成-功能,53

@@ -1,0 +1,65 @@
+节点编号,原文,设计行为,源节点
+1,"First of all, I want to understand the proposition, first of all, it says middle-aged people; then a robot with a healthy companion; then, if it is about robots, I think that some of the current technological trends, perhaps some of the technological capabilities related to this AI, can be applied to it.",基于功能的分析,0
+2,"This is a thought I'm having right now, different from the existing product, which I might have thought about in my head first.",基于功能的分析,1
+3,"And to be honest, I'm not sure that maybe some of the smart sounds that we have now are actually one of those machines that's more general.",基于功能的先例,2
+4,"In other words, there may be some related healthcare software, which may be some more relevant products.",基于功能的先例,2
+5,"I'll go back to the product, the target audience and the targeting.",基于功能的分析,1
+6,"First of all it's able to provide some health, say, health support, like a diagnosis of some disease, then maybe some sort of treatment because the middle-aged population he may have some chronic disease.",基于功能的先例,5
+7,And then there are some things like testing for some health emergencies.,基于功能的先例,5
+8,"And the more central comparison is that he's going to provide a sense of companionship, maybe help some middle-aged people, make them feel less alone, or provide some emotional value.",基于功能的先例,5
+9,These three things are probably what I can think of as some of the basic comparison functions that they provide.,基于功能的评估,6;7;8
+10,"I'll think about it again, first of all, maybe I'll think about what I'm going to do with existing products and some of the needs and functions that I've envisioned. The first thing I'll think about is integrating the Internet of Things with some monitoring products.",概念合成-功能,9
+11,"Then, for example, there are some health screening bracelets; then, perhaps, there are some smart cameras in the home; these other aids, plus a health companion robot terminal.",概念合成-结构,10
+12,The core of this may be to provide a health and safety guarantee to some middle-aged groups.,概念合成-功能,11
+13,"Can you think of anything else? Is this a scheme that is not so broad in its comparison, and I may not mention anything particularly different from it, I think again.",基于功能的评估,12
+14,I'll look at health again. What other health needs do middle-aged people have?,基于功能的分析,9
+15,"I then looked back and thought about this need, because I saw: perhaps the first diagnosis of the disease is the identification, and the treatment of the chronic disease.",基于功能的先例,6;14
+16,"The existing healthcare software, that might make me think about what it's like to have a hospital or other healthcare system that's like this whole system.",基于功能的先例,15
+17,"It is not just a hardware or software product, it is more oriented towards a complete service system.",概念合成-功能,16
+18,"The core of it may be, through a guaranteed; or a hospital that the user uses or experiences on a daily basis; or another; or a place of health care; or to build a health profile of an individual, or a medical record, or to create a health care system that is more efficient and more effective.",概念合成-行为,17
+19,The data is then put into an online database that can be used to open and record health data or medical data.,概念合成-行为,18
+20,"The first is that the child is not a child of the government, but a child of the government, and that the government is not a government.",基于功能的分析,19
+21,"And then, after that information is connected, or maybe in some cases, like in some other places, it can be used to ensure that some of that information is circulated and then to provide better health care. A health care system like the one in a city that provides health care to middle-aged people is more likely to be a little more important.",基于功能的评估,20
+22,"And then because I feel like the first two options are probably more biased towards saying healthy, let's write down some of the differences between the two options.",基于功能的评估,21;13
+23,"And that's probably the first solution, but it's more about providing detection and security through some smart devices.",基于功能的评估,13
+24,"Secondly, it might be more of a link to health care, maybe a link to urban health care.",基于功能的评估,21
+25,"Because there may be some people who are relatively healthy, like middle-aged people, who are relatively healthy, but who are not in the same situation as the elderly, and who are not in the same situation as the elderly.",基于功能的分析,23;24
+26,"I think there might be another one. It's more about not testing for health issues, but about inspiring companion robots to develop healthy lifestyle habits.",概念合成-功能,25
+27,"The word ""healthy"" is probably being used to talk to some middle-aged people about their, say, robot-guided healthy eating, healthy living, and how to live a healthy life.",概念合成-功能,26
+28,There is also exercise!,概念合成-功能,26
+29,The following are some of the ways to achieve this goal of companionship and health.,基于功能的评估,27;28
+30,"The second may add another, say, the convenience of medical care in another country.",概念合成-功能,24
+31,The elderly may not necessarily live in the same area all the time.,基于功能的先例,30
+32,"Then the second robot itself. One of its main points, for example, is that it will make appointments, give tips and help.",概念合成-行为,31
+33,"The following are some of the supporting functions related to healthcare, such as making an appointment for a follow-up visit to a hospital, or getting advice on medication.",概念合成-行为,32
+34,The third word is this. He might say. Robot people have been given some recommended diet or exercise instructions.,概念合成-行为,27;28
+35,"The robot's personality traits, or even some of its language, are also important.",概念合成-行为,34
+36,Creating a way for older people to feel is a way to enhance some of their emotional experiences.,基于行为的评估,35
+37,"And then the words were inspired by some of these voice packs, some of these AI's, and then the words were inspired by some of these voice packs.",基于功能的先例,36
+38,"For example, the elderly, this little bit of voice, for example, can provide multiple options to use the voice of the child to generate an AI cue.",概念合成-行为,37
+39,"I'll optimize it. I'll take each scheme, its description and maybe some other differences, and do a little bit of refinement.",基于功能的分析,0
+40,"The first one is called Smart Home Health Companion, which is a name for a smart home that is designed to be a healthy companion.",概念合成-功能,10;39
+41,"The core of the project is the aforementioned connected application in the home, the construction of a systematic robot, and the provision of health and safety monitoring services through smart devices.",基于功能的分析,40
+42,The main core purpose of the robot as a terminal for the integrated manipulation of these smart products is to provide a more secure guarantee of the security of the system.,基于功能的分析,41
+43,Then it may involve some product such as the word. It is mainly used to describe a terminal such as a sound form.,概念合成-结构,42
+44,"The film is a sequel to the film, which was released in the United States on July 15, 2013.",概念合成-结构,43
+45,The company has also been working on a new product called Smart Home.,概念合成-结构,44
+46,Maybe the core of it is a formula like this for implementing a formula like this.,概念合成-功能,45
+47,"The second word is to change the name of the robot, to call it a city healthcare companion.",概念合成-功能,24;39
+48,"A product like this, which could be at its core, as a home, as a link to the city health care system; to help implement some of these functions by building some of these existing systems to build some of the health programs in the city.",基于功能的分析,47
+49,"It involves some of the following: ⇒ related products and people, which may contain the same terminal.",概念合成-功能,48
+50,The elderly person may have a software that is used by the elderly person himself or by some of his other caregivers.,概念合成-功能,49
+51,"The information contained in the information is not clear, but it is not clear what information is included in the information, such as the health insurance of the city or the local health system.",概念合成-功能,50
+52,The project is also possible to add a target group to each project.,基于功能的分析,0
+53,"For the former, he may be talking about the more broadly defined middle-aged population.",基于功能的分析,10;52
+54,"Because the core of it might be to do some health tests like this, maybe he has some disease or he doesn't have some disease, but he's not going to be able to do it.",基于功能的评估,53
+55,The report also highlights the importance of preventing diseases.,概念合成-功能,54
+56,"If there is a disease, it may be to prevent some emergency, it may also have some function to tell the parameters related to its disease, physiological parameters to do the detection.",概念合成-功能,54
+57,"The second product, in terms of its target group, is probably more suitable for middle-aged people with certain chronic diseases.",基于功能的分析,24;52
+58,"It's mainly to promote it in the treatment of this chronic disease, to help him overcome some of the difficulties and data gaps that are associated with this.",基于功能的评估,57
+59,"The third category, which is also a relatively broad group of middle-aged people, is the elderly.",基于功能的分析,26;52
+60,It is more suitable for people who are alone at home or who are relatively healthy and seeking a career.,基于功能的分析,60
+61,The third word is maybe to tell him to live a healthy life with the robot.,基于功能的分析,26;39
+62,The last one offers some small details about voice interaction.,基于行为的评估,61;38
+63,"Then think of a group of elderly people who may not be as visually and hearing-impaired as younger people, and who may have some differences in their abilities.",基于行为的先例,62
+64,"In this section, we'll look at some of the details of aging.",概念合成-功能,63

@@ -1,0 +1,33 @@
+节点编号,原文,设计行为,源节点
+1,"It should have a thermometer, blood pressure, blood sugar.",基于功能的分析,0
+2,The elderly should need these things often.,基于功能的评估,1
+3,"And then he wants the healthy companion, which should be a voice chat, like a little school friend, who can chat with the elderly.",基于功能的先例,0
+4,It's designed to help the elderly with household chores.,概念合成-功能,0
+5,"The elderly may be alone, alone at home, with a lot of work to do, a lot of housework to do, sweeping and dragging",基于功能的分析,4
+6,Or it's the older people singing or playing the TV while they're cooking or sleeping.,概念合成-功能,5
+7,"Emotionally, they're older, they're probably more nostalgic, they like that old-fashioned record player that looks like a horn.",基于功能的先例,2
+8,It's like a regular vacuum cleaner with that old-fashioned record player on top.,概念合成-结构,7
+9,"The above is all from hearing, not from tactile consideration.",基于行为的分析,6;7
+10,"We can make a machine that embraces the elderly, and the elderly need loving care.",概念合成-行为,9
+11,"It can be a screen, an eye, for example.",概念合成-结构,10
+12,"And then when the child is talking to him, if he wants to hug, he presses that button, and then the robot can give him that hug.",概念合成-行为,11
+13,"Adding body language, which used to be just a screenshot, is now being replaced by robots.",基于行为的评估,12
+14,"It should have two arms, and the robot's face is the cute cartoon character.",概念合成-结构,13
+15,"The other is the one that you can carry around, not just at home.",概念合成-结构,3
+16,The implementation should be a bracelet,概念合成-结构,15
+17,"The first thing that I want to do is to make a machine that is the size of a garbage can, and then have it equipped with a wristband, and then I can do it.",概念合成-结构,16
+18,"The bracelet is for walking with the elderly, and the dog can follow him.",概念合成-功能,17
+19,The old man is going to the GPS location.,概念合成-功能,18
+20,"The robot that is a little more proactive is like a dog, it will stick to it.",概念合成-功能,19
+21,The old people are also reminded to sleep at night.,概念合成-功能,16
+22,The functional aspect is to scan the face and give the hole. The Chinese therapy is that the robot can recognize the face and then press according to its hole.,概念合成-功能,17
+23,The gymnastics combined with Chinese medicine is equivalent to a small Chinese doctor's companion.,基于功能的评估,22
+24,The Chinese Medicine is accompanied by a cute image,基于功能的评估,23
+25,"The design inside it is that of the ancient Five-Fly Game, a very famous Chinese medicine study.",基于功能的先例,24
+26,This machine can teach you to play the five-a-side game.,概念合成-功能,25
+27,"There are many medical books, and if the elderly are interested, they can play them.",概念合成-行为,24
+28,"The smell is the first thing that comes into play, and the herbal additions are bananas.",概念合成-功能,24
+29,The same kind of physical therapy as that kind of tobacco.,基于功能的先例,28
+30,"He's a disease, and then he goes to see the doctor and he gives him a recipe, and he can click on the herb, and he can put that medicine in, and he can make this banana. Or he can put a lot of the medicine in the robot.",概念合成-行为,29
+31,"It's an old Chinese doctor, or maybe the drug-taking drug-child.",概念合成-结构,24
+32,"There are also language senses, hugs, companionship. There are also positive feedback mechanisms that can be given to the elderly at different times. There are also boasting that is better than saying it a week ago.",概念合成-功能,28

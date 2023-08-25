@@ -1,0 +1,52 @@
+节点编号,原文,设计行为,源节点
+1,"First, solve the problem. The keyword is elderly health and companionship. Mental health is actually related to companionship, and I've put companionship in the title.",基于功能的分析,0
+2,I think it might be worth considering a feature that comes with a symptom monitoring feature.,概念合成-行为,1
+3,"If the elderly person is at home, for example, where the children may be far away from him, and he is not detected in time, the child may be able to see the problem.",基于行为的先例,2
+4,"Symptom monitoring, he could be a camera. Visual recognition could be what falls detection is like. It could also be said to be the type of parameter detection that characterizes the whole person.",概念合成-行为,3
+5,"Health, providing timely warning when children are away from their parents",基于行为的分析,4
+6,And then mental health is essentially about the fact that it's a companion function.,基于功能的分析,5
+7,"I think that the accompanying function is that it has to have a more peaceful appearance, not be too aggressive.",基于结构的分析,6
+8,The first thing I noticed was that the image of the human being was a little bit more than a little bit of a mirror.,基于结构的评估,7
+9,"A humanoid or humanoid object, or it may be an inanimate object, rounded, is a shape with a rounded outline",概念合成-结构,8
+10,"The video shows the video of the attack on the building, which was filmed in the early hours of the morning.",概念合成-结构,9
+11,The two things create a sense of companionship.,基于结构的评估,7;9;10
+12,"So as for my program, the first thing to consider is that it's a place to go, moving?",基于行为的分析,11
+13,"I'm more interested in it personally, it's a walking companion pet-like robot.",概念合成-行为,12
+14,The point is to land on this pet.,基于行为的分析,13
+15,It could be like the Boston robot.,基于结构的先例,14
+16,"I thought it was the whole, Boston, too forward, I was scared to look at for the first time.",基于结构的评估,15
+17,"The shape of the object is more similar, the acceptance is greater",基于结构的评估,9;16
+18,The first is that the human body is more like a human body.,基于行为的评估,9;17
+19,"So this behavior might involve some structural aspects, but this one I didn't actually learn, so this one I definitely skipped.",基于结构的分析,18
+20,Some animals have visual cameras for eye recognition. The eye can be equipped with cameras for fall detection.,概念合成-结构,4;14
+21,"The most commonly used test is the fall test, which is a test that is used to detect falls.",概念合成-功能,20
+22,"Some pathological tests might do that, but I feel it's a little bit harder.",基于功能的评估,4;21
+23,"The second option, I think, is a place-based companion robot.",基于功能的分析,0
+24,"Use scenes on a desk, on a table in a room or on the floor.",概念合成-行为,23
+25,I think I can consider adding some formatting to this one.,基于结构的分析,24
+26,It's shaped like the more rounded language we talked about earlier.,概念合成-结构,9;25
+27,"But I think it's not too much of a human being, because it's too scary to think of as a thing.",基于结构的评估,26
+28,The whole function is to have an electronic screen.,基于功能的分析,27
+29,"The video shows the video of the two women, who are in a state of shock.",概念合成-功能,28
+30,I'm not sure I can do that.,基于功能的评估,29
+31,The screen is also interactive.,基于行为的分析,28
+32,It can be used to watch videos.,概念合成-功能,31
+33,"Then play music, make phone calls",概念合成-功能,32
+34,"The size, 30 to 40 cm, may be more suitable for a table on the floor.",概念合成-结构,23
+35,This size means that you can interact with it at the same time.,基于结构的分析,34
+36,"The color, the low humidity and the warmth, may give some of the impression of the Macaron system.",概念合成-结构,25
+37,"The third I may have let myself fly a little, just having a sudden thought. It's a whole bigger thing. It may be almost as big as someone. A larger placemental companion robot.",概念合成-结构,0
+38,The shape of the word is probably based on the second option.,概念合成-结构,25;37
+39,It can have a touch feedback. It can have a soft part.,概念合成-行为,38
+40,"It's probably a bit like, when we touch a kitten, a kitten, and then it's like,",基于行为的先例,39
+41,It might say that different places he touches will have different sound effects or something.,概念合成-行为,40
+42,This is not a self-defeating scheme.,基于行为的评估,38;39;40;41
+43,"And then in terms of structure, it could be 50 to 60 centimeters high.",概念合成-结构,42
+44,The whole soft material is the feel of the hair on that stuffed toy.,概念合成-结构,39
+45,The most common type of sponge is the one that is very resilient.,概念合成-结构,44
+46,"The one you sit on, it's all soft, elastic.",概念合成-结构,45
+47,"For example, you can pinch it, softly, and then it will quickly return to its original shape, a kind of feeling of great relaxation.",概念合成-行为,46
+48,"Then, perhaps, the color will be the same as the second option, a low-saturation color scheme. But if you have to consider the degree of dirt resistance, that's it, no consideration.",概念合成-结构,36;47
+49,"I think that the three of them can be used together with a camera for visual recognition, and that's fine.",概念合成-功能,4;20;48
+50,"I also think it's important to have some sort of tracking feature, and if it's tracking feature, it's like a watch on a wearable, so I don't know how to add one to the companion robot.",概念合成-功能,4;49
+51,"I think this is a really important feature. He'll be more important than camera recognition, I personally think. He'll be more useful, but I don't know how to put it in.",基于功能的评估,50

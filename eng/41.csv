@@ -1,0 +1,83 @@
+节点编号,原文,设计行为,源节点
+1,"Health is going to be related to physical health, and then it's going to be related to mental health.",基于功能的分析,0
+2,Psychological conditions may be more favored over companion-type robots; physiological health may be more favored over disease-related functional robots,基于功能的分析,1
+3,"The most common diseases in middle-aged people are leg-foot, heart.",基于功能的先例,1
+4,"If it's a healthy companion robot, there's another category that may be more prone to Alzheimer's.",基于功能的先例,3
+5,And then what else is there to compare to the health problems of the elderly?,基于功能的分析,4
+6,I imagine the elderly people around me. There is also a group of elderly people who have seen the blindness.,基于功能的先例,5
+7,The first thing to do is to put the healthcare provider in the hospital.,基于功能的先例,6
+8,Mental health before me.  Before I went.  Mental health when I was in nursing home.  There are several parts of the problem that elderly people are a dying care.,基于功能的先例,1
+9,"Then the solitude accompanies, considering the form.",基于结构的分析,8
+10,The shape of the animal is more prone to bias.,概念合成-结构,9
+11,"The cat dog, which is best described as furry, gives a more friendly feeling.",概念合成-结构,10
+12,"It's not like because robots themselves are going to be calmer, and robots now are more of that metallic, mechanical kind of structure, and then you feel that the robots are going to be less emotional.",基于结构的先例,11
+13,"For the elderly, feeling the non-human animal form may make you feel a little more comfortable and then a little more companionable, but it's not the same as feeling the animal form.",基于结构的评估,12
+14,"There is also a shape, which I really like is the big white one. Because I've seen a robot stage play before, and the big white is the kind of shape that rolls around.",基于结构的先例,9
+15,"It's a round shape, and then the animal hair shape, which may make you feel a little bit more comfortable touching it.",基于结构的评估,11;14
+16,"The feeling of having more electronics? It is possible. Compared to mechanical technology, there is not much that young people are exposed to.",概念合成-结构,15
+17,"I'll actually have a point to make me feel good, before Japan. Some Japanese. Some Japanese. It's Japan. They're very polite, but then there's this one thing: every time they go out, they say I'm out, and then the family tells you what to do, be careful about safety or something, and then when you come back, I'll say, I'm back.",基于功能的先例,9
+18,"If it is a lonely companion, the elderly person must be a home-aged person, such an elderly person goes out. There may be some weather.",基于功能的先例,17
+19,"The idea is that the child's identity is a bit like ours, which he will replace with a part of it.",概念合成-功能,18
+20,It can't be a news channel show; it may prefer the voice of the grandchildren.,概念合成-结构,19
+21,He may be more suitable for elderly people who have homes and empty nests!,基于功能的评估,19
+22,"Because many people feel like they're going to have some pets, some of which are actually in some way a replacement for their grandchildren.",基于功能的先例,21
+23,"But... for some pets it has no way to do health care, for the elderly it can only play a role of companion, if the robot is talking, he is better in emotional terms, it can replace the role of this pet, but in functional terms he can also go...",基于功能的分析,22
+24,"The help from this side is probably more so because some conversations like going out to the house, in fact dogs and cats, they actually go around the old man, or call him.",基于功能的先例,19;23
+25,"The effects of the weather and the wind. If it is an empty nest of elderly people, pets like these are impossible to provide.",基于功能的评估,24
+26,"If there is such a robot, there is a part of the job that he has to take on, a bit like a family doctor, a child.",概念合成-功能,25
+27,"I feel like maybe more older people will need to take their medication on time, and I feel like they might not remember, because I don't remember either.",基于功能的先例,26
+28,"I don't know if they're going to be able to design something because I don't know if they're going to have any problems with the side of the pill, and some of the designs that we've seen before are going to do a week's supply of a box of medicine.",基于功能的先例,27
+29,"For the elderly with Alzheimer's, the shape can be not a robot shape, but a very convenient one. It can be worn on the body. Or it can be worn on the ear.",概念合成-结构,28
+30,"I am a retired woman living in a remote village, and I am not a refugee.",基于功能的分析,18;29
+31,Is it a nursing home or a centre? Are these or a retirement home? Because feeling at home is a big problem. He has experienced.,基于功能的先例,30
+32,"I feel like I can't be that kind of robot that runs on the road, it's better to carry it.",概念合成-行为,31
+33,"I feel like he's meeting a new, old friend who's coming to his house, and it's going to be a need for outreach.",基于功能的评估,32
+34,"Carrying it is a more important point. Then it is better to put it in the ear, because it can remind you directly.",概念合成-功能,32;33
+35,"But this feature looks like something I've seen in other products before. But one of the features he does is, I might have seen a grandson, and I feel pretty tough telling you that this is your grandson Bala.",基于功能的先例,34
+36,"I think his illness is the most painful thing. You have a lot of time in your life, the feeling of being slowly wiped out by the scratch. Then you and the other person experience even if you remember who he is, but not that moment with him.",基于功能的先例,29
+37,Is it possible that the robot feels like it can save a memory? Tell you. Or is it the same feeling that tells a story is like a sleep aid?,概念合成-功能,36
+38,"When I meet a man, I can tell you who he is, and I can. Let the two of you remember it together.",概念合成-功能,37
+39,"For example, I. I met B. I didn't tell him what the relationship between you two was, so that only tells this, for this group of people. They also have no way to continue the conversation.",基于功能的评估,38
+40,"Could robots be a third-party plug-in? When the connection between them. Help them to move on with the topic, remember something of their own. Then you can go and input some stories between a and b or preferably use some objects.",概念合成-功能,39
+41,"It's a little bit of a memory, but it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory, and it's a little bit of a memory.",基于功能的评估,40
+42,Although you may forget it the next day.,基于功能的评估,41
+43,"Because what he saw before was also an anime, and because he forgot all these things, he would put a note on everything, saying what is this thing?",基于功能的先例,36;42
+44,"And then this thing that I felt was going to require me to do this thing, which was actually kind of annoying, and it was like a pencil eraser, and then it was a cell phone thing, which was actually particularly unfriendly to the elderly.",基于功能的评估,43
+45,"If there was a robot that could do this, it could say something that is relatively simple, we could do an automatic input directly through voice or image, and it could say this thing, I think it would be a little bit better.",概念合成-功能,44
+46,"I saw that Apple Vision Pro a few days ago, and I thought, well, I think it's possible to integrate 3D images into a robot.",基于功能的先例,45
+47,"3D imaging, and I think one of the things that's going to connect is the connection of these ABs that I just talked about, and it's going to be more oriented toward the way that we tell stories.",概念合成-功能,45;46
+48,"If you were to do a 3D image, it could actually be done in a real scene. It's kind of like you could sit here and see something that's kind of like a 3D projection of a memory with your naked eye or a projection of a hologram.",概念合成-功能,46;47
+49,"You can go back to that memory together, and then go back to a time before that, and I feel like it's more like a memory retention.",基于功能的评估,48
+50,"And then for his posterity, the old man died and left a better memory.",基于功能的评估,49
+51,"Recently, a middle-aged man in his 30s had a serious work-related illness, and it was very important to have a healthy companion.",基于功能的分析,1
+52,Many people don't have close relationships. This is actually a topic I've wanted to do before.,基于功能的分析,51
+53,It can take a GPT interface. The robot's shape has not changed much.,概念合成-结构,52;32
+54,"Three, forty, middle-aged; middle-aged is my mom's first impression; it seems that intimacy is not so necessary; it is more suitable for young people.",基于功能的评估,52
+55,"I'm not sure what I want to do with my life, especially in a nursing home, because you have a period when you have a better friend. One of them leaves you. It's a little more difficult for older people to accept, and I feel like it can have a much harder impact on their mental health.",基于功能的先例,31
+56,The nursing homes I visited were particularly poorly equipped in terms of mental health; it was basically as if no one was doing anything; and their overall service design was not very good.,基于功能的先例,55
+57,"In fact, I think more robots, I feel like chatting is a good feature.",概念合成-功能,56
+58,"He's got a problem with what he's talking about, what's his tone?",基于功能的评估,57
+59,"What do I do from interaction? If possible, it's better to have a device ecosystem that works together.",基于结构的分析,58
+60,"If it is a leg, it is better to use the higher-end robot.",概念合成-结构,2
+61,"He also has a vision problem, which is a problem for many elderly people, and he has trouble walking because of the way he looks.",基于功能的先例,60
+62,Some people's solution is to simply pull a rope without using a smart robot. The elderly person walks along the rope to various locations in the room.,基于行为的先例,61
+63,The feel of the crutch is something that older people will use! Feel can also be combined with the crutch. Feel regularly carried things combine it inside.,概念合成-结构,62
+64,"The glasses may actually be more or not need to add anything else? They are smaller, feel not very like big robots.",概念合成-结构,63;32
+65,The workplace of middle-aged people. I don't know if I feel that there are too many unemployed this year.,基于功能的先例,51
+66,Design a workplace with aigc,概念合成-结构,65
+67,The idea is that the simple form is fine; it can't be that beautiful.,概念合成-结构,66
+68,It's a bit like the future of cars we've seen before.,基于结构的先例,67
+69,"It's normal to feel this kind of pressure, and it's hard to tell if there will be a group of people like this.",基于功能的先例,65
+70,"The same is true for the human brain, which is a part of the brain, and the brain is a part of the brain.",概念合成-功能,2;69
+71,He is more likely to be competitive in AI analysis than in human analysis.,概念合成-功能,69
+72,"It's based on facial expressions, and emotions are a little more accurate.",概念合成-功能,71
+73,"Then it can add another, which is the smaller screen. This screen is not for presenting information, it is for presenting expressions.",概念合成-结构,72
+74,"He might just put it on your desk, or what? It might be your breathing bag when you're angry, something to accompany you when you're sad. Something like this he shares with you when you're happy.",概念合成-功能,73
+75,It is a more comfortable option when you don't want to maintain a decent social life.,基于功能的评估,74
+76,I feel a little tired because I'm still very much social every day.,基于行为的先例,75
+77,There are some people he would be more inclined towards being single.,基于功能的先例,69
+78,"And then if I have something to say to someone else, I find my; a good friend, they may have their own objects, I might wonder why I should not tell him.",基于功能的先例,77
+79,Then he will generally put his energy into the intimate relationship first.,基于功能的先例,78
+80,"For a situation like this, many people would use GPT as a dialogue.",概念合成-功能,79
+81,"It's positioned as if it's here too. It's going to be something of a conversation, and when he's unhappy he'll type in G P T. Then G P T. It's going to come back to some comfort to you, or some guidance, or some analysis of some of your own words.",概念合成-功能,80
+82,"I'm going to be more rational with my feelings, and I'm going to be better.",基于功能的评估,81

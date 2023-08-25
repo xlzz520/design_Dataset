@@ -1,0 +1,69 @@
+节点编号,原文,设计行为,源节点
+1,"After listing the topics, I started thinking about the middle-aged population and what kind of healthcare they need.",基于功能的分析,0
+2,"I think in the middle-aged population he has a companion scenario, this person he could have some not very serious disease, maybe say three feet tall, or maybe his heart is not very good, but he's not going to be able to do it.",基于功能的先例,1
+3,"Robot that needs to be monitored regularly for underlying conditions like blood pressure, blood sugar, heart rate",概念合成-功能,2
+4,It is also possible that it has a serious disease in itself.,基于功能的先例,1
+5,"If you have a serious illness, you need to be reminded to take your medication, have regular check-ups, and preferably have the ability to communicate with your doctor online.",概念合成-功能,4
+6,And then the middle-aged people will have a problem with wrestling?,基于功能的先例,1
+7,"I feel that the problem with the elderly is that he still has a problem, his children are probably at work and no one is with him.",基于功能的先例,1
+8,"So the healthy companion robot, the appropriate belt, has some entertainment functions.",概念合成-功能,7
+9,"The robot can communicate with the child on the robot, and the child can also observe them in real time on the phone.",概念合成-功能,7
+10,This is also convenient.,基于功能的评估,9
+11,"So my first project, to identify its target user, is a healthcare companion robot designed for middle-aged people with underlying conditions like hypertension or fatty liver.",基于功能的分析,2
+12,And then it has a functional point of measuring blood pressure.,概念合成-功能,3;11
+13,The blood sugar is now measured with very small instruments.,基于结构的先例,11
+14,The small instrument is mounted on a large machine.,概念合成-功能,13
+15,"Well, the people above can also have diabetes.",基于功能的分析,11
+16,The function also includes heart rate measurement.,概念合成-功能,11
+17,The person with the underlying disease also needs to take medication.,基于功能的分析,11
+18,I feel like the robot can deliver quantity in a timely manner.,概念合成-功能,17
+19,The children are also connected remotely.,概念合成-功能,11
+20,The head is made up of an electronic display.,概念合成-结构,19
+21,An electronic display like this can play him a TV weather forecast.,概念合成-功能,20
+22,The video is also available for free on YouTube.,概念合成-功能,21
+23,"And then his body part, first of all, it has to have an instrument that measures blood pressure.",概念合成-功能,12
+24,"The body is not a simple geometric shape, but a simple, simple, simple, simple, simple, simple, simple, simple, simple, and simple.",概念合成-结构,23
+25,"If the whole thing is a cylinder, there's a device next to it that looks like a ring to measure blood pressure.",概念合成-结构,24
+26,Where do you put the blood sugar meter?,基于结构的分析,14;25
+27,"And then you give him a cylindrical body, and then you give him two rings around it, and on the left is the blood pressure meter, and on the right is the glucose meter.",概念合成-结构,26
+28,"The inside of the cylinder is a drawer, a drawer that holds the medicine.",概念合成-结构,27
+29,The bottom part is the wheel.,概念合成-结构,28
+30,"It's like a robot sweeper, controlling the robot's walk.",概念合成-行为,29
+31,The robot's behavior is to make older people happier by talking to them.,概念合成-行为,30
+32,"My second project is a healthcare robot designed for patients with major diseases like cancer, heart disease.",概念合成-功能,4
+33,"Then there are serious illnesses, first his stage, probably after returning from the hospital chemotherapy, when their bodies are very weak.",基于行为的先例,32
+34,"This health-accompanied robot. The function point can have a recipe, which can tell the family that the recipe is healthy, and develop a recipe for patients who are very weak after chemotherapy.",概念合成-功能,33
+35,"The patient also needs to take medication, be sure to inject medication on time, remind to take medication regularly and check it again.",概念合成-功能,5;34
+36,Communicate with your doctor online remotely,概念合成-功能,35
+37,"The entertainment features are fun, music and video playback.",概念合成-功能,36
+38,"The structure of the system requires remote communication with the doctor, and the remote communication with the doctor must have video, and the video must be a good way to communicate with the doctor.",基于结构的分析,36
+39,The head is an electronic display.,概念合成-结构,38
+40,Then the body is cylindrical.,概念合成-结构,39
+41,Could it be that tiny robot that can communicate remotely?,概念合成-结构,40
+42,"No, it's a giant robot, with a cylindrical body with wheels.",基于结构的评估,41
+43,"He was a very innovative man, and his innovation was to be able to make recipes that fit the patient's taste.",概念合成-行为,34
+44,The third option is designed for whom?,基于功能的分析,11;32
+45,"The third thing that's important to me is the health of the average middle-aged person, and the average middle-aged person is assuming that they're not sick.",基于功能的分析,44
+46,And then what do the average middle-aged person need?,基于功能的分析,45
+47,"The most important thing is to have a healthy body, a healthy mind, a healthy body, a healthy mindset, a healthy body, a healthy mindset, a healthy body, a healthy mindset, a healthy mindset, a healthy mindset, a healthy mindset, a healthy mindset, a healthy mindset.",基于功能的分析,46
+48,He needs to know if some dishes will trigger a high.,基于功能的先例,47
+49,"For example, eating more seafood will lower blood sugar.",基于功能的先例,48
+50,He needs to be able to see the characteristics of each dish.,概念合成-功能,49
+51,"You can say it directly and you can voice the basics of some vegetables and fruits, like whether eating too much causes low blood sugar.",概念合成-行为,50
+52,And what else do different middle-aged people need for health?,基于功能的分析,51
+53,"Yes, dancing in the square and Tai Chi are healthy too.",基于功能的分析,46;52
+54,"The robot can be connected to the TV, which is voice controlled to play videos.",概念合成-行为,53
+55,"The healthy companionship of the middle-aged is to communicate with their children, to be able to video with their children.",概念合成-行为,54;9
+56,"What else is there? There are some middle-aged people, he is old, he can't read some words on the medicine bottles.",基于功能的先例,55
+57,The robot has a magnifying glass and can see the words on the bottle.,概念合成-行为,56
+58,"Or directly, a robot can voice-explain the function of the drug.",概念合成-行为,56
+59,"And in terms of structure, I feel like I could make a little bit like a Titan or a little bit bigger than a Titan.",概念合成-结构,58
+60,The whole is the cylinder.,概念合成-结构,59
+61,"And then there's the other line, the slender, long, square robot.",基于结构的评估,60
+62,The video is also very good.,概念合成-结构,61
+63,Mainly voice controlled,概念合成-行为,58
+64,This small one is also convenient for him to put in his place.,概念合成-结构,61
+65,Video and mobile monitoring with children,概念合成-行为,64;9
+66,"I feel like I'm not really fit, it's kind of like having a monitor in my house, but this is a normal middle-aged person, and I'm just going to delete it.",基于结构的评估,65
+67,"And then where is the innovation in his behavior, this robot can explain the function of the drug. It can put the bottle in front of the robot camera, and the robot can recognize it by itself.",概念合成-行为,58
+68,So there's a little camera in the rectangle.,概念合成-功能,67

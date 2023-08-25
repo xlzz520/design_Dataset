@@ -1,0 +1,36 @@
+节点编号,原文,设计行为,源节点
+1,"The first is the self-confident, independent single man.",基于功能的分析,0
+2,The elderly population in the second group is located in the following categories:,基于功能的分析,0
+3,The third option is to locate the new elderly in modern society.,基于功能的分析,0
+4,"The user's location is probably; imagine some of the functional features of this healthy companion robot, which is located in the new old man, he may want to use as a new keyword.",基于功能的分析,3
+5,The product function is ≪ entertainment≫ social social needs≫ entertainment needs≫ functionality≫ playfulness≫ accompanying effects≫,概念合成-功能,4
+6,"The building is constructed of stone, stone, and stone.",概念合成-结构,3
+7,Is it that color? Warm.,概念合成-结构,3
+8,"The first one is ""Oh, the first one"".",概念合成-行为,3
+9,The second one is mainly present in the app. Some features are present in the app.,概念合成-功能,4
+10,Please add the first point! You are past the age of old man fitness guide,概念合成-行为,8
+11,"The third can be: new people, old people, entertainment, maze, many trends, hobbies.",概念合成-功能,4;5
+12,"The game is also known as ""The Game of Life"".",基于功能的先例,5
+13,The second option is the elderly who are in the rehabilitation centre and have difficulty moving.,基于功能的分析,2
+14,It is designed to be a more accurate description of the characteristics of this age group. They may need more than social entertainment.,基于功能的分析,14;5
+15,The problem is that the person is unable to move; or that some physical discomfort causes; lonely; seeks some kind of psychological comfort.,基于行为的先例,14
+16,"It also requires a sort of 'emotional care', such as the 'he wants to get it' attitude, 'oh, I'm less of a drag in my actions'.",基于功能的先例,15
+17,"Some of his behaviors can be adapted. First of all, he can be like some.",概念合成-功能,16
+18,Level one: export; delivery; memory; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control; remote control;,概念合成-功能,17
+19,The only thing that is needed is a voice dialogue.,概念合成-行为,18
+20,"Yes, if these elderly people are something he is missing, this ability to speak, this ability to speak, it needs something else, like gesture interaction.",概念合成-行为,14;19
+21,"Well, if he can keep moving forward, there might be more. ‖ through‖ eye movements‖ to measure it. ‖ this desired sort. ‖ some needs he currently wants. ‖ well.",概念合成-行为,20
+22,"When the elderly person's room is empty, he needs to use the robot to inform the doctor, nurse, or the person in the room or hospital that he needs to turn over, or to go to the bathroom, or to speak with the robot, or to go to the bathroom.",概念合成-行为,21;2
+23,The second is that this robot can have a real conversation.,概念合成-功能,14
+24,"Well, for example, there are many airports now or some. There are also collections. There are also some. There are small robots that can talk to people.",基于功能的先例,23
+25,"Then, come, it is best to use some dialects, or its screen can have some signs, etc. or directly show text, come, have a daily chat with the elderly.",概念合成-行为,24
+26,He might need to be more like a Titan elf.,基于行为的先例,25
+27,"But it takes a little more of an accompaniment than a little guidance, like the one that lets you turn on the lights.",基于行为的分析,26;15
+28,"── secondly, because it is also aimed at ── health ── so it is best to, for example ── test ── can be used for real-time real-time monitoring ── monitoring ── elderly ── body temperature ‒ or ── other ── body temperature ‒ other ‒ physiological properties ‒.",概念合成-功能,2
+29,He is a single man who acts independently.,基于功能的分析,1
+30,"The young man, who is now a teenager, is in need of a social and companion.",基于功能的分析,29
+31,But he may be more able to go out and find his friends or family to communicate.,基于行为的先例,30
+32,"On the one hand, you have to << send an app << App end << On the other hand << for << elderly people << Oh, I understand << Relatives section also for relatives << Elderly people << They have two << to each other << This << sent a point account << Linked account linked <<",概念合成-功能,31
+33,"Two are that it can directly have some.body function testing.testing function.e.g...., this body temperature.go.yeah.to him.and some.oh, this is probably what is common.then.with this test function, you also have to provide some.55.......................................................................................................................................",概念合成-功能,29;28
+34,"He is a self-sufficient, single elderly man, but he faces unknown future situations. He may be replaced.",基于功能的先例,33
+35,"The robot's structure? No need, it's the one with wheels running around.",概念合成-结构,29

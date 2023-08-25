@@ -1,0 +1,77 @@
+节点编号,原文,设计行为,源节点
+1,"First the topic is focused on the health companion robot for the elderly, so his user group is middle-aged people. Then consider. My goal?",基于功能的分析,0
+2,"The first is a robot, the word robot.",基于功能的分析,1
+3,And then there's the human-like robot.,基于结构的先例,2
+4,"And there's another one that might be like the six-legged robot that you've seen before, which is this anomaly, which might be like a doll.",基于结构的先例,2
+5,"I don't know if the classification is correct, I guess I'm trying to say something like this. Like that doll, or like a dog or a cat.",基于结构的评估,4
+6,The human being is a copy of the human being.,基于结构的评估,3
+7,"I'm going to use the cat dog as an example, and I'm going to start thinking about the first one this way. Since it's aimed at middle-aged people, I should start thinking about the middle-aged user group.",基于功能的分析,5
+8,"The word health can be something like safety, something like his safety issues, but it's not a word that's used to describe his health.",基于功能的分析,7
+9,The first is that the government is not going to be able to stop the spread of the virus.,基于功能的先例,8
+10,Or the problem of going out and getting lost.,基于功能的先例,8
+11,"And then there's the other thing that you can think about, like, some elderly person gets sick, and then he might need to take medication.",基于功能的先例,8
+12,What if you remind him to take his medication regularly?,概念合成-功能,11
+13,The following is a list of the top 10 most popular websites in the world.,基于功能的分析,7
+14,It may be that he has some phone calls every day. It may be that he has some phone functions or it may be that he is chatting.,基于功能的先例,13
+15,"The first is that the user can use the same functions as the other, but with a few basic functions, plus some that are functional, like the one mentioned above.",基于功能的分析,7
+16,"For example, what the elderly need, like doing housework, cooking, this is to provide a basis for something, like a menu or something to teach him how to cook.",基于功能的先例,15
+17,The first is the idea that the world is a place where people can be themselves.,基于功能的分析,7
+18,"For example, he may need to develop a hobby, develop some hobby, like that calligraphy!",基于功能的先例,17
+19,This feeling is also a kind of spiritual companionship.,基于功能的评估,18
+20,What is this sport that the old people say is too much?,基于功能的先例,17
+21,"The first two are more basic types of companionship, which are actually equivalent to the spiritual level.",基于功能的评估,13;17;15
+22,And then I'm going to combine the need and the kind of robot that I'm going to do.,基于功能的分析,2;7
+23,"The first thing that came to my mind, which is that I think there are some things that are really scary about this humanoid robot, is that for him, a companion I don't think is as good as a cat dog like this doll.",基于结构的评估,3;4
+24,"I started with a toy robot, which I would say is a dog-shaped robot.",概念合成-结构,23
+25,"So we're going to do a simple one here, say it's a safety illness that needs this basic functional accompaniment.",概念合成-功能,24;11
+26,"For example, if it is an elderly person who is ill, then first of all it is functional, he needs to be reminded to take his medication.",概念合成-功能,25
+27,"For example, it is a robot itself, it is structured. For this purpose, it is structured in time, it is itself, for example, its back is already designed a medicine box.",概念合成-结构,26
+28,"For example, one of his backs has a medicine box that he uses at work to remind him to eat this thing. After a while, his children will say, for example, one of his relatives, his relatives will try to add, or his old friend will help him add such a drug, and then will remind him.",概念合成-行为,27
+29,"And every time he takes his medicine, he actually triggers a message, like, touch this dog, touch this robot, and he triggers a message to his loved ones.",概念合成-行为,28
+30,"This means that he is taking his medication normally, and that he is sending messages to himself at the same time, for example, if he has a distant child, and then he can check it every time, and indeed my parents are taking their medication seriously and have not forgotten, because the elderly may not have a good memory.",概念合成-行为,29
+31,"I was thinking that he was a kid who had to take a lot of different kinds of medication every day, but he was a little bit confused, so we went to him every day to check if he was taking the medication, three times a day.",基于行为的先例,30
+32,The words could be a foundation to help him achieve such a function.,基于功能的评估,31
+33,The other is the companion who joins the base at the same time.,概念合成-功能,24;13
+34,"I think that this companion is actually the robot's equivalent of an intermediate tool. For example, it needs to talk to this child or something, and it's a centralized tool that can do everything with this robot.",概念合成-功能,33;14
+35,"The word behavior. This word is hoping that this behavior is like a normal dog, which is usually, say, will stay at the feet of this old man, or whatever, it is like a real pet.",概念合成-行为,34;24
+36,"He goes to the behavior every time he touches, like he goes. For example, to touch the dog, or to touch the corresponding part, like the part of his cough medicine, it is to remind him that there is some corresponding acoustic and photoelectric signal to remind him.",概念合成-行为,35;26
+37,"And the second option, I still want to be a robot that doesn't mess with humans, like a robot that's like a doll.",概念合成-结构,23
+38,"It can be placed, say, on a table.",概念合成-结构,37
+39,"And that piece of speech, I hope it has a metaphor for spiritual companionship.",概念合成-功能,38;17
+40,"I just mentioned that there are some elderly people who, in addition to having a basic communication with their family, need to develop their own hobby, for example.",基于功能的先例,39;18
+41,"The elderly man is relatively healthy physically, and his spiritual pursuits are greater.",基于功能的评估,40
+42,"The word for such a function. We list two types, one is written function, then it could be, for example, the writing painting I just mentioned.",基于功能的分析,41;18
+43,"For example, this robot will go every day according to one of the situations of the elderly, which is when you set it up at the beginning, say there was an initial smart speaker similar to the current one, there is an AI based AIGC based voice model that is better at communicating with the elderly.",概念合成-功能,42
+44,"It can go to the question of what you want to do, say, what you want to do. A thing you want to do, say, I want to improve my writing, what I want to improve, that is, first of all, to communicate with him, then help him develop a plan.",概念合成-行为,43
+45,"And then, it could be a screen with an electronic screen.",概念合成-结构,44
+46,Or adding it to the voice to help the elderly with a lesson to learn and develop his hobby,概念合成-功能,42
+47,"The other category is the innovation for older people in sports, like he does some sports, Tai Chi or some old people like to dance in the square.",基于功能的分析,41;20
+48,"This is the part where he needs to be able to sort out what he needs based on his own priorities, and he might be more specific about what he needs is this AI to help him filter out the lessons that are relevant to him.",概念合成-功能,47
+49,And then he goes to a square or a robot like this in his backyard.,概念合成-行为,48
+50,"So the first thing about this structure, the first thing that it's shrinkable is that it can be both on a desk and it can be tall.",概念合成-结构,49
+51,"Then it needs a big screen, which is probably about as high as the one we have.",概念合成-结构,50
+52,"Then there's a big screen that tells him if this is standard, which is like asking him to feel that he needs a personal trainer.",概念合成-行为,51
+53,"He also wants to share with his children, for example, friends, who may not be just children, but friends and relatives who can share with him some of his learning outcomes.",概念合成-行为,52
+54,"This is one of its uses, which is probably a process, a main function. It was just mentioned, in terms of behavior, it is actually more like a tool type, this piece is more like a tool type robot.",基于行为的评估,53
+55,"Its structural innovation, which may be a stretch structure just mentioned, it needs to adapt to when it is practicing different things. Its needs, like lifting and lowering it to the table, to the floor, it may need some structural changes.",基于结构的评估,50
+56,"That said, this is a highlight of the function, it can be a mental companion type, it is not just a foundation for a satisfying one, a safe one, but a mental health one.",基于功能的评估,39
+57,"Option three, there are those in front of you that think it's more like a robot like this used in the home, so I might be thinking of it now as a change in use scenario.",基于行为的分析,38;24
+58,"So I'm hoping that the third use case is outdoors, and I'm hoping that it might be conceptual or outdoors oriented.",概念合成-行为,57
+59,"The elderly man was being monitored daily outside, and he was not allowed to leave the house.",概念合成-功能,58
+60,"He may need a higher level, which I think is not possible with current technology.",基于功能的评估,59
+61,He may be a humanoid robot.,概念合成-结构,60;3
+62,"He may have different types of elderly, some elderly, he is relatively healthy, he can walk by himself, or he doesn't need himself, he can move freely, that's it.",基于功能的先例,61
+63,"And then there's the elderly, who may not be very healthy, who may not be very comfortable, and then there's the disabled, and then there's the elderly, who are not very comfortable, for example, with their legs, and just restrict their freedom.",基于功能的先例,62
+64,"He may say, for example, that his legs are not comfortable. Maybe I still feel like saying, for example, that his legs are not comfortable.",基于功能的分析,63
+65,"The robot is hoping to accompany him and then help him with a safety, but he is not sure if he will be able to do it.",基于功能的分析,64
+66,"So, for example, for this person with a disability, this robot, for example, it can help him to rest.",概念合成-功能,65
+67,"Or it could be that it needs someone to hold it, or it could be that it needs to become this kind of a man-chair, where it can rest anytime, anywhere, and it can be a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of",概念合成-行为,66
+68,"It needs to be more adapted to its overall structure, it has some human-like actions, like sitting on a person, or supporting a person, it needs more complex structure, like a human.",概念合成-结构,67;61
+69,"It's probably more functional, it's a full-on master hit like a human, so his behavior is human-like.",概念合成-功能,68;61
+70,And it can help us to identify the danger by some intelligent means.,概念合成-功能,69
+71,"For example, if it is possible to cross the road or if it is dangerous for him to climb stairs, he can make a solution accordingly.",概念合成-行为,70
+72,"For example, if he suddenly had a heart attack or something, he would go to him and give him all the information and call him and offer some help.",概念合成-行为,70
+73,"This is a relatively intelligent robot, which I feel is a lot harder to do now.",基于功能的评估,70
+74,"For example, when he goes out, it may be a leisure activity, and it may be necessary to imitate the way the elderly person speaks and, like his friend, offer him some suggestions for playing.",概念合成-行为,69
+75,"For example, if I just mentioned that he needs a walk in the park, he might go out with him and tell him something about the area. Interesting stories, or introduce a relevant place.",概念合成-行为,74
+76,This word ─ is conceptual ─ he may need to do is human ─ this behavior and accompaniment,基于功能的评估,75

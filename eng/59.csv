@@ -1,0 +1,37 @@
+节点编号,原文,设计行为,源节点
+1,"Locate this group of elderly people, some of the difficulties and pain points he has in this regard.",基于功能的分析,0
+2,Some of these difficulties can be solved to some extent by these so-called robots.,基于功能的分析,1
+3,"It's also possible to divide it into two parts, a physiological and a psychological one, or a combined one.",基于功能的分析,2
+4,"For example, some psychological pain points. We can think simply, for example, lack of companionship. Then we can cite further thinking, that is, people who do not normally talk about communication and communication.",基于功能的分析,3
+5,"Or maybe it's that this communication and communication is more distant from your own child, and then the channels of communication and communication may not be particularly fluent, and then both parties are not as fluent in communication, both parties don't understand each other very well.",基于功能的先例,4
+6,"Physiologically, for example, the most prominent disadvantage may be the physical discomfort of physical activity.",基于功能的先例,3
+7,"Secondly, there may be a lack of a more personalized, then long-term health aide. Help and advice on some of the elderly's daily diet or lifestyle habits",基于功能的先例,6
+8,"The third aspect may be a lack of care, for example in some emergency situations, especially for elderly people who live alone. When they have a fall or a stroke, which can be a bit more troublesome, and no one goes to treat them in time, this can also lead to some more serious consequences.",基于功能的先例,6
+9,"So, in terms of solutions, we can also start from the two pain points above, and start with this more detailed approach, and also think about some comprehensive solutions.",基于功能的分析,4;6
+10,"For example, we addressed the above psychological pain points, the lack of solitude and communication.",基于功能的分析,4
+11,"I'm thinking, for example, of the situation where the elderly have no one to talk to or where there is a difference in communication with their children.",基于功能的先例,10
+12,My first thought was to choose a function that promotes this kind of friendship between the elderly and the elderly.,基于功能的分析,11
+13,"For example, we can use some asynchronous or synchronous means of real-time communication; we can create such a channel of information between the elderly.",概念合成-功能,12
+14,"Because there are some older people who use a smartphone that has some less adapted, he might be more adapted to a traditional phone like this, or a more traditional phone like this.",基于行为的先例,13
+15,"The only thing that can help is the fact that the old man is a small robot, and the old man is a computer.",概念合成-功能,13
+16,"He was just sitting on a table, and he probably looked like a little envelope box, similar to the more retro envelopes and letters and a look like this.",概念合成-结构,15
+17,"The old man then says he can mainly make this kind of transition from online to offline and then communicate with other old people, like I can write a paper letter first and then do a scan.",基于功能的评估,16
+18,A small scanner is a small pull-up or a small device; then it is converted to online.,概念合成-结构,17
+19,"The way we interact with the entity. I think it's more like a social version, which we define, like it's in a certain area.",概念合成-行为,17
+20,"It is more like a social fax machine. In appearance and structure, the small scanning device extends outwards in a sliding manner.",概念合成-结构,19
+21,The focus can be on the communication between the elderly and their children.,基于功能的分析,11
+22,"For example, the way you communicate with your grandchildren might be a bit of a barrier, because, say, this group of people, they have some kind of hearing problem, or they have some kind of a problem with their children or grandchildren communicating, or they have some kind of a way of speaking that is more specific to younger people, and older people may have a hard time understanding.",基于功能的先例,21
+23,"So I want to be a chatbot with this human form. Not a pure human, he might be this cute, then this simple image.",概念合成-结构,22
+24,"The main function is to chat and communicate, and he will focus on sharing this information with the elderly.",概念合成-功能,22
+25,The technology of adding a big language model is not particularly difficult to do.,基于功能的评估,24
+26,"The robot should be able to listen to what the old man is saying. Even if it is given some autonomy, it will also remind the family to communicate with the elderly or remind him what to visit.",概念合成-功能,25
+27,"It's a little more intimate, mainly for family use. Don't look too human, be brief.",概念合成-结构,21
+28,Companion AI combined with travel tools like wheelchairs for the elderly,基于功能的分析,6
+29,And I'm going to use this as a tool to help me create a little bit of personalized companionship.,基于结构的分析,28
+30,"The functional point is more important that it may use some structure to help the elderly, such as to say ""Get up""; for example, when the elderly person is about to get up. The whole chair will do it once lifted through this structure, and then allow the elderly person to get up better, this process can be controlled by letting the elderly person use this voice.",概念合成-行为,28
+31,"I feel like it's a multifunctional fusion. For example, I just said. Standing up or calling might be, say, me, the old man, who was sitting in bed. I might have this robot in a certain area of the living room, and when I need to move it to a certain place, I can call it to my side in a way that I can do with voice.",概念合成-行为,30
+32,"For example, if you can add some visual recognition functions, this is a chance situation where you have an alarm and a pre-alarm function.",概念合成-功能,31
+33,"There are some ready-made structures and technologies on the market that can be used to control the wheelchair, for example, the steering wheel, or the old man to control his wheelchair.",概念合成-结构,32
+34,The idea is to find ways to compare the interaction of robots and how they can be handled by older people.,基于结构的分析,33
+35,"This dynamic manipulation is a relatively high cost of learning, and if you add this to the way that machines are talking about AI, it might make it a little bit easier for machines to be more specific and know what you're doing.",基于结构的评估,34
+36,"So, in terms of appearance and structure, I think it's mostly traditional or something more ready-made.",概念合成-结构,2

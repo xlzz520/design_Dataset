@@ -1,0 +1,81 @@
+节点编号,原文,设计行为,源节点
+1,"And then this word I think probably comes from the first thing that he's looking at is middle-aged people, then yoga, and then the need for health and the accompanying two points, and then the word design probably comes from both of those aspects.",基于功能的分析,0
+2,"And then I think about middle-aged people, and I think, ""Well, on the one hand, they might get to that age, and then the whole body function will have some kind of decline"".",基于功能的分析,1
+3,And it can also cause them to have poor memory.,基于功能的分析,2
+4,"So the first thing that might come to mind is, hey, it'll help them do some everyday things.",概念合成-功能,3
+5,"The calendar reminds him that he can just tell the robot something more important the day before, and then the robot helps him plan the time, and then when it's time to do a puzzle, he shows him how to do it.",概念合成-行为,4
+6,"This is like a little helper to his own side. Then you can go and help him organize his life.",基于功能的评估,5
+7,"And then the other thing is that the elderly person may have a lot of it, or it may be a rash, or it may be some chronic disease, it may come on slowly, it may need to be medicated.",基于功能的分析,1
+8,"And then at that point, I actually felt it was necessary to tell him what medication you needed.",基于行为的分析,7
+9,"And then you eat it, maybe they don't remember it very well, it's easy to get confused.",基于功能的先例,7
+10,"I think it's a reminder of what's on the agenda, including important things. Oh, well, what are the medical checks and medications, maybe you can tell them.",概念合成-行为,5;9
+11,"And then the other thing I think is, well, the health companion might have another point, which is to monitor some of their body data.",概念合成-功能,0
+12,"Then in time to give them some advice is to give feedback oh, what, or contact his children and and this hospital",概念合成-行为,11
+13,"I think he's probably not only targeting middle-aged people, but his kids as well.",基于功能的分析,12
+14,"And this is something that the kids are very concerned about, having a robot like this, and then he'll be more comfortable.",基于功能的评估,13
+15,And we also need to consider whether this robot can interact with some of the devices around it.,概念合成-功能,11
+16,"Oh, and then this pump, this kind of a blood pressure monitor that you use in your home, and the pump, the glucose meter, and these things, it can upload the data that it's measuring.",概念合成-功能,15
+17,The only thing that's not clear is that it might have some clouds.,概念合成-功能,15;16
+18,"And then if it doesn't have that advanced functionality, it actually does, which is let's say we set up this robot to do it every day.",概念合成-功能,17;4
+19,"And when you say you're going to take a blood sugar test, and the robot does it, it says, ""Hey, what's your blood sugar?""",概念合成-行为,18
+20,And then that can slowly help the middle-aged people in this family build a healthy profile.,基于行为的评估,19
+21,"Well, can you also remind him of some facts, like whether he should go to the hospital for a physical exam?",概念合成-行为,18
+22,"And what's the other thing? Healthy companion robots! Healthy diet? Healthy diet based on these situations in front of him, and then give him some recommendations for snacks.",概念合成-行为,18
+23,And then the accompanying words may have some function of chat.,基于功能的分析,0
+24,And they might want to hear something about how to control the devices in their home.,基于功能的分析,0
+25,"For example, he may have a lot of things.",基于功能的先例,24
+26,"Now isn't this, our CG PT, it has this AI chat?",基于行为的先例,23
+27,"So, if the old man wants to know something, and it is not very convenient, when he goes to search, he can directly make a search in the form of a conversation.",概念合成-行为,26
+28,"I'm not sure if I can do this, but I'm not sure I can.",基于行为的评估,27
+29,The other thing is to consider the middle-aged people; they may also need to bring their children.,基于功能的分析,0
+30,"For example: ""Is there a child model?""",概念合成-功能,29
+31,Or maybe he can play some children's songs for them?,概念合成-功能,29
+32,"This is how we help our middle-aged people, helping them bring their children.",基于功能的评估,31
+33,"The robot is not there, he is not with the child, the robot can do a little bit of childcare too.",基于功能的评估,31
+34,We older people have some health needs. Some physical limitations. Some physical limitations. Some skills.,基于功能的分析,0
+35,"The young man was not able to speak, but he was able to speak, and he was able to speak, and he was able to speak, and he was able to speak, and he was able to speak.",基于功能的分析,34
+36,"The first type is an assistant, who tends to give some sort of life-level help and emotional companionship.",概念合成-功能,35
+37,"I'm not sure if I can do it.",概念合成-功能,36;27
+38,The other thing is to give him some reminders and help with life.,概念合成-功能,36;18
+39,"Provide companionship. For example, listen to the radio. If your eyesight is not good, listen to something. Listen to music, then listen to the radio.",概念合成-功能,36
+40,"The second one is a healthy one, which tends to be used for monitoring some body data.",基于功能的分析,35
+41,Some of its parts are monitoring instruments that can be used as a diagnostic monitoring instrument.,概念合成-结构,40
+42,"So, if he wants to take our blood pressure, he can put his hand directly on his chin, he can put it in a more appropriate position, he can take our blood pressure, and then he can take our blood sugar.",概念合成-行为,41
+43,"The reason for this is that the robot itself is intelligent, and after it has done the measurements, it can automatically upload the data and upload it to the computer.",概念合成-功能,42
+44,"The first step is to clean the equipment and then to disinfect it in time, and then to clean the equipment.",概念合成-功能,42
+45,"The old man will not say forget, forget, forget where you put this thing, just a robot can call for it.",基于功能的评估,42
+46,"The robot, as it is the equivalent of a healthy butler, can also be customized according to this myth, to the elderly in their own physical condition.",概念合成-功能,40
+47,"For example, if an elderly person has high blood sugar and high blood pressure, we may need to measure more of these related factors.",概念合成-功能,46
+48,"If the cost of this is too high and we can't or won't integrate them all, then I think the robot itself could be a little bigger.",基于结构的分析,41
+49,"And it's a little bit bigger, but it's a storage space, because we're thinking of it as a healthy robot, and we can put some of it underneath, like, say, a bunch of things, some of which could be a lot of different storage space.",概念合成-结构,48
+50,"And then these spaces, it's going to have different temperature settings, and these settings are convenient, like there's some salt, oh, insulin, you can put in there.",概念合成-结构,49
+51,"And then, this is easier to accept.",基于结构的评估,49
+52,"I mean, I bought it back, maybe the old man had some objections at first, did he think this game was useful?",基于结构的评估,51
+53,"Well, since it has a storage space setting, it actually also invokes a function behind it, which is that if this thing is missing, or needs to be added, then it can also make a record in a timely manner.",概念合成-功能,49
+54,"Oh, and by the way, I feel like a healthy person. I mean, this child is more concerned about what this dad is doing with their body data?",基于功能的先例,40
+55,The same can be said for a child data push.,概念合成-功能,54
+56,"The first thing that I did was to ask the doctor to give me a check-up and then I could say something like: ""Temporary monitoring"".",基于功能的评估,55
+57,And then the third point is to help bring the children.,基于功能的分析,0
+58,Maybe you're too busy watching your kids and can't do anything else.,基于功能的先例,57
+59,So maybe you can address the middle-aged ones. Bringing a child along with some of their care needs can also ease some of the stresses of their motherhood to some extent.,基于功能的评估,58
+60,"What about this one with the kids? For example, it would have two modes, one is that my kids aren't around me, or I'm not at that stage yet.",概念合成-行为,57
+61,"The child mode may have something to do with it, first of all, the anti-mistake, child lock function.",概念合成-功能,60
+62,"And then the other thing is maybe the old man wants to go and see his kid, but the old man wants to listen to some songs for the kid; or tell him some stories, but he's not used to some electronic devices.",基于功能的先例,59
+63,"At that time we can use this intelligent robot to talk to the child through voice, to choose the appropriate stories, to do something about the protection of early childhood education.",概念合成-行为,62
+64,"Oh, because like my family, my family has a little one, my mother would love to teach English to her children, but I told her that she doesn't speak English very well, and she was very upset at that time, and then sometimes she would let me go online and download some English-language stories, the kind of stories.",基于行为的先例,62
+65,"I mean, hey, the old man, they're all really hoping that the kid is going to be able to teach the kid more stuff in the process of, hey, taking the kid with them, and then they're hoping that he can teach this stuff, and he can be more accurately useful.",基于功能的分析,64
+66,Or is there something that can slow down some of their hunger and meet some of their needs?,基于功能的评估,65
+67,"Well, that word is for children, and that might include some intellectual learning and then some children's entertainment songs.",概念合成-功能,63
+68,"The child cares only about the child, not about the old person himself.",基于功能的评估,67
+69,The older person may have some of the side effects in his personal mode. This is more of a companion type than the previous one. It can also provide him with some companionship and entertainment in his life.,概念合成-功能,68;36
+70,Some of the people who have problems can ask questions.,概念合成-行为,69
+71,The idea of helping children walk is actually to add a child model to the original model of companionship.,基于功能的评估,70
+72,I just mentioned the custody. What kind of surveillance does he have?,基于功能的分析,59
+73,"The old man has a cell phone and can use this monitor. Oh, and he can also speak remotely.",概念合成-行为,72
+74,The health food is still good?,基于功能的评估,22
+75,"I think that the diet of middle-aged people is still very healthy, and they don't need to be told anything specific.",基于功能的先例,74
+76,"It's like a recipe for something healthy, or something that says, ""What's better for you to eat if you have high blood sugar?""",概念合成-功能,75
+77,"The robot, which is likely to be a bit of a handyman, can be used as a tool to help him run around the house.",基于功能的分析,0
+78,"But that's what you need this robot for, it has some very flexible, mechanical grippers.",概念合成-结构,77
+79,"I'm not sure if it's a good idea to do this.",基于结构的评估,78
+80,"In fact, I think if this old man is uncomfortable, there must be other people in the house, so that's the need.",基于功能的评估,77

@@ -1,0 +1,88 @@
+节点编号,原文,设计行为,源节点
+1,"First of all, the first solution. Give it a location, have a home-based companion robot?",基于功能的分析,0
+2,"First, describe the product's positioning. Home products, it may come with something, first it may not be possible to achieve very specialized functions",概念合成-功能,1
+3,"I'm talking about the medical aspect of it, like, in the medical field, it might be monitoring it somehow.",基于功能的先例,2
+4,You can put a blood pressure monitor in here.,概念合成-功能,3
+5,"And then there's the blood sugar, the oxygen.",概念合成-功能,4
+6,"We can now do a collection of household items, blood pressure, blood sugar, blood oxygen - household items like this.",概念合成-功能,3;4;5
+7,"The functional positioning is: │in the home, for me it might be more like designing something that is a companion.",基于功能的分析,2;6
+8,The program is more focused on addressing the psychological needs of the elderly.,基于功能的分析,7
+9,"Functionality. First of all, medical testing. The collection of large modules combined in a product machine, a robot.",基于功能的评估,8
+10,The second is to focus on one companion.,基于功能的分析,1
+11,"It may have some chat, real-time reminders, or wake-up calls.",概念合成-功能,10
+12,This is a feature that it is likely to focus more on in this program.,基于功能的评估,11
+13,"After this function is matched, it may be that there will be some specific design response on the product.",基于功能的分析,10;12
+14,"This is a functional approach, and then we consider the actual needs of the user.",基于结构的分析,13
+15,"First, the first humanized design, which is a little bit more humanized.",基于行为的分析,13;14
+16,It may be a bit like the image we saw before.,基于结构的先例,15
+17,"So the robot's image is similar to that of an astronaut, with a round head on top; it may be more humanoid.",概念合成-结构,16
+18,The report also highlights the need for a more effective approach to the problem of elderly people.,基于结构的评估,17;10
+19,The second thing is that the shape and feel is very concise.,基于结构的分析,13;15
+20,But I'm not particularly good at saying this. Because I'm not sure if this is really aesthetically appropriate for older people.,基于结构的评估,19
+21,"He said that the elderly see something, like the kind we like, like the kind of rice or the kind of trivial thing that is in the style of non-Indonesian products, the elderly will think it is too ordinary.",基于结构的先例,20
+22,"For them, it may not be a real need. This is not a very good definition, but if it is, it may require a user study.",基于结构的评估,21
+23,"They are also more likely to like something else. Red, red, green, green, then or rather interesting.",基于结构的先例,22
+24,"The color of the color is not so much a color that is exaggerated, but that it is interesting.",基于结构的分析,23
+25,"Then, ""I'm not particularly good at defining it"", and then, ""If you define it this way, it should be defined as aesthetically more suitable for older people"", ""aesthetically more suitable for middle-aged people"".",基于结构的分析,24
+26,"The third point. As mentioned earlier, it could be a more companion-oriented robot, but it's not a robot that can be used for any other purpose.",基于功能的分析,1;10
+27,Then its main way of interacting.,概念合成-行为,26
+28,"The elderly are not good at screens, or they don't understand them.",基于行为的先例,27
+29,"If the voice interaction is given a __, then the voice interaction can be a reminder __, and it can also give them a __, a feeling of talking to someone else __.",基于行为的分析,28
+30,Then the feeling of talking is realized.,基于行为的评估,29
+31,"Then chat. We can consider setting up some voice packs. Record specific sounds. Set it up as a voice packet, and then he might have a chat with this voice packet while he's chatting.",概念合成-功能,30
+32,This is possible with current technology.,基于功能的评估,31
+33,"For example, some people may want to input the voice of their own child, but they don't want to hear the voice of their child.",基于功能的先例,29;32
+34,"But I feel that this might be a bit of a distraction, that it's just a function, and then he wants to input what's his thing.",基于功能的评估,33
+35,He can also enter his favorite star or whatever else.,概念合成-功能,34
+36,"Well, I'll see what else is needed. For example, starting with a thought about what an elderly person would do, and then going to the next person, and then going to the next person, and then going to the next person, and then going to the next person, and then going to the next person, and then going to the next person, and then going to the next person, and then going to the next person, and then going to the next person, and then going to the next person, and then going to the next person, and then going to the next person, and then going to the next person, and then going to the next person, and then going to the next person.",基于行为的分析,3
+37,"For example, he may need an alarm clock to wake him up in the morning, remind him to take his medication, eat his lunch later, then take a nap afterwards, then play with his phone in the afternoon, or what?",基于行为的先例,36
+38,"And if he gets bored, this robot can chat with him.",概念合成-行为,10;31;37
+39,The main purpose of home robots is to be a companion.,基于行为的评估,38
+40,"At the same time, considering the middle-aged person, he may have some body parts that may need more attention. Then consider adding some links to health monitoring, such as blood pressure tests.",概念合成-功能,6;39
+41,The functions are mainly based on the specific needs of the elderly.,基于功能的评估,40
+42,"If you need to put these things aside to consider some more additional needs, say. It can do something that you can imagine doing something a little bit like an air purifier or a humidifier, and then give it some additional functions.",概念合成-功能,41
+43,This function may not be primarily based on the behavior of the elderly.,基于功能的评估,42
+44,The word structure. This structure I don't know how to talk about.,基于结构的分析,43
+45,"Some of the specific functions proposed for today's home robots are:• using some of the technologies or connections that are already available, they can be implemented in principle.•",基于功能的评估,44
+46,"If it's innovation on the structure, I feel it's not much, but more innovation on the functionality that comes first.",基于结构的评估,45
+47,"I think it's because I feel like from a hardware perspective, it's totally possible now with our current technology.",基于结构的评估,44;45;46
+48,The shape has a point of comparison. The positioning of this thing is probably not too big to give it a landing feel.,基于结构的分析,19;47
+49,You might want to give it a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a,基于结构的先例,48
+50,"The first thing I did was to make a small table, and I could walk on the floor or sit on the table.",概念合成-结构,49
+51,The second option is that there are now some middle-aged people who will need some hospitalization.,基于功能的分析,0
+52,"In the hospital, many times, we can't go, absolutely, or the need for an artificial companion can be replaced by a robot. Sometimes a companion robot may be a better help to the user.",基于功能的评估,51
+53,"If I were to describe it as a scenario, it would be a time when middle-aged people are hospitalized. Although we can't expect people to be hospitalized, there are many of them now.",基于功能的先例,52
+54,"This can be a positioning; first of all, one of the important problems it can solve is to relieve the pressure on the medical and medical human resources.",基于功能的分析,53
+55,"For example, there may be times when healthcare workers are too busy to care for the middle-aged and elderly.",基于功能的先例,54
+56,"The psychological impact of this age group, combined with the large background of hospitalization itself, is that it can relieve stress on healthcare resources, and it can also help to reduce the burden on the elderly.",基于功能的先例,55
+57,"And then we go to the macro perspective of these problems in hospitals, and then we design a hospital companion robot to relieve the pressure on a healthcare resource.",基于功能的分析,56
+58,"If it is a cutting point from the elderly, it is more likely to play a somewhat similar role to navigation; or guidance?",基于功能的分析,57
+59,"And then later I put that behavior control function together and said: First of all, first of all, let's analyze the behavior of the elderly, middle-aged behavior.",基于行为的分析,58
+60,"This communication is that he has a lot of questions to ask every day, not that every problem he has needs a doctor to solve, sometimes, it's that many of his patients' problems are; they can be solved by robots, and they can be solved by robots.",概念合成-功能,57;59
+61,"For example, a few simple questions, like: ""What is the location of the hospital?",概念合成-功能,58;60
+62,"Or that it may be a food for it, or a reminder?",基于行为的分析,61
+63,"These users may need to communicate with healthcare professionals in a timely manner. However, oftentimes, healthcare does not provide a timely reminder.",基于行为的先例,62
+64,"The robot can then take on a role such as inputting a patient's situation and then, including the doctor's prescription, performing a real-time monitoring of the user.",概念合成-行为,63
+65,"In terms of health communication, it produces this kind of behavior, we're dealing with this kind of functional point.",基于功能的分析,64
+66,"After the drug is given, a reminder can be given to the patient.",概念合成-功能,64;65
+67,"It's even better than a human reminder because it's a more fixed input, and it's a better way to get the message across.",基于功能的评估,66
+68,"First of all, it can provide timely alerts, which is not a problem, and if it is personalized, it is more user-oriented.",基于功能的评估,64;66
+69,"The second point. From the user's perspective, he may be in a state of needing to be reassured, cared for. It falls somewhat into the category of companion products.",基于行为的先例,51;52;68
+70,"Voice chat interaction, to reduce what is like or what is like? to the screen.",概念合成-行为,69
+71,"I even thought it could have a functional area, an interface that could provide something else for the elderly, something more interesting.",概念合成-功能,52
+72,"For example, ""Let's play cards with him"" or ""Let's play Mahjong with him"".",概念合成-行为,71
+73,"This is also a slightly unnerving position, because it is one that is more boring when you leave the hospital.",基于行为的评估,72
+74,Suddenly I thought of something to add. A health reminder that one thing cannot be added to another. A telehealth consultation. An interaction with a remote doctor.,概念合成-功能,64;73
+75,"The third solution made me think, and I looked at the requirements again. ‒ Healthcare companion robots. ‒ I was thinking about what specific needs it has. ‒ I suddenly thought of one. ‒ Positioning is also for home use.",基于功能的分析,0
+76,"Then my current idea is to see if we can combine it with cleaning products; say, a robot sweeper; it might be a little more intelligent; and there will be a companion function, maybe that's it.",概念合成-功能,75
+77,"I suddenly thought of this. If it's middle-aged, compared to younger, middle-aged, he'll definitely have one. He'll want to do it, and then.",基于行为的先例,76
+78,"At this time, for example, a child may want to buy some intelligent products for his parents, similar to a robot sweeper.",基于行为的先例,77
+79,"I wonder if I can put together a whole group of these common household chores, say it can sweep the floor.",概念合成-功能,75;78
+80,"What's the household chores? You're probably like that, it's going to have a household group.",基于功能的分析,79
+81,"This is probably a little bit more functional because it needs to be done through smart hardware, and there's something else to do that thing, which I don't feel is a big problem.",基于结构的分析,80
+82,The main reason for this is that the system is designed to be used for the same purpose.,基于功能的分析,77;81
+83,Is this a feature? It may be an innovation compared to other products. Other products focus more on functional problem solving. It is a household problem solving!,基于功能的评估,82
+84,"It may not even have any companion presence when it comes to solving problems, like getting the housework done, and then ok, it will also have some sort of sense of intelligent voice robot.",基于功能的评估,27;83
+85,I think it might be more geared towards a robot product that is a little more humanized.,基于行为的分析,84
+86,It can not only do one housework but also do all kinds of housework. Then it can also take command of the user. It is a bit like the feeling of my mom telling me to do housework.,概念合成-行为,84;85
+87,"It can do it on its own, or it can play a supporting role, but this time it's more about giving the elderly a sense of companionship.",基于行为的评估,86

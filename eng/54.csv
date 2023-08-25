@@ -1,0 +1,36 @@
+节点编号,原文,设计行为,源节点
+1,"First, break down the keywords. Then, say, the user is an elderly person, and then, say, a healthy companion.",基于功能的分析,0
+2,"Seeing this companion, thinking about the honeymoon machine, the needle for the companion actually extends out to a multi-scene switching IoT.",基于功能的先例,1
+3,"From this health, think of some existing products, such as some wearables. The quantification of these health indicators, such as the state of the body, such as blood sugar, heart rate, now requires manual recording.",基于功能的先例,1
+4,"Because this is mainly a sudden thought of the physiological curvature of the spine, or the change in the curvature of the spine, that is often seen in older people. Yes, it is related to age, but it is related to the lifestyle habits and posture of the elderly, which can then be adjusted through some training.",基于行为的先例,3
+5,And then I thought about an elderly person who might actually have a physical exam and find out what his problem is and the doctor gives him some life advice.,基于功能的先例,4
+6,"The problem is that the parents are not able to support their children, and they are not able to accompany or encourage them.",基于功能的先例,5
+7,"Because my own physical problem is still relatively large, and then I also learned the method before, to set up a video of the moment in the house, something similar to a camera video, then you may be able to see your physical position. Seeing your daily physical position, you will feel very ugly. Then maybe through some visualization processing, you will be able to recognize your physical position from a whole new dimension.",基于功能的先例,6
+8,"And then he can do telemedicine, which is having some conversations with a real doctor.",概念合成-功能,6
+9,"The remotely treated lifestyle, such as the one we just talked about back recording.",概念合成-结构,7
+10,"It is possible that the specific form of the image is that of a person, and visual recognition is necessary.",概念合成-结构,8;9
+11,"Think about a camera that can be absorbed into, say, a cabinet, and one that can be turned around at will.",概念合成-结构,10
+12,"For example, if you just said that you need a front camera, the camera used for gesture recognition is overlapping, and can be used together.",基于结构的分析,7;11
+13,The camera can be used to take a look at the camera's position.,概念合成-功能,13
+14,"This is the health that can calculate a monopoly on the input-output ratio, smart diagnostics, smart homes, in line with the existing market.",基于功能的评估,3
+15,"I don't seem to know much about the form of the incubator, I just know that he can move around freely.",基于功能的先例,2
+16,"Health; for example, some elderly people need to go. Regular prescription medication but the elderly may be unconcerned and getting worse",基于功能的先例,1
+17,The following are some of the benefits of using a salt-free diet:,基于功能的先例,16
+18,"I just thought of another aspect, which is psychological. What kind of posture does this habit involve? It's one that he's had for many years, say forty, fifty, fifty, sixty years, and it's hard to change.",基于功能的先例,17;7
+19,"The healthcare robot is not necessarily changing. It is possible that the existing product is only an assistant, at best, and that it seems to be more or less dependent on itself to remember.",基于功能的评估,18
+20,The user can log three meals based on the user's own logs of the relevant food store.,概念合成-功能,17
+21,"The information collected by scanning the labels can be used to determine blood sugar, quality, etc.",概念合成-功能,20
+22,Robots for middle-class families,基于功能的评估,17;19;20;21
+23,The health of three meals is not quantifiable,基于功能的分析,21
+24,But it is possible to customize a recipe for a week for thousands of people.,概念合成-功能,23
+25,"For example, a fitness app is a fitness app that provides a weekly exercise plan with customized habits that can be adjusted.",基于功能的先例,24
+26,"This product is also to be based on medical prescriptions, your diet, in practice and reduce learning costs",概念合成-行为,16
+27,"Health and mental health, mental exhaustion has been a hot topic lately.",基于功能的先例,1
+28,"The fact that people are still in touch with each other is more important than some of the new technologies, and virtual reality is a huge burden for the elderly.",基于功能的评估,27
+29,"The elderly are also being left behind by their spouses, children and neighbours, who are taking their final farewells.",基于功能的先例,28
+30,We are now communicating with each other via WeChat.,基于行为的先例,29
+31,"For example, if it's raining outside and you can't go play chess with your friends, you can provide a virtual scenario.",基于行为的先例,20
+32,"Now there is a chess robot, a robotic arm plus a screen.",概念合成-结构,31
+33,"It's a bit lonely to practice chess yourself, and you can have a multifunctional entertainment robot.",基于功能的分析,32
+34,"Poker, chess, Go-Go games are daily entertainment for the elderly",概念合成-功能,33
+35,It should be a simple design with a big screen.,概念合成-结构,33

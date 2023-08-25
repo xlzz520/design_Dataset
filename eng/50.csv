@@ -1,0 +1,39 @@
+节点编号,原文,设计行为,源节点
+1,"The first part of the functionality, if you want to innovate in these areas, is automation.",基于功能的分析,0
+2,"This is how we can get older people, middle-aged people, into everyday life and be monitored by robots like this for health issues.",基于功能的分析,1
+3,"Early prevention of emergencies, early warning",概念合成-功能,2
+4,"Automatic water supply, not tracking",概念合成-功能,3
+5,"Structurally I would feel a little bit bigger. Let the elderly see them, then they can detect it themselves, because the bigger the word, the more sensors it can fit inside.",基于结构的分析,2
+6,"It is a soft shape. It does not need to be large, it just needs to be able to accompany.",概念合成-结构,5
+7,They may want their children to talk to them or interact with them more than they normally do.,基于功能的先例,0
+8,So a companion robot that he can be a voice communication function while it can have an emotional display,概念合成-功能,7
+9,"This display can be on its own display or on a device that it is equipped with, such as a tablet.",概念合成-结构,8
+10,"Since it is a healthy one, it certainly needs some kind of reminder function, like reminding the elderly to take their medication; or having some children to help them define things.",概念合成-行为,0
+11,His voice communication or can it add more tone or say more emotion?,概念合成-功能,10
+12,"The robot is a companion that makes the elderly feel that it is not a machine; rather, it is seen as something similar to a pet or family member.",基于功能的评估,11
+13,"So I thought we could think about making this robot have some kind of autonomy, like it would automatically detect that the elderly are able to initiate a conversation with them when they are not.",概念合成-功能,12
+14,The new version of the phone is also more innovative.,概念合成-结构,0
+15,"Because when they are talking to their family members, they are actually using their mobile phones and their children to communicate online, for example, they are using video calls, texting, texting, or even making a phone call.",基于行为的先例,13
+16,"For them, even if it is an old computer or a smart computer, there are some problems, he is relatively small.",基于行为的分析,14
+17,"There are comparatively intelligent robots like computers. They can help them communicate with their children, and it is easier to make some video calls, voice calls with their children.",概念合成-功能,15
+18,It may be structural. It may have a large screen that looks like a computer. It may be less similar to a voice-conversation device. It may be like another phone for older people.,概念合成-结构,16
+19,The screen can be rotated to capture the position of the elderly person. He may also need some health monitoring or health questions!,概念合成-结构,17
+20,"The elderly also have their own circle, they will have their own friends, just like in the community.",基于功能的先例,15
+21,"But many older people may not be able to move easily. They may not be able to get out of the house, they may not have a piece of furniture, they just want to play together.",基于行为的分析,20
+22,"Can you imagine a community of elderly people who can not only be accompanied and healthy, but also be able to give a companion and a companion to others or to communicate with them?",概念合成-功能,21
+23,They also have a voice module. They can then go and talk to the elderly.,概念合成-行为,22
+24,The message is sent to the person's friend if they want to find them.,概念合成-结构,23
+25,One of its structures is a large light on top of which many points interact.,概念合成-结构,24
+26,"If the light is on, can the elderly person take a picture? It's like giving him a feedback. The light is on, it means someone is looking for him!",概念合成-行为,25
+27,"It may not be as direct as voice and video, but it's still fun.",基于功能的评估,26
+28,"I feel this program is more about saying. It could be considered to target a group of people, rather than individuals, who can transform their companion robots into real people who speak to their companion through the machine.",基于功能的评估,0
+29,"I think that these are all biased towards companionship, which is, if it is about health, it is.",基于功能的分析,0
+30,"If you think about taking medication, there are actually a lot of elderly people who forget their medication when they take it.",基于功能的先例,29
+31,The robot is able to separate the storage of drugs. It is equivalent to a storage of drugs.,概念合成-功能,30
+32,"It is a separate storage drug. It also needs something to remind the elderly to eat, it needs a reminder function.",概念合成-功能,31
+33,"In addition to its reminder function, it also requires quantity. If it is a drug that is separated, it can be considered a quantity storage drug. It may be a drug that is stored in a region a.",概念合成-功能,32
+34,And this machine is actually capable of doing a few calculations.,基于功能的先例,33
+35,"In addition to the reminder that medication should be given to the elderly, if there is something in the middle of such a machine that is similar to a medicine elevator, like an elevator, or like an egg wriggler, or that says all sorts of sugar and stuff, then the machine will be able to deliver the medication to the elderly.",概念合成-功能,32
+36,"If the machine is not working, then it can also have a locker underneath it. It could be this one. It can be hand-pulling. It must be very easy to pull out manually.",概念合成-行为,35
+37,"He definitely needs a follow function, and he can't let the elderly go to him. In fact, he can't follow the person to that station, he scans it out and it's the person, and then he has to give him medicine.",概念合成-功能,30
+38,"Considering the structural problem, the hand has a drawer, which is more in line with human engineering. The lower half is a self-delivery device, the upper half is a self-delivery device. The lower half can be a walking device, and it can also have a storage place for storing battery power and some sensors.",概念合成-结构,37

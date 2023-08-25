@@ -1,0 +1,68 @@
+节点编号,原文,设计行为,源节点
+1,"Because of the first idea, he focuses on a companion focused on the young, middle and old; the keyword; the ""companion"" is the ""companion"".",基于功能的分析,0
+2,So I was wondering if he could come along with some form of conversation and then focus on some health or some other emotional issues.,概念合成-行为,1
+3,The device is a hardware device like a little puppy or a Titan elf.,基于功能的先例,2
+4,"The result is a lot of noise, and some of the voice output is on AI, like ChatGPT.",基于功能的先例,3
+5,Some of the ways that some of the high-intensity conversations are done is to be smarter and then communicate with the older people about some of the ideas they have in their free time.,概念合成-功能,4
+6,"For example, they're going to ask you today, what kind of food do you want to eat today, what kind of food do you want to eat every day, etc.",概念合成-行为,5
+7,"Some of the things he does every day or some of the things he feels, and then he can write down some of his thoughts or some of his thoughts or some of his thoughts on some of the things he's feeling today.",概念合成-功能,5
+8,"So you can, for example, form some weekly or periodic reports, like how much he was today, how much he spoke today, how much he talked to him, what he talked about tomorrow, and so on.",概念合成-功能,6;7
+9,"Then, for example, he is in a long-term high-strength, high-persistence, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation, high-conversation,",基于行为的分析,8
+10,"And then the words like that, like, ""I want to"", and then you can also notify his guardian to take note of the problem.",概念合成-功能,9
+11,It looks something like this. It's a hardware outfit with AI dialogue and mobile app connectivity.,概念合成-结构,10
+12,"The second health robot, on top of one of his keywords, is his health.",基于功能的分析,0
+13,"I think the point is that it's probably not a special outdoor outdoor thing, not a standalone product.",基于功能的分析,12
+14,"And the most commonly used is the one that's more geared towards, say, the smart home on the refrigerator.",概念合成-功能,13
+15,Because a lot of people are now focused on dietary health.,基于功能的先例,14
+16,"But it's not that they have one, it's that they have a smart home.",基于功能的分析,15
+17,The following is a list of some of the most common behaviors and habits that people have in the past.,概念合成-功能,16
+18,"For example, he went out today. What kind of food did he like to eat or put in some kind of food or something?",概念合成-行为,17
+19,Or maybe some of his purchases are frequent.,概念合成-行为,17
+20,The ingredients,概念合成-行为,17
+21,Because a lot of it is a way of life now.,基于功能的分析,17
+22,"For example, if you have a robot that is not a ""helper"" type, you can say that it is not a ""helper"" type.",基于功能的分析,21
+23,It can plan my daily diet based on the ingredients and the cycle I put in.,概念合成-行为,18;22
+24,"It's also a healthy, healthy eating management, and then it's also a daily companion.",基于功能的评估,23
+25,"For example, if I put more vegetables in the box, I'll have to add more vegetables.",概念合成-行为,23
+26,Because now there's a lot of that blue light on the refrigerator that can increase the vitamin C content of food.,基于功能的先例,25
+27,"And then it would be able to be based on, say, the type of fruit you recently ate, or the vitamin C content of blueberries, or some foods that are relatively rich in vitamins, and some other trace elements.",概念合成-行为,26
+28,"And then if there's a lot of that food, then you need that blue light to regulate itself.",概念合成-功能,27
+29,"It would give a robot a blue light exposure to the space after they know I have a habit of buying a lot, they need users to control the area; better preservation of the materials in the space.",概念合成-行为,28
+30,"The second option is the refrigerator, it's just one device.",基于功能的评估,14;29
+31,"Because if you're talking about the whole house, then you can say, for example, there are some lights and so on, others. There are some thresholds, or cameras?",概念合成-行为,30;16
+32,"It's a system that's like a whole house, a bigger robot.",基于结构的评估,31
+33,The third is mental health.,基于功能的分析,0
+34,Because I think robots are probably more like virtual assistants.,基于功能的分析,33
+35,"And then I thought, well, middle-aged people have emotional problems now, like widows and divorces.",基于功能的先例,33
+36,"And then you think, well, they need something like a relationship, or a need to find a common ground, like square dancing.",基于行为的先例,35
+37,"And then can you have one that's also like that, like the first one, is access to chat GPT.",概念合成-功能,4;36
+38,The keywords are used to communicate with them in a verbal or linguistic way.,概念合成-行为,37
+39,"Because you get middle-aged people to think in very detailed ways, to describe something, which is actually quite difficult.",基于行为的分析,38
+40,It's like having a chat-GPT virtual assistant and then coming to the elderly as an emotional assistant and communicating some of their emotional issues.,概念合成-功能,39
+41,"The first thing is to use a questionnaire or a scale? By communicating, we summarize the ideal keyword, and search our curry with such keywords.",概念合成-行为,40
+42,"Then find out if they are not necessarily the ideal type, and have their own keyword answers.",概念合成-功能,41
+43,"And then the next thing you do, and then you create opportunities, is you give them some opportunities to create awareness.",概念合成-功能,42
+44,"In the process, we can also offer them some topics, some based on their interests, hobbies, topics, and some suggestions based on what they think.",概念合成-行为,43
+45,"They can, for example, talk about the top 10 dating sites for middle-aged people, through chat GPT, and then introduce them to a list, and then promote their further understanding and communication.",概念合成-行为,44
+46,"It's more like a, like, a real love network, with his GPT.",基于功能的先例,45;40
+47,"He even said he could, even some of its last versions. Could I say I can connect some other AI devices, AI systems based on the keyword.",概念合成-功能,46
+48,"Then give me a picture of the middle-aged people, their emotional objects, the image of their emotional guests.",概念合成-功能,47
+49,"This is of course the first step, starting with looks, then some hobbies and people you know in common.",概念合成-功能,48
+50,"And there's another scenario that comes to mind here, which is that the first option is that there are hospitals, middle-aged people.",基于功能的分析,2
+51,"Then they also have no one to talk to them, and then they say to hire a nanny for each family, and the nanny won't say sit and talk to them every day.",基于行为的先例,50
+52,So a voice nurse could be on the hospital side and record their mood swings.,概念合成-功能,51;5
+53,"The only thing that is different is that the patient is not in the hospital, and there are also psychiatric units.",基于功能的分析,50;52
+54,The end result can be given to the directorate and many tragedies can be avoided.,基于功能的评估,53
+55,"And of course, this is definitely not a substitute for some of the roles of the psychiatrist.",基于功能的评估,54
+56,"Because now the psychiatrist has to go to the room every morning and communicate with each patient, and he has to be able to see the patient's condition.",基于行为的先例,55
+57,The result is less efficient.,基于行为的评估,56
+58,"There are several such voice workers, one form, one product.",基于功能的分析,57;52
+59,It can also be a more specific or long-term focus on the patient's mental state.,基于行为的分析,58
+60,The first one is because it's not necessarily healthy.,基于功能的评估,2
+61,"As I said, it's not just limited to the refrigerator. It has other things, like: ""Take care of some special patients at home"".",基于功能的分析,60;13;50
+62,"The food is very good, but the food is not as good as it should be.",基于功能的分析,61
+63,"So, if I tell him that he's broken a bone or, and then what ingredients are needed to replenish, then it can not only replenish the vitamin C content, but also the probiotic content, and other more detailed processes.",概念合成-行为,62
+64,The first option is to give the family members not only the hospital but also the hospital.,概念合成-行为,63
+65,"The same goes for their guardians, who can also avoid some medical relationships.",基于行为的评估,64;10
+66,"So, we can design some interventions for this because we have this virtual assistant, and we can design some interventions for the language output system.",基于行为的分析,2
+67,"And then there's the middle-aged people who are being defrauded, or financial fraud, or the fairy-jumping.",基于行为的评估,66

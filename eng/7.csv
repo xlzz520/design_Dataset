@@ -1,0 +1,45 @@
+节点编号,原文,设计行为,源节点
+1,"The elderly are mostly learning, including decreased mental and physical skills",基于功能的分析,0
+2,Health is mainly a matter of infection and physical examination.,基于功能的分析,1
+3,The situation is still very serious.,基于功能的分析,2
+4,"The robot can be human or non-human, but it is basically an AI.",基于结构的分析,0
+5,The chronic illness requires a reminder: take your medication on time.,概念合成-功能,2
+6,Medication includes medication. It can. It needs time. It is time to put it in front of time.,概念合成-功能,5
+7,"One of its forms is the word ""I"" which can be ""formed"" because it involves identification and may be a wearable device.",基于结构的分析,4
+8,The first thing I did was wear glasses.,概念合成-结构,7
+9,The elderly are more comfortable with his actions.,基于结构的评估,8
+10,The main functional aspect of the device is to identify certain medications and remind the child to take them at regular intervals.,概念合成-功能,5
+11,"The existing product is different, and the glasses that give it are different, like the ones that can be placed on the ear?",概念合成-结构,7;8
+12,"The second physical examination robot, he might say. It could perform more functions.",基于功能的分析,0
+13,"If you want to draw blood, let him come, maybe he will.",概念合成-功能,12
+14,"It can be its shape, it can be a fixed device, say your hand.",概念合成-结构,13
+15,The first is a blood pressure monitor.,基于结构的先例,14
+16,"He can have more tests, such as: ""Take the inside and record the blood pressure"".",概念合成-行为,15
+17,"One way to do this is to basically shape words, shape.",概念合成-结构,12
+18,What kind of a gesture would you use? It will intelligently pull you out of the box.,概念合成-行为,17;13
+19,"For some emergency situations, like it has something like a heart attack.",基于功能的分析,12
+20,"If it is a shape, then it must be a tracking shape, or a drone.",概念合成-结构,19
+21,He should be tracking.,概念合成-功能,20
+22,Or you're just a device you're wearing.,概念合成-结构,7;19
+23,"No, I still think drones are great. Maybe they can do more.",基于结构的评估,22
+24,"The small drone, he might have a; there's a hand at the bottom; there's a camera at the bottom.",概念合成-结构,20
+25,"For example, if an elderly person has a sudden illness, heart attack, respiratory disease, and then falls, in which case he can ─ discovered by the camera ─ and then the first time to dial 12 is a long-distance connection?",概念合成-功能,24;19
+26,You then the second is he can. He can go to a specific place in the room and find a specific drug.,概念合成-功能,23
+27,The man who has a machine arm can be put to death.,概念合成-功能,23
+28,"It carries the weight of things, like you have to give water. It is heavy. It is limited in its weight.",基于结构的分析,23
+29,"You can see it like this, it can be a whole system.",概念合成-结构,28
+30,"He can, for example, have a camera in the room, and detect if there is a fall, a lesion or a sudden illness.",概念合成-行为,29
+31,"He then puts a small box, like a fire extinguisher, in the house, from a specific device.",概念合成-行为,30;26
+32,"The third option is the human figure. The human figure, his appearance. The physical figure is generally a female figure.",概念合成-结构,0
+33,He can help the elderly in case of emergency,概念合成-功能,32
+34,"Some of the old people may be facing the ground, and then like this drone he can't.",基于结构的评估,32;20
+35,He's got enough strength to fold and fold and then he can get back to bed.,概念合成-功能,33
+36,"The robot is a robot that is in a state of emergency, and all its functions include this reminder.",概念合成-功能,33;5
+37,"The function of the physical examination, his arm can have different. The arm he can replace, his arm can be replaced and have different functions.",概念合成-结构,36
+38,"Can you have a cut version? Then... buy yourself something different, and do something according to different needs.",概念合成-功能,37
+39,"Mental health. It can be mechanical, pet, machine pet.",基于功能的分析,32
+40,The robot pets then speak.,概念合成-功能,39
+41,Except he may not be able to. Help single first responders. It may be more difficult to achieve.,概念合成-功能,36
+42,"He may have some cartoonish expression on his face, cartoonish expression.",概念合成-结构,39
+43,"Some elderly people will dance, or they will have some instruments. Some will play some instruments. They will learn some instruments, he can dance next to them.",概念合成-行为,39
+44,He also has a video chat with his children.,概念合成-功能,39

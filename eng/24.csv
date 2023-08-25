@@ -1,0 +1,78 @@
+节点编号,原文,设计行为,源节点
+1,"Well, first of all, it's for middle-aged people, middle-aged people. Then it's health. Companion. Robot.",基于功能的分析,0
+2,"The first thing to consider is the middle-aged and elderly, what are some of the characteristics they want in their company?",基于功能的分析,1
+3,The main reason for the lack of accompaniment is that the child is not around.,基于功能的先例,2
+4,"The child is not around because they are old. The age is in that place, a little older, so there may be physical problems.",基于功能的先例,2
+5,The elderly and the middle-aged may also be widowed.,基于功能的先例,2
+6,I think there may be something in itself.,基于功能的先例,2
+7,"Okay, well, that's when it comes to health.",基于功能的分析,1
+8,"The term ""healthy"" may refer to a number of people; for example, elderly people with disabilities in certain areas of their bodies; perhaps a physiological defect; and then robots that can accompany these special people.",基于功能的分析,7
+9,The most common is hand-foot discomfort. The hand-foot discomfort can be disassembled.,基于功能的先例,8
+10,This one doesn't need to be taken down.,基于功能的评估,9
+11,The following are examples of visual impairment.,基于功能的先例,8
+12,"Then the word mental health. This is probably not very well understood, I think about this, then it could be. This is caused by a chronic lack of language communication. This should be called.",基于功能的先例,7
+13,Then there is the word companion. The easiest to think of is companion from the chat.,基于功能的分析,1;3
+14,I can also have a life behavior on top of that.,基于行为的分析,13
+15,"For example: ""Hey, I'm going for a walk with you. Or cooking with you. Or watching TV with you.",基于行为的分析,14
+16,"In the case of making this type of robot, if done very comprehensively, it may not be enough in some respects.",基于行为的评估,15
+17,"And I'm going to do some subtraction, because I think that the way that we're going to do this is we're going to have a lot of different things that are not specialized enough, like, say, robots that cook and robots that just watch TV and read books, and they're going to have some differences in structure, so I'm going to do some subtraction.",基于结构的分析,16
+18,"The last one is the concept of robots, the word for robots.",基于结构的先例,1
+19,That's like saying he can be cute.,基于结构的分析,18
+20,Or maybe he's a little more human.,基于结构的分析,18
+21,"Or simply he is: ""You are a pet"".",基于结构的分析,18
+22,"The robot doesn't have to be cute, but it can also be more reliable.",基于结构的分析,18
+23,"If you want to see the function, you need to look for the keywords above.",基于功能的分析,18;1
+24,Then there is the question of the robot's personality. The most commonly associated with this is ChatGPT.,基于功能的先例,18
+25,"I want to define it as ""intelligent"".",概念合成-功能,24
+26,"Or because the elderly person is himself a companion without children, I can also define it directly as the image of a child, but I think that the image of a child is not a child.",概念合成-功能,3;24
+27,"Or as I mentioned earlier, since it can be animated, this place might be talking about animals that live in a model life.",概念合成-功能,21;24
+28,The image of the middle-aged man is also used in the film.,概念合成-功能,24
+29,"The first thing is that the child is not around, that is the problem.",基于功能的评估,3
+30,The following are some of the more specific health issues.,基于功能的评估,7
+31,"If there is a widow, then it is possible that the robot itself is the one that needs to carry the attributes of a partner.",概念合成-功能,5
+32,If it is a partner then it is a partner.,基于功能的先例,31
+33,"That's the equivalent of this robot. It's more of a companion, and its main function is to follow, accompany, chat.",概念合成-行为,32
+34,"I think that if this robot is going to do things like partnering, it should be as human as possible.",基于行为的评估,33
+35,"That is, for example, I might have a ""square"" of the human being on the surface. If the human being did the design, and there is no requirement to do it, or if the technology is very perfect, then I assume it can be made to look more like a human robot.",概念合成-结构,34
+36,The robot's body shape is the same as that of a human body. It is the same as the human body shape. It is the same as the human body shape.,概念合成-结构,34
+37,"And then as for going to bed on time, that's probably on the schedule, I hope he gets there in the evening, because the middle-aged person would probably be at 9:10 or so, that's probably by 9pm 9:10  or so.",概念合成-行为,33
+38,"And then maybe this time the mattress is the design of the mattress, a whole wireless charger under the mattress.",概念合成-结构,37
+39,"It's so cool, and then I lie on it and charge, and then I wake up the next morning with a clock, and I charge the whole thing wirelessly, and then I'm like, ""Oh, my God, I'm going to do this"".",基于行为的评估,38
+40,"Yes, and then through these details, make him as human as possible.",基于行为的评估,35;36;37
+41,"Oh, and then Alzheimer's, and the biggest problem with that is probably forgetfulness.",基于功能的先例,6
+42,"If you're going to do some accompanying design for this point in the past, maybe it's constant.",基于功能的分析,41
+43,"Young people may forget things on their devices, but older people don't have this habit and it's more complicated to set up, so it may be necessary to remember important information.",基于功能的先例,42
+44,"And the setup is also more complex, so it may actually be necessary to do this important information. The child may need to intervene when he remembers. Yes, because if he is easily forgotten, he is doing this setup. Maybe he will, but not so comprehensively, then such a thing may be.",概念合成-行为,43
+45,"The other is that this is a constant reminder of important information, but in fact Alzheimer's itself can be a form of forgetfulness.",概念合成-行为,42
+46,"But in fact, the elderly with Alzheimer's disease may have their own memory loss. Family and friends. He cannot remember faces or names.",基于功能的先例,45
+47,"Oh, for example: I'll have this robot take out a photo book from time to time; I'll interact with this middle-aged man; I'll ask him; I'll play a little game of looking at people's pictures.",概念合成-行为,46
+48,I'm not sure if this is a picture of me on the screen or a real picture.,基于结构的评估,47
+49,"I think the screen, the screen, is probably to use the robot, but this robot is right, this is the second robot, the second robot doesn't say it has to look like a human; it can be a big screen in itself, but it's not a big screen.",概念合成-结构,48
+50,"And then the screenshot on the screen, which is a little bit cheaper to record, and then it can be added by the daughter and the son, and it's a little bit easier.",基于结构的评估,49
+51,"The image on the screen is an electronic photo book. Even if it is not a face, the place should actually have a voice. The corresponding photo can also have an audio. The corresponding human voice. Then the person's voice can be a pre-selected family member or friend, and then it is said to be called, such as the corresponding person called grandma!",概念合成-行为,50
+52,"Yes, and then something like this. It might help his memory and ease his loneliness.",基于行为的评估,47
+53,"The photographs can also be of the physical body, which may be more in line with the memory habits of this generation.",基于行为的评估,49
+54,Then you might need to create a storehouse or set up a fixed room for your photo book.,概念合成-结构,53
+55,"But this may be a bit more difficult than the first, and the cost is relatively high, which involves image recognition.",基于结构的评估,54
+56,The book is a great read and I can't control where it goes every time it's used up.,基于功能的分析,55
+57,"Well, that might have to be the photo book directly in the robot's own body, because the robot's body is the key to this function.",概念合成-行为,56
+58,"If there is a problem with physical health, like a hand or foot discomfort, then this robot. It definitely needs help picking up things, this one really does need to involve recognition. And a very flexible mechanical arm. It should be three. This one will need to be designed with a higher precision, which helps pick things up on the one hand.",概念合成-结构,9
+59,"If it's a foot, then the wheelchair is just a wheelchair. But the wheelchair can also be a robot.",概念合成-结构,58
+60,"If the wheelchair becomes a robot, it should need a more tangible biology if it is to have the ability to communicate.",基于结构的分析,59
+61,"The dog is a very small animal, but it is a very small animal.",概念合成-结构,60
+62,"But riding a dog can be a little strange, he doesn't seem to have a horse in the house either.",基于结构的评估,60
+63,"Set it up like this, then it might be better to move it with the wheels, because the wheels are smoother, because it will bump; then turn the skeleton upside down, it won't work.",概念合成-结构,62
+64,"The wheel is essentially a cage of an animal, not a structural replica.",基于结构的评估,61;63
+65,"The word ""visual impairment"" is a word that means ""to be visually impaired"".",概念合成-行为,49;64
+66,"I think this robot is also wearing it on his head, wearing it on his hat.",概念合成-结构,59
+67,The robot is best worn on the body if you have a visual impairment.,基于结构的评估,66
+68,"The robot is separate. ──yes, then it is equivalent to this robot not necessarily being a robot in the conventional sense. It can be integrated on some wearable object.",概念合成-结构,67
+69,"Well, time has passed so quickly, that actually has three options, just wrote this one down. Option one. Then this forgot about Option two. Physical health is Option three, but this option three is actually very fine because it is not done, but it has a lot of form itself.",基于结构的评估,40;56;68
+70,"In theory, my robot could be a robot kit, right? Yes, it could be a robot army. Different needs. Different specialized robots, it has wearables, it has wheelchairs, yes, and then they all come together to form a robot group to help the elderly solve physiological phenomena.",概念合成-结构,68;69
+71,"Then mental health, because of this language of communication, that this might be going to do voice chat, but the robot that implemented it is a standard itself, that maybe at this time more effort will be spent on this chat model.",概念合成-行为,13
+72,"Yes, then these companions are cooking, that this is actually ̶ ̶ ̶ for example, if you say cooking, it may be that he needs his hands are cooking and cooking ̶ this is more convenient, because it does not need to be taken by hand, the existing process, it can be modular, modular ̶ disassembly ̶ corresponding kitchen ̶ then this assembly process is definitely automatic, automatic assembly ̶",概念合成-结构,15
+73,"If you are watching TV, if you are watching TV, is this robot itself capable of becoming a TV?",基于行为的评估,72
+74,"For example, if he turns his head into a TV, which of course there must be a TV in the house, he will lie under the TV, which is equivalent to lying under the TV.",概念合成-行为,73
+75,"Then you can go to the spots, occasionally spit TV shows or summarize news.",概念合成-行为,74
+76,The user can also download the app to the website.,基于行为的评估,75
+77,"The last thing I'm going to say, which I've used more or less, is the corresponding models. For models, you need to train different conversational personalities, which is integrated into all the previous designs.",基于结构的评估,24;71;76

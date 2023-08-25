@@ -1,0 +1,40 @@
+节点编号,原文,设计行为,源节点
+1,"I think that functionally, the elderly definitely need more companionship.",基于功能的分析,0
+2,How to talk,基于功能的分析,1
+3,"It is best to establish some kind of communication with the child, to establish a connection with the child.",概念合成-功能,2
+4,The project is being implemented in the following areas:,基于功能的分析,1
+5,I think it will remind the elderly to take their medication.,概念合成-功能,4
+6,The pain of the elderly?,基于功能的分析,1
+7,Security,基于功能的先例,6
+8,"The company, the loneliness",基于功能的先例,1;6
+9,Health,基于功能的先例,5;6
+10,Social,基于功能的先例,6
+11,"Sports, hobbies and life",基于功能的先例,6
+12,The safety of the gas is a matter of getting a detector to monitor it.,概念合成-功能,7
+13,"The loneliness is, chat with AI and intelligent voice assistant.",概念合成-功能,8
+14,But I feel that it is also meaningless.,基于功能的评估,13
+15,The first thing you need to do is to be able to interact with your grandchildren and great-grandchildren.,概念合成-功能,3;13
+16,"Health is health, and it can be a reminder of a lack of medicine.",概念合成-功能,9
+17,Then check for signs of life.,概念合成-功能,16
+18,"Then in this movement, the word movement.",概念合成-功能,11
+19,"The pain is also there. Oh, memory, memory loss.",基于功能的先例,6
+20,Then live for them? Help them buy?,概念合成-功能,19
+21,"The interaction of the elderly! It can be the light movement, the five senses: eyes, ears, smell and smell.",基于行为的分析,0
+22,"The only thing that exists is a voice interaction, like a little love from a classmate.",基于行为的先例,21
+23,"But one thing to consider is that the elderly are actually quite old. They don't speak Mandarin, or speak it uncommonly.",基于行为的先例,21
+24,The voice assistant is easy to fool. Or completely ignore.,基于行为的评估,22;23
+25,"The lighting is not a smart light, but a smart light.",概念合成-行为,21
+26,"It's not about controlling the lights in your home, the smart furniture.",基于行为的先例,25
+27,"The movement of objects can be uncontrollable, for example with a supporting device.",概念合成-结构,21
+28,The gesture can then be synchronized with the person wearing the wearable device.,概念合成-行为,15;27
+29,This is the only way to achieve a mutual exchange and interaction.,基于行为的评估,28
+30,"In the smell addiction, what gas do they like, what smell do they like?",基于功能的分析,21
+31,"── extend, check, check flowers── ── before I didn't mention that circle of interest, interest flower‖",基于功能的先例,30;11
+32,The elderly have a circle of interests.,概念合成-功能,31
+33,The robot can know or monitor the condition of the plant.,概念合成-功能,32
+34,The smell of the plant is used to warn the elderly when there is a disease.,概念合成-行为,30;33
+35,"The look, I'm using it in combination with the above, in combination with the one I mentioned earlier, is a wearable device.",概念合成-结构,28
+36,"The one with the temperature? Yes, that's how you can transmit body temperature to the chicken, this cow.",基于结构的评估,35
+37,"The finger words should be too low, too expensive, right?",基于结构的评估,36
+38,What about the material that you can use to make a hand-stick?,基于结构的分析,37
+39,"For example, ""Oh, is there such a thing as a rude person?""",概念合成-结构,38

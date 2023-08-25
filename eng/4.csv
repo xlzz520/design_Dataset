@@ -1,0 +1,53 @@
+节点编号,原文,设计行为,源节点
+1,"Because I was living with my mom recently, and actually one day I had a really bad thought, and I was driving to the subway, and I was riding that elevator roller-slide, and there was this 60-year-old grandmother.",基于行为的先例,0
+2,"I thought to myself, 'I'm over 60 years old.' If I'm old, he'll make this escalator himself, and if he falls, he may never climb up again.",基于行为的评估,1
+3,"The thing that's kind of hard is that this roller coaster, which is probably easy for us, for people of our age, you look at the speed and you step forward, but for older people, if they're slow, that's a big problem.",基于行为的分析,2
+4,"The scenes that are set up as malls are not malls, subway stations are inevitable, inevitable, and the kids will have a pain point in this regard.",基于功能的分析,3
+5,The elderly person reacts slowly.,基于功能的分析,3
+6,"On the other hand, the so-called barrier-free elevators for middle-aged people, it's not that obvious, so probably most people use this kind of elevator.",基于功能的先例,4
+7,"If you add a few buttons, and things like that, and you add a few buttons that don't respond to them in time, then you're not going to be able to do that.",概念合成-功能,5
+8,Slow down or voice prompts,概念合成-行为,7
+9,"For older people, the cost of use is also high; the cost of learning is also high.",基于功能的评估,7;8
+10,"The elevator is more for the minority, and for us normal people or even physically strong people, it does not affect our use, or even facilitates our use.",基于功能的先例,6
+11,"For example: ""He's definitely going to go up there"". For example: ""It has voice cues"".",概念合成-行为,8
+12,"On the one hand, it can be said, for example, if the sensation is there.",概念合成-功能,11
+13,The user then makes a voice prompt when someone is needed to go up and down the stairs.,概念合成-行为,12
+14,"From a human perspective, what is the way to make it smoother for people to walk?",基于结构的分析,5
+15,"The iron board is the smoother type, because it is a mechanical structure with a ladder at the bottom.",基于结构的先例,14
+16,The first thing to do is to make it slip-resistant.,概念合成-结构,15
+17,"It's nice to be able to replace it with another elevator, but it can carry more people, it can carry more energy.",基于功能的分析,6
+18,We can't expect these minorities to find out for themselves.,基于功能的分析,17
+19,"It's still a bit more difficult for them, especially the elderly, to have an elevator, so can't we have robots to guide them?",概念合成-功能,18
+20,"Help the elderly find! without barriers. Can you get in here, how to do it?",基于功能的分析,19
+21,"If it's only for a small area, if it's for a subway station, then we're like a bus card, with a senior card, say 60 or over 65 years old, and they're going to have a different subway station code, like now they're paying for it.",基于功能的先例,20
+22,"Because I haven't done any research in advance, what do older people use more, they probably take more buses.",基于功能的评估,21
+23,"The entrance to the subway station. There is a ""Victim Card"". If you click on the ""Victim Card"", the entrance of the subway station will guide it in the direction you want to go.",概念合成-功能,21
+24,"For example, using a barrier-free elevator is similar to a straight left turn. This elderly card asks you to go straight to the right and use a barrier-free elevator is similar to this voice prompt.",概念合成-行为,23
+25,"The problem is that if we want to solve the problem of the stairs, we have to limit it to the subway stations, the malls, where these things are harder to solve, and not to say that old people don't go to the malls at all.",基于功能的评估,23
+26,"The main reason is that people often use the stairs, especially in big cities.",基于功能的先例,25
+27,"If we continue to improve the staircase, it can have a non-slip material on the one hand, there are voice tips, what else?",基于功能的分析,26
+28,"Exemption from alloy materials, such as whether anti-slip materials can be used",概念合成-结构,27
+29,"I think that in general, I can do something about the support of the elderly on the stairs.",概念合成-结构,28
+30,"The robot is a healthy companion. It is called a single elderly widow, single elderly or separated elderly. Because they are single, they need a companion.",基于功能的分析,0
+31,"We use the scenario of the home, which is the same pain point, for example, where the elderly are alone at home for years without children.",基于功能的分析,30
+32,The voice robot is designed for the elderly.,概念合成-功能,31
+33,"The first part of the sound card is done, and the design is a little faster, but vice versa. The sound card is one that is passed through the child through the input.",概念合成-结构,32
+34,"The voice of the child communicates with the elderly, the elderly voice of the child.",概念合成-行为,33
+35,"On the other hand, it is now hoped that it will have a monitoring function, so that children can monitor the elderly person's home situation in real time via the robot via their mobile phone.",概念合成-功能,31
+36,"Siri, who will respond to us with the voice of his machine, will respond to us with the voice of his child, which is suitable for the elderly.",基于行为的先例,35
+37,"The last word gives him a ""business reminder"", such as asking the elder to bring his key at a set time each day before going out, such as after eating or reminding the elder to take his medication at a specific time.",概念合成-行为,31
+38,Can the power model help?,基于功能的分析,0
+39,The robot is a robot that can do this.,基于功能的先例,38
+40,I've seen a lot of old people who are very good at picking up things and I'm also very good at picking them up.,基于功能的先例,39
+41,"I think the pain is also watching the elderly around me, who are getting weaker with age, and most of them have Parkinson's disease. For example, my mother one day at noon I was very obvious, looking at the bowl, he did not know that the bowl had spilled a large amount of soot on the ground.",基于功能的先例,40
+42,"The other problem is that he walks forward and steps on the ladder, when he's so afraid he's going to fall over the sidewalk.",基于功能的评估,41
+43,"The hand-held device, for example.",概念合成-结构,40
+44,"Others, like the elderly who are now single because they are the only children, many of them are still single and they still need to cook for themselves.",基于功能的分析,41
+45,I feel it is still more practical if I can give them a powerful aid.,基于功能的评估,44;38
+46,The first is the one with the companion.,基于功能的分析,0
+47,Is it not a very healthy thing to teach an elderly person to play with a mobile phone with a robot?,概念合成-功能,46
+48,"If it's a healthy companion, avoid missing one!",概念合成-功能,46
+49,The robot diet plan with healthy companions!,概念合成-功能,46
+50,"I still think that if we can teach him how to use his cell phone, it will help him connect with more people.",基于功能的评估,47
+51,"On the other hand, if the elderly person also brushes a bell, it may not be so difficult to sort out the time, and not say that he can just sit on the lookout every day.",基于功能的评估,47
+52,"If they can be more connected to society, it may also be a way to help them avoid loneliness, and to have a companion who is more connected to the world, but not on their mobile phone.",基于功能的评估,51

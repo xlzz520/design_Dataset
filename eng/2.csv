@@ -1,0 +1,68 @@
+节点编号,原文,设计行为,源节点
+1,"First of all, I think he must be a bit of a stylist.",基于结构的分析,0
+2,"Because we think about this companion robot, and the first thing we feel is that it's going to be a very industrial device.",基于结构的先例,1
+3,"The fact is that robots are now used in many ways as household appliances, and robots are also moving in that direction of humanisation.",基于结构的先例,1
+4,"In terms of function, in fact, it's definitely going to help middle-aged people.",基于功能的分析,0
+5,"He also suffered from a slow decline in many of his organs, including his taste, taste and vision.",基于功能的先例,4
+6,"In fact, the elderly usually watch TV at home and then do some simple cooking and household chores.",基于功能的分析,4
+7,"He is actually __ needing this __ oh, the robot helped him to do it __ doing his third pair of eyes.",基于功能的分析,6
+8,"If the visual system is not working well, it may also have some problems with the auditory system.",基于功能的先例,5
+9,"The simplest problem is to increase the amount of these senses, which is to say, to bring the eye to a maximum level of sensation.",概念合成-功能,7
+10,The problem with the auditory aspect is that the old flower eye is in need of a helper.,概念合成-功能,8;9
+11,"Ah, in fact, the main reason for this health companion is a psychological reason, because in adults, children are all leaving the place where they used to live.",基于功能的分析,0
+12,"Oh, how much more of a joke would it be to talk about this robot. Feel the emotions of the elderly!",基于功能的分析,11
+13,"The fact is that the oldest person is missing the most expression, he is unwilling to express how this robot can express this emotion! express this emotion! guide!",基于行为的分析,12
+14,"In fact, in general, in addition to lonely elderly people, she actually has a lot of older people who are her best friends. In fact, from what I have observed in the lives of some elderly people, they communicate most about their mother, their friend, and a role like a neighbor.",基于功能的先例,13
+15,"She is a friend of mine, and if she lives far away, she actually gets this.",基于功能的评估,14
+16,"And then I noticed that the neighbor, who is actually a very good mom, who is an inspiration, but you probably didn't notice, there are a lot of old people, empty nests, and he will have more interaction with the neighbor.",基于功能的先例,14
+17,"Well, my first project, I'll start with the neighbor, and then this first robot, it can start from the beginning of its design, from the beginning of the elderly, say, buying this robot, and then, well, you can start with an input.",概念合成-功能,16
+18,It could be like that AI-smart device.,基于功能的先例,17
+19,"After a long conversation with his neighbor, the elderly man may record their conversation.",概念合成-功能,18
+20,"After the entry, it is probably to understand some of the activities of the elderly people every day, or the content of the conversation with the neighbors, oh, let the.",概念合成-功能,19;16
+21,"And then it's more of that one-on-one cooking support. One-on-one interaction with the elderly, and then it's more of a chatbot.",概念合成-行为,20
+22,"In terms of functionality, he may have a simple climbing behavior.",概念合成-行为,17
+23,The shape of the body. I hope that limb is a hidden one.,概念合成-结构,17
+24,"And, oh, because older people are less likely to accept products that are too novel.",基于结构的分析,23
+25,"Then it's... a simple climb process, because if an elderly person creates a danger, well, I hope he has one, it's to jump out... or an alarm is triggered, which can get the attention of the neighbors around.",概念合成-行为,22
+26,"And then, oh, and that creates a security guarantee.",基于行为的评估,25
+27,The second option is the visual and auditory aspects of taste.,基于功能的分析,5
+28,"How. is to observe the elderly, he gradually loses taste, his usual food is rice, what he usually eats is also leftovers.",基于功能的先例,27
+29,"The thing about leftovers is that they are a favorite among the elderly, but they are actually the least nutritious.",基于功能的评估,28
+30,"The first thing we, the robots, say is that we can eat. It points out the dangers to the elderly. It points out some of the dangers to the food.",概念合成-功能,29
+31,"For example, if you have a dish in your refrigerator, and you have it in your house, and you have it in your refrigerator, and you have it in your house, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refrigerator, and you have it in your refriger",基于功能的先例,29;30
+32,"I think this robot is more like a machine, oh, it's like it's been stored in a refrigerator, like it's something that's been stuck on the refrigerator, and it's been in the refrigerator for a long time.",概念合成-结构,31
+33,"The robot is small, very small, maybe the size of a palm.",概念合成-结构,32
+34,"A robot, which he might buy from an elderly person, say, buy a piece of meat back, and put it in the refrigerator, and he can feel the presence of that meat from that moment, and so he can record information about that meat, like when it came from.",概念合成-行为,31
+35,"And then there might be a record of some photos, and then when the elderly person, say, after five days, he takes the piece of meat out again, he might have some sort of deformity, a rash, that's the meat.",概念合成-行为,34
+36,"And then once this behavior of flesh damage occurs, it may also perform a simple voice cue to the elderly.",概念合成-行为,35
+37,"And then it's on the refrigerator, and then, oh, okay, it's like, I'm doing one of these every day with the elderly man. I'm doing some of this cooking for breakfast, lunch, dinner. I'm helping him. I'm saying, ""Tell him what you're doing"". You're making one of these red pepper shakers and eggs.",概念合成-行为,36
+38,"In terms of innovation in structure, I think it might be like a little non-reverse osmosis camera, or something like that.",概念合成-结构,33
+39,"But to make the whole thing a little more cartoonish, a little more soft, I'm going to have to make the whole thing a little more cartoonish.",概念合成-结构,38
+40,"The third option. The third aspect, I'll start from the auditory point of view.",基于功能的分析,10
+41,The elderly are more likely to watch television or listen to the radio.,基于功能的先例,40
+42,It may be more of a. It may be more of a clock-like feeling.,基于功能的先例,41
+43,"Well, although the elderly may not need an alarm clock, they wake up naturally.",基于功能的评估,42
+44,"He may have a clock ticking at a point that tells him, for example, to watch it today. Today, the time it takes to watch this TV will be longer, and the time it takes to watch it continuously will be longer, for example, the elderly cannot watch TV for more than four hours.",概念合成-功能,42
+45,And then the other thing is that there's a requirement for the decimal.,基于功能的分析,41
+46,"It's a certain old man who has some damage to his eardrum, and it's a little bit broken, so maybe the doctor will give him a prescription, or maybe there's an international standard that says his ears can't be more than a few decibels.",基于功能的先例,45
+47,This robot? It also does. It also does more.,概念合成-结构,46
+48,The mother can tell the elderly mother what she is doing.,概念合成-行为,47
+49,"Or is it with? This remote control panel will have a connection. For example, it is actually a remote version of the control panel.",概念合成-结构,40
+50,"It's like, say, the robot that's sweeping, the remote control, and then they're both having that parent relationship.",概念合成-结构,49
+51,"So, if I put it on top, it monitors, which TV you're watching, how much the TV's volume is over the frequency, and it can automatically give that volume a drop or a decrease.",概念合成-行为,50
+52,"Or it monitors the TV in this house, no, the TV has been on for more than four hours, oh, it will automatically turn off the TV screen.",概念合成-行为,51
+53,"Because I have observed that some elderly people sleep at home, and he keeps the TV on, which is probably you.",基于行为的先例,52
+54,"It's not good for energy saving, but it's not good for the whole night.",基于行为的评估,53
+55,"For example, if you monitor this elderly person, who has entered this state of deep sleep, his TV can also automatically turn on the screen automatically, which is the role of the monitor.",概念合成-行为,54;52
+56,"He's a robot, he's a companion, he says, ""Hey, hey, hey, hey. He's just going to tell you when to go to a party, a spring festival party, or a festival, which is to say, happy holidays"".",概念合成-行为,40
+57,"Or at the point of the whole thing, he'll have a simple news story, like, hey, it's night, hey, six o'clock, what's the news report that's about to be broadcast for you, hey, hey, and then he'll suggest that, you know, what else you might have to do today, like,",概念合成-行为,56
+58,"And then it's more of a smart product. Oh, well, the elderly can usually do some simple interactive chatting with him in addition to watching TV.",概念合成-行为,57
+59,The oldest person in the world is the one who is the most vulnerable to the consequences of their behavior.,概念合成-功能,58
+60,"The fourth solution is to change the head of the elderly man's cane, perhaps with some simple modifications, and then turn it into a smarter cane.",基于功能的分析,0
+61,"And if we're at home, it actually requires a little bit of walking with a cane.",基于功能的分析,60
+62,"He said in his head. There may be a small remote sensing, a little bit of a ""shake"", similar to the function of the remote control.",概念合成-结构,61
+63,"I thought if it could do some kind of weather forecasting, it would be to put some simple functions on the phone.",概念合成-功能,62
+64,"It's okay, say something like: ""Hey, smart alarm"". ""Only alert"". ""And then some emergency contact"".",概念合成-功能,63
+65,"The first thing I did was to use the ""Memory"" button to open the notebook, and the voice controls the place, which is the time.",概念合成-功能,64
+66,"It's actually a little bit like Siri, like, ""What am I doing at 6 o'clock?""",基于行为的先例,65
+67,"And then when it comes to the point. Oh, he's this. Oh, the crutch.",概念合成-行为,66

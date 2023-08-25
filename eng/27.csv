@@ -1,0 +1,30 @@
+节点编号,原文,设计行为,源节点
+1,"Well, seeing this topic, I might think of an elderly person as a healthy person, like a.",基于功能的分析,0
+2,"The possible situation is that the child is not around, and then the child is not around, and then the child is with the old partner, and then the old partner eats, and then the old partner is alone.",基于行为的先例,1
+3,"Then some of his needs may be to say there is a certain ""accompaniment need"" or ""hello"" or ""hello"" or ""hello"".",基于功能的分析,2
+4,A state of memory decline may occur,基于行为的先例,1
+5,"The first thing I want to ask is, is there going to be a daily reminder like this?",概念合成-功能,4
+6,The children's ʽinteraction between the children and the parentsʼ ʽinteraction‖,概念合成-功能,2;3
+7,The report also highlights the importance of the healthcare system.,概念合成-功能,1
+8,"The robot can communicate directly with the child. Or it can send a message. Oh, communication.",概念合成-行为,6
+9,"There should be something like, say, the elderly living healthy manual. Some of the information on the brochure. Well, that's something that has a scientific basis, and then there's a formula, like the one made by a health professional or a nutritionist.",基于功能的先例,7
+10,I am going to make a diet. I am going to make a diet plan.,概念合成-功能,9
+11,The card is played daily. Then some information is played. The information can be shown to the child.,概念合成-行为,6;10
+12,The inside of the box is also available for children to give.,基于行为的评估,11
+13,"The child may not be able to talk for a long time, let alone talk for a long time, that is, oh, no way, to give the elderly a video in real time, or to call them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk to them, or to talk",基于行为的先例,12
+14,"But the children can take a break from me, and I want to ask how is the family?",基于行为的分析,13
+15,The phone is also used to send messages to the user via a voice message.,基于行为的先例,14
+16,"The elderly with chronic illness is based on some basic needs of a healthy elderly person, who will also have a chronic condition, which is also to be judged according to different chronic diseases.",基于功能的分析,0
+17,"The main thing is to take the medicine bar, check. To talk can be done by yourself. To form. To show this. To examine.",概念合成-功能,16;5
+18,"The most commonly used words are check-ups. Check-ups. Have you been analyzed, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example, for example,",概念合成-功能,16;7
+19,Self-examination? is it the kind that can be done by robots? is it the kind that can be done by robots? is it the kind that can be done by self-assembly? is it the kind that can be done by robots?,概念合成-结构,18
+20,"The device they have to test for this is not very big. It could be done in a robot. For example, if he is now having high blood pressure or diabetes, he can be fitted with a blood pressure monitor or a small device to monitor diabetes.",概念合成-结构,19
+21,"Then you can, say, on time. The robot. 30. Go. That. Can. The elderly. Do. Monitor.",概念合成-行为,20;7
+22,"So then again, and then the children can judge based on the actual situation. It can be continued, say to maintain one's current state of life, or to give an elderly person a strengthening one, say to go to the hospital again for a physical exam.",基于行为的评估,21;11
+23,It's like asking a private doctor to come to your house to treat you like that.,基于行为的先例,22
+24,"For example, I can relate to someone. I can relate to. No. Oh, the doctor of the hospital.",概念合成-行为,23
+25,"If it is a living condition, an elderly person who cannot take care of himself. Then his needs are only one, he must have someone around him besides the robot, who will take care of him, then maybe his children, maybe for example a nanny and so on. Then in this case.",基于功能的先例,0
+26,"The elderly with chronic diseases, even the people with this piece, will have a reminder to take medication.",基于功能的分析,25;17
+27,"The last analogy can also be related to: │ any parent with children can be mainly │ the hospital side is stronger │ the hospital side is replaced │ I am a daily │ health monitoring │ my timely │ feedback │ paying for an elderly │ physical condition │ well, the hospital │",概念合成-功能,21;22
+28,"A book is a way of caring for the elderly person. A method or a guide, for example, is its use. For example, in the case of medication.",概念合成-功能,26
+29,"Well, this guide can also be adjusted based on that? Well, some of the daily digital health data monitoring.",概念合成-行为,27;28

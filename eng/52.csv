@@ -1,0 +1,49 @@
+节点编号,原文,设计行为,源节点
+1,"The keywords are middle-aged, healthy",基于功能的分析,0
+2,"Functionally, it is an instant health service with simple fitness instruction.",概念合成-功能,1
+3,Soft appearance and concise design,概念合成-结构,2
+4,"The function needs to have a feature, it needs to be easy to use, it needs to be easy to use.",概念合成-行为,2
+5,Behavior needs to meet the operational scenarios of everyday life,基于行为的分析,1
+6,"It needs an interactive screen, font and key size.",概念合成-结构,5
+7,There is also a natural voice exchange feature.,概念合成-功能,4
+8,Users can interact with questions and answers on the screen,概念合成-行为,7
+9,"The product needs to be mobile, with similar monitoring.",概念合成-功能,5
+10,It's either light or warm.,概念合成-结构,3
+11,"The size is moderate, suitable for home scenes and free movement",概念合成-结构,10
+12,Targeted at users with chronic illnesses,基于功能的分析,0
+13,The need for long-term monitoring of body data in conjunction with other smart wearables,概念合成-功能,12
+14,The need for a rapid alert function and phased health coverage of users,概念合成-功能,12
+15,Selective external data synchronization,概念合成-结构,12
+16,The monitoring products need to be worn by the user.,基于结构的分析,13
+17,"The structure needs to be comfortable, convenient, small in size, and guaranteed for everyday use.",基于结构的分析,16
+18,People can interact with speech and have a relatively high recognition,概念合成-行为,12
+19,Data can be statistically and visually visualized to form long-term health monitoring charts,概念合成-功能,14
+20,Think of a smart speaker,基于功能的先例,0
+21,It's a product that could be similar to this.,概念合成-功能,20
+22,"The most important thing is that the people who are in the kitchen are not only the ones who are in the kitchen, but also the people who are in the kitchen.",概念合成-功能,21
+23,Users interact with other furniture on the big screen using voice,概念合成-行为,21
+24,The structure of the festival is more than happy to integrate into the home environment,概念合成-结构,21
+25,The voice module is more clear and allows for recognition,概念合成-功能,23
+26,I'll think of that robot dog.,基于功能的先例,0
+27,I thought I could make a companion robot like this one for middle-aged people.,基于结构的分析,26
+28,"The child can then move freely within the family, and the child can be a part of the family.",概念合成-功能,27
+29,And then the middle-aged people can meet their need for a warm family like this.,基于功能的评估,28
+30,It's a robot that can move around flexibly.,概念合成-功能,28
+31,"He can connect, say, to the elderly on their cell phones or a screen like a pad around them to show some health monitoring information.",概念合成-功能,27
+32,"For example, if you're an elderly person and you're watching a health show or you're dancing in a square with someone you're going out with, you're getting notifications about that activity through this robot dog, and it's like giving it a recording.",概念合成-行为,31
+33,"And this place, I suddenly thought, it could have the same kind of camera that the resident monitored, but he could move around flexibly, and it could be a good place for middle-aged children or relatives to observe a living situation in his family.",概念合成-功能,30
+34,"The camera's permissions, of course, require the user's consent.",基于功能的评估,33
+35,"And then this controller has to have a focus on healthy companionship, low mobility, but a strong voice communication module.",基于功能的分析,34
+36,"Because the elderly, they have some sort of visual impairment or some sort of decreased vision problem.",基于结构的评估,31
+37,"But for other more middle-aged people, they might prefer something that can communicate directly with natural speech. So this program is focused on ensuring that it can communicate normally, and then on this basis it can respond in a timely manner and make the middle-aged person hear.",概念合成-行为,35
+38,"Give each instruction to this robot, ideally projecting it onto every smart module in the home, like an air conditioning curtain, then preferably a washing machine or some other switch that needs to be switched.",概念合成-功能,37
+39,"It's like a newscast, and then they can wake up every morning and hear the weather, and then some exercise plan for today, or some diet plan, or some sick day plan.",概念合成-功能,38
+40,Voice reminders may be better for middle-aged people than some visual or touch screen interactions.,基于结构的评估,39
+41,"The reason why I think about celebrating, to be able to integrate into the home environment, is because many times the white or a cylinder, a long square, such a simple shape.",基于结构的分析,29
+42,"In fact, older people they feel less friendly, and then they feel that this thing has a sense of distance from him and his age group, and then that distance affects the use of this product.",基于结构的评估,41
+43,"The design of the machine should feel more like the elderly in their home environment, say wood or the solid wood feel or the soft textured shape of the fabric etc. to fit their life, and then make them feel like a product that they should consume and use at their age.",概念合成-结构,42
+44,"The screen I hope this product can have without a screen, which will affect one use of the voice interaction feature, say if it has a lot of switches on it or if it can touch the screen.",基于结构的分析,43
+45,The touch screen will cause middle-aged and elderly people to pay more for learning while they think about how to use the machine.,基于结构的分析,44
+46,But direct natural speech interaction can make it learn to use this thing faster.,基于结构的分析,40
+47,"For example, what I saw. About the home appliance is the TV. The experiment actually has something to say. The middle-aged people actually like the voice interaction function of the smart TV, they will feel that you directly switch to which TV or what, and then give you a corresponding feedback, so that they feel comfortable, on the one hand comfortable, on the other hand fashionable.",基于行为的先例,46
+48,"Then the TV can actually replace to some extent the companion robot, whose screen display functions, because the TV belongs to a regular product for this age group. For the user of this stage, it belongs to a regular product, and then it may also be a constant product.",基于结构的分析,47

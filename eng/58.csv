@@ -1,0 +1,46 @@
+节点编号,原文,设计行为,源节点
+1,"First of all, we felt we could focus on this aspect of the companion, because many robots come with a function like health screening, and we're not going to go into that with a robot that's not a health screening tool.",基于功能的分析,0
+2,"But there are some robots that, when they are with the elderly, feel more distorted and feel that their appearance, whether in appearance or behavior, is much different from that of real people.",基于结构的分析,1
+3,I think that the design of the product looks like it can be done in a more human way.,基于结构的分析,2
+4,"Some functions that ordinary robots cannot perform. For example, he can hold a pulse like a doctor when shaking hands with an elderly person to check his pulse, and measure the elderly person's heart rate by the levelness of the pulse.",基于功能的分析,1
+5,The robot will also be able to provide mental health services to the elderly.,基于功能的评估,4
+6,"I think the thing that the elderly lack most is companionship, because the children are busy and work outside.",基于功能的分析,0
+7,"The child can play another role, the role of a child.",基于功能的分析,6
+8,But I also want it to cook.,概念合成-功能,7
+9,The elderly are uncomfortable in their movements and generally need a companion who is less comfortable in the toilet.,基于功能的先例,7
+10,"It can also help the elderly to climb stairs, wash clothes, cook",概念合成-行为,9
+11,"Don't be too mechanical in your behavior, too mechanical will make you feel a bit harsh.",概念合成-结构,10
+12,"But robots are too much like humans, and that's a terrible thing.",基于结构的评估,11
+13,Massage for the Elderly,概念合成-功能,7
+14,And I think that's because a lot of older people have this pain or a bulging waistline.,基于功能的先例,13
+15,The type of hair that is suitable for the elderly can be made according to their needs.,基于结构的分析,3
+16,"There are some elderly people who have lost their children, and the kind of thing that can make the robot look like it's biased towards their child, that can act as a psychological consolation.",基于结构的分析,15
+17,Behaving like a child you know or a deceased spouse,概念合成-行为,16
+18,"Structurally, it can be animal, human, plant.",概念合成-结构,17
+19,"For example, a robot dog can follow its owner; a bird is a small flying robot that can monitor the daily movements and behavior of the elderly.",概念合成-功能,18
+20,Call the police or inform your child if an accident occurs,概念合成-功能,19
+21,Chinese doctors use pulse robots to monitor daily heart rate and other diseases,概念合成-功能,4
+22,"The younger Yayo focuses on companionship, daily cooking, storytelling, and chess.",概念合成-功能,7
+23,"You can seek technical support, such as medical testing technology.",概念合成-功能,4
+24,The role of emotional parenting,基于功能的评估,16
+25,The car is converted into a minivan and carries elderly people,概念合成-功能,22
+26,"First of all, the first project is to make a bionic robot that can follow the elderly in a flying-like way, in the shape of a bird.",概念合成-结构,19
+27,"Monitoring the facial expressions of the elderly; or some behavioral activity in their lives, and then uploading the detected data to medical systems, which can be analyzed through the system to derive the elderly their current mental health status and physical health status",概念合成-功能,26
+28,"But a robot like this, it has certain limitations. It is too small in size. It has limited functions. It can only follow the detection.",基于功能的评估,27
+29,"Another companion robot, a normal robot with a similar appearance to humans, is about the same height as humans.",概念合成-结构,15
+30,It can be divided into two categories: older people's preferences or children's preferences.,概念合成-结构,29
+31,"If the middle-aged people have children who have died,",基于功能的先例,30
+32,"If the robot can be made to look like a lost child or to speak like one, it can be a psychological comfort if it can help to alleviate the loneliness of the elderly.",概念合成-结构,31
+33,"And the third option, which I think is this health companion robot, is that it could introduce some of the functions of Chinese medicine, like the Chinese massage of the cavity, to help the elderly with lower back pain, lower back pain, and other things.",概念合成-功能,21
+34,Chinese doctors take pulses through robots and elderly people's hands and then measure their pulse-flatness to assess the current state of health of the elderly,概念合成-行为,33
+35,"Other more basic functions, such as accompanying them to do housework for the elderly, talking to the elderly, etc.",概念合成-功能,34
+36,"This little car, it can be like the cool robot mutant in the movies, it can transform into a little car.",概念合成-结构,25
+37,"The elderly are often asked to sit in a wheelchair or a van, to take them to the street to buy food or to do something else.",概念合成-功能,36
+38,"Many elderly people are now ill with their legs and legs and can't walk for long periods of time, so they need to rest for a while.",基于功能的先例,37
+39,"There is also a solution. The robot does not have to be anthropomorphic, but it can be an animal or a plant.",基于结构的分析,18
+40,"For example, an old man who likes a plant so much that he can make it look like that plant, and put it in his home, it's like monitoring the function.",概念合成-功能,39
+41,"The word ""plant"" is a bit more restrictive because it feels strange if it moves.",基于结构的评估,40
+42,"Like animals, cats are like puppies, they follow their owners wherever they go and make their owners happy.",概念合成-功能,41
+43,The bird is a robotic mimic that can perform the functions of a telegraph that helps the elderly to communicate with objects.,概念合成-功能,39
+44,Some elderly people with disabilities or with poor mobility can give the bird some tasks to help deliver to their children or other neighbors.,概念合成-行为,43
+45,"This allows for a space of communication. At the same time, these robots can also make the screen of the face something similar to a computer, mobile phone, etc. that can make video calls, and the elderly can directly tell the robot who they want to talk to.",概念合成-功能,44

@@ -1,0 +1,86 @@
+节点编号,原文,设计行为,源节点
+1,I'm going to go and think about what the existing product has in mind and search for it.,基于功能的分析,0
+2,So what is the definition of a new product?,基于功能的分析,1
+3,"The most likely product is a humanoid robot, which may be a simple humanoid with some simple prompts.",基于结构的先例,1
+4,"The landing on the market these may be more than it gets to that question is it going to go one? the actual landing, say it's a contest of conceptual products, I'll put a question mark",基于功能的分析,0
+5,"I think from a landing perspective, it could be a humanoid robot with some simple cues.",基于功能的先例,4
+6,"But if you do it from a game concept, it has a lot of this existing companionship, but it is mainly a human protagonist, with various characters and then various auxiliary functions.",基于功能的先例,4
+7,"For example, what kind of medication should I take? What kind of emergency alert should I take?",基于功能的先例,6
+8,"In addition to health, he may have an accompanying process, he may have an emotional dimension, how to express it.",基于功能的分析,7
+9,"So our new program, where is it new?",基于功能的分析,8
+10,"First of all, I think it can have a sub-mother body design.",概念合成-结构,9
+11,"The design of the mother body, as it were. Or the design of the A plus B, as it were, could at least bridge some of the gaps with the single companion robots already on the market.",基于结构的评估,10;5
+12,"And again, from this functional point of view, from the emotional dimension, I think that the most basic thing is to humanize.",基于功能的分析,11
+13,How can it be that it is based on existing rejuvenation and that it increases his emotional dimension?,基于功能的分析,12
+14,It may be that it is necessary to do it from an interactive level.,基于行为的分析,13
+15,"The first is the interactive dimension, which is based on our smart car, our electric car.",基于行为的先例,14
+16,"What is he doing? When you're driving, you normally call him by his name when you call him, but you can set his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nickname, his nick",基于行为的先例,15
+17,"My husband has changed her nickname to my niece's name, and every time I get in the car, I'm going to get her.",基于行为的先例,16
+18,"I think it's also a process of emotional interaction, based on this car at home.",基于行为的评估,17
+19,"I think that in terms of function, the middle-aged person is his health companion. First of all, what is his so-called health and companionship dimension?",基于功能的分析,0
+20,"I think that if we talk about health, I think there's an idea of making a new product that is specifically targeted at different types of diseases.",基于功能的分析,19
+21,"This is what I think is a common, rather useful approach. In the generalized perspective, you go to a specific perspective, and that's where you might develop something that's good to do.",基于功能的评估,20
+22,"For example, a traditional companion robot like this might be a simple form of this doll.",基于结构的先例,21
+23,"But if you're targeting the visually impaired, not the blind, but the visually impaired or the mildly impaired or the visually impaired, or the visually impaired.",基于功能的分析,22
+24,"And then, at that point, your robot goes back to doing everyday interactions, or maybe design.",基于行为的分析,23
+25,"And what we're really doing is, from the beginning, we've been doing a design aspect, which is bridging the gap with traditional products.",基于结构的评估,10
+26,"And then from the interaction process, and then add something emotional to the existing direct voice dialog.",基于行为的评估,18
+27,"And finally, there are some prerequisites for the care of the middle-aged population.",基于功能的评估,20
+28,"And if you think about it, this companion robot, this so-called robot, what are its limited forms?",基于结构的分析,0
+29,"So, for example, a robot like this in the form of an XR, or a robot like this in the form of a folding robot, or a robot like this, it's a robot.",基于结构的先例,28
+30,"I think it's also possible to think about, like, look at what the guy had before, what he had to do with skiing, or what he had to do with snow rescue, and it was to make a robot that was sort of AB-type, and it was like, ""I'm going to do this thing, I'm going to do this thing, I'm going to do this thing, I'm going to do this thing, I'm going to do this thing, I'm going to do this thing, I'm going to do this thing, I'm going to do this thing, I'm going to do this thing, I'm going to do this thing, I'm going to do this thing, I'm going to do this thing, I'm going to do this thing, I'm going to do this thing, I'm going to do this thing, I",基于结构的先例,29;10
+31,"The first thing to do is to limit one, for example, to the visually impaired.",基于功能的分析,20;23
+32,And then there's the hearing-impaired group.,基于功能的分析,20;23
+33,"Then, for example, from a universal to a generalized.",概念合成-功能,20
+34,"And something like this is a group of people who are visually impaired, and it might have some problems with, say, this color recognition, or this color saturation, or this color saturation, and it might have some problems with this color recognition, but it's not going to be a problem.",基于行为的先例,31
+35,"The elderly also face a gender gap, which I just overlooked, the gender gap.",基于功能的分析,0
+36,"For example, if you are with a middle-aged person, an elderly person, a man, a woman, it should be different.",基于功能的分析,35
+37,"For example, I read an article before, including one that included a study on why women are in the training industry. He often talks about the job or contacts new clients more than men.",基于功能的先例,36
+38,"I think that in this form, I think that there is also some consideration that needs to be taken.",基于结构的分析,37
+39,"And that's what we're going to do, and that's what we're going to do, and that's what we're going to do, and that's what we're going to do, and that's what we're going to do.",基于结构的分析,34;38
+40,"For example, the composition of different materials.",概念合成-结构,39
+41,"Or that he will have some different sensations of touch, or some kind of interaction at different vibrational frequencies, while it is doing some voice interaction.",概念合成-行为,40
+42,"And then for this hearing impairment, he's not really having any problems with his vision, maybe focusing on hearing.",基于功能的先例,32
+43,"So if there's a problem with the sound, we're going to compensate from this visual compensation, the visual compensation, and we're going to compensate from this visual compensation.",基于功能的分析,42
+44,"For example, there is this font, graffiti, and lighting.",概念合成-功能,43
+45,"For example, if he sees a guest in my house as usual, and then he feels like he can't hear, he compensates with lights.",概念合成-功能,44
+46,"If he wants to be a humanoid companion robot, he will have to be.",基于功能的分析,45
+47,"Then I suddenly thought of an additional point, that is, whether or not there will be, in addition to the difference now, there will be this difference in the needs of the day or night. If so, what difference will there be, I think I can think further.",基于功能的分析,46
+48,"For example, if you have a hearing impaired person, you should be fine during the day and at night, and it's the daytime that makes more noise.",基于行为的先例,47;32
+49,"He probably will indeed have a need for a night vision, he may not see at night",基于行为的先例,47;31
+50,"For example, say a middle-aged man he gets up in the night and does something he wants to do, and he wants to do something more.",基于功能的分析,49
+51,"Now this humanoid is accompanying the robot, and he might have a smart home now, and he might be connected to his whole family.",基于功能的先例,50
+52,"In fact, what we're talking about at the moment is this, this A-B thing, is that you can use this humanoid robot, like, say, during the day, and he's right there with you, and you can use it to do things like, say, ""I'm a human being"".",概念合成-功能,51;10
+53,"But if he could move like that at night, the old man wouldn't say he would feel uncomfortable, like if an object that big moved and then it was particularly bright, and then he was like, ""Oh, I'm going to move like that"".",基于行为的评估,52
+54,Is it that it has some sub-component on the robot that you can take out separately and put on the bed or the assembly on the bed and then take it out at night and use it?,概念合成-行为,53
+55,"Then the deaf and then the indoor, for the deaf crowd, maybe he's thinking about, say, noise in the house.",基于功能的先例,48
+56,"Noise levels are not particularly high, and demand may not be particularly high.",基于功能的评估,55
+57,"For example, if you're making water at home in this particular scenario, you're boiling water at home, or you're putting water in your bathroom at home.",基于行为的先例,56
+58,"Or, similarly, if he can't get to the senses in time, how can you give him some reminders?",基于行为的分析,57
+59,"I think that from a universal perspective, the needs of middle-aged people may be different from those of older people.",基于功能的分析,0
+60,"For example, middle-aged, he will have some social attributes.",基于功能的分析,59
+61,"Like an old man, what he may be looking for is a kind of companion entertainment, he needs a distraction.",基于功能的分析,59
+62,"I feel like I can play a game with him, like chess, and at the same time encourage him to get fit.",基于行为的分析,61
+63,"In the case of middle-aged people, they also have some social attributes.",基于功能的分析,60
+64,Is it possible to iterate a pattern based on traditional shapes?,基于结构的分析,28
+65,The first thing to do is to break the image of the robot. Is there any other way to do it than the traditional way?,基于结构的分析,64
+66,"For example, a folding robot, can you make a folding robot big or small?",概念合成-结构,65
+67,"This is the case if the elderly person goes to the toilet and then goes to sleep at night, and if he wakes up suddenly in the morning, or if he needs an assisted process during the process of waking up.",基于行为的先例,66
+68,"And if we do that, will the shape-shifting robot be more suited to the actual needs of the elderly?",基于结构的评估,67
+69,"I think it's possible to think about, like, a robot with this social attribute, is it, like, let it think, the face of the robot, if it asks for social attribute, is it okay for it to have a face?",基于行为的分析,63
+70,"For example, when I go to interact with someone in real time. I'm at home, he's at home, but this robot has a face that's an LED screen or an electronic screen or a liquid crystal screen or something, and it shows up as both of our faces, and then we both act like we're actually playing a game in the distance or something.",概念合成-行为,69
+71,The other thing that is not taken into account is the need for children to care for the elderly.,基于功能的分析,0
+72,"For example, if they buy a robot, it's usually to solve their own problems in life, or their children to help them with remote monitoring, and they can suddenly have an observation if they have any disease.",基于功能的先例,71
+73,"I think that this is also a question to think about, from the perspective of the spouse of the child, how can the health companion of the middle-aged person interact with them?",基于行为的分析,72
+74,"The first thing to consider is that the software is hardware, and the design of the software is hardware, plus some basic applications.",基于功能的评估,73
+75,"It's basically like this, right? For different groups, then different needs. How do you design technology from software and hardware? How do you apply it? I think the derived shapes are also good. For the general user group. For example, for the vulnerable group, you design a particularly bright color, which makes no sense, but if you're aiming at the children's group, you might.",基于功能的分析,74
+76,The function is more of a reminder that the elderly person may need to take medication. Then you can. Play with him. Monitor his health and give him some health tips.,概念合成-功能,75
+77,I'm going to break down the combination of the requirements for these parts of the function.,基于功能的分析,76
+78,"Is it possible to use new technologies, like scaling, with projection functions like robots themselves?",概念合成-功能,77
+79,"The idea is that from a conceptual point of view, it's probably a holistic idea.",基于功能的评估,78;6
+80,"The first thing I'm going to do is to make sure that the landing is a little more practical, and that the shape is more realistic.",基于结构的分析,5;79
+81,I think that's all I can say about the structure of the building.,基于结构的评估,80;66
+82,"And then from the material difference, like the product that we have now, their material might be a little bit cooler.",基于结构的先例,80
+83,"The so-called new products are made of materials, but are they different in the key contact points?",基于结构的分析,82
+84,"The key contact points, using soft materials with temperature, even recyclable materials",概念合成-结构,83
+85,Have you ever seen a news story about a robot being warmly pampered at night?,基于行为的先例,84

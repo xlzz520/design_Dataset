@@ -1,0 +1,62 @@
+节点编号,原文,设计行为,源节点
+1,The first is the elderly with poor eyesight.,基于功能的分析,0
+2,"If you want to talk to a robot, you need a slightly larger screen, a larger interface.",概念合成-结构,1
+3,"Or maybe it's the kind of human-like, mainly vocal, emotional transmission that is the master of the game.",概念合成-功能,0
+4,"Either there's an interface, which is a little bit bigger, and there might be more to pass along some health charts, or medications, or some health messages.",概念合成-功能,2
+5,It's like a small TV.,概念合成-结构,4
+6,"It's like this is a word that older people might use for some basic WeChat, some health information that you can see on your phone.",基于行为的先例,3
+7,The robot is meant to accompany and remind.,基于功能的分析,6
+8,"The first model is thinking about that frame, the previous one.",基于结构的先例,5
+9,The big screen is similar to the picture frame.,概念合成-结构,8
+10,It feels a little bit like a minority.,基于结构的先例,9
+11,So you can use a similarly small size.,概念合成-结构,10
+12,It has both video playback and family video voice capabilities.,概念合成-功能,11
+13,"There are photos, and you can play photos with slides.",概念合成-功能,12;9
+14,It's probably the kind of complexity that,基于功能的评估,13;12;9
+15,The best thing to do is not touch the screen.,概念合成-行为,14
+16,The old man doesn't understand either.,基于行为的评估,15
+17,"It is mainly voice operated, and may have an operating button at the bottom of the screen that can be turned off or listen to voice",概念合成-行为,16
+18,The words that are similar to human beings can be a little smaller and can be held.,概念合成-结构,7
+19,The first thing I noticed was that the car was very small.,概念合成-行为,18
+20,It's a bit like the shape of the Nomi that comes in the car.,基于结构的先例,19
+21,"It is small, round, soft, white, light powder, light blue, and can be made from a variety of materials.",概念合成-结构,20
+22,You can also hang it on your neck or on your hand.,概念合成-结构,21
+23,The practice of smoking is common in both urban and rural areas,基于功能的先例,22
+24,"If you could hang it on your neck and walk around, if you could play music on the radio, if you could talk for a few minutes on the road, if you could tell an old man how to count steps, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to walk, how fast to",概念合成-行为,22;23
+25,"If you are a smart phone owner, do you still carry your original smart bracelet?",基于行为的分析,24
+26,The device is also compatible with the smartwatch.,概念合成-功能,25
+27,This is a walk that is related to health monitoring.,基于功能的评估,26;24
+28,The third is animalistic?,基于结构的分析,0
+29,It's a little weird.,基于结构的评估,28
+30,The most common type of decorative items are the small ones that can be combined with the decorative ones.,基于结构的分析,29;18
+31,"And then you have the watch, for example, the watch that's small, and you can fold the screen up, and you can fold it up, and you can fold it up, and you can fold it up, and you can fold it up, and you can fold it up, and you can fold it up, and you can fold it up, and you can fold it up, and you can fold it up, and you can fold it up, and you can fold it up, and you can fold it up, and you can fold it up, and you can fold it up.",概念合成-结构,30
+32,"You can turn the screen up, raise your hand and chat.",概念合成-行为,31
+33,The key is to set up a smartwatch as a health assistant.,基于功能的分析,32;26
+34,"The feeling of belonging, being small, being a helper",概念合成-功能,33
+35,"The human-like object seems to be quite popular in the market, how can we make it stand out?",基于功能的分析,3
+36,"I'm thinking, what's so innovative about this compared to the small size?",基于功能的分析,2;10
+37,The average urban household would put a living room or bedroom between them.,基于行为的先例,36
+38,The second innovation is that you have the joint structure that allows you to be flexible.,概念合成-结构,35
+39,With a spherical ring,概念合成-结构,38
+40,The screen is a way of projecting on the material.,概念合成-结构,39
+41,"There can be some symbolic gestures, like seeing the elderly taking their medication on time, dancing hand-to-foot, saying ""Grandma/Mommy is great"" etc.",概念合成-行为,38
+42,The children's feelings,概念合成-行为,41
+43,The younger generation will not be able to teach the older generation.,基于行为的评估,42
+44,"The first thing I felt I could do more of was to be professional, to be a doctor.",概念合成-行为,36
+45,This is a device that I feel can record the voice of the little ones in the house and customize some of their movements.,概念合成-行为,43
+46,The third option is to make a small assistant and to make the watch human.,概念合成-行为,34
+47,This one I think is a good one.,基于行为的评估,46
+48,"The shape is a small round screen, or a round rectangle with an inverted angle.",概念合成-结构,47
+49,"The design is similar to that of a smartwatch, but it can be more intimate in shape.",基于结构的分析,48
+50,But the color can be a little more stable.,基于结构的分析,49
+51,"This can increase the sense of trust, credibility, professionalism.",基于结构的评估,50
+52,"The watch is humanized, with everyday expressions",概念合成-结构,46
+53,What else can be done to make a person more human than just the expression?,基于结构的分析,46;52
+54,"The screen is folding, round, and rotates 360 degrees.",概念合成-结构,53
+55,"Firstly, the elderly are given more exercise and testing.",概念合成-功能,54
+56,Like I'm giving him a break from eating and he likes to ride his bike.,基于行为的先例,55
+57,The goal is to help older people get fit and get professional with daily exercise.,基于功能的分析,56
+58,"The robot is not a robot that can be used for anything, and it can't be a robot with more functions, more powerful human control.",基于功能的评估,57;46
+59,"When not in use, I mostly watch the time.",概念合成-行为,58
+60,Waking up the robot to use other functions,概念合成-行为,59
+61,"Let him feel that these features are coming with the robot, otherwise it's too much like a smartwatch.",基于行为的评估,60

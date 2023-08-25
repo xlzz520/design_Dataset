@@ -1,0 +1,79 @@
+节点编号,原文,设计行为,源节点
+1,"From the user's perspective, it's important to focus on a specific age, and he can be divided into several categories, maybe 45 to 55, then 55 to 65, 65 to 75 and then 55 to 65.",基于功能的分析,0
+2,He may have different needs at different ages.,基于功能的分析,1
+3,"The other thing is that there may be differences in the age of men and women, according to gender.",基于功能的分析,0
+4,"Product positioning is a healthy companion machine. So I think you can divide it into two parts, one is healthy and the other is companion. For example, if the elderly person is lonely, and the child is not around, he needs a companion, similar to the feeling of a pet.",基于功能的分析,0
+5,"He is mainly a support for an emotion, or something that will be used by the companion; for example, the mobile phone that we usually use.",基于功能的分析,4
+6,"Glasses, bracelets, I think they can also be an accompaniment. Or something memorable. I wear glasses as an accompaniment.",基于功能的先例,5
+7,I think it's important to distinguish between an emotional companion and something I use often around me.,基于功能的分析,6
+8,I think it's a bit too common to do something like Japan.,基于功能的分析,0
+9,"One of our product positions is robots, which will have some technological capabilities.",基于结构的分析,8
+10,"It is a support for the emotional side of the elderly. I think that a pet is a good starting point, because a pet is a better option for its emotional empowerment.",基于功能的先例,5
+11,"But this pet dog that we have, it's a little too ordinary.",基于功能的评估,10
+12,"I want to iterate on this existing pet dog to become a pet robot, how to empower the human race.",基于功能的分析,11
+13,And then there's the other thing that's healthy.,基于功能的分析,4
+14,"I also noticed that there are some older men who may have several characteristics, like they like sharks, or they like shrimp, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks, or they like sharks,",基于功能的先例,3
+15,"For example, to make a bird, you can't do that too formally, as it is possible.",基于功能的分析,14
+16,The first thing you can do is to get your hands off the fish hook.,基于结构的分析,14
+17,"Now the fish is stretched plastic. Then there are some fish lines on top, fish eat.",基于结构的先例,16
+18,It's a little bit more intelligent.,概念合成-结构,17
+19,"This sort of thing, I think, first of all we satisfy the first thing that we are a new product, and second of all we satisfy him that he is a robot.",基于结构的分析,16
+20,"The old man likes to fish, and he may even be fishing longer than he is at home, so we also enjoyed his company.",基于功能的先例,19
+21,"Because since you're outdoors, you're definitely a little healthier than the old man who plays mahjong at home every day, so I think that our health qualities are barely even close to being equal.",基于功能的评估,20
+22,"So how is this fish going to be smarter, and let's say this end of it has some of this ability to measure water quality, right, this is to judge which fish, which size of fish, are based on different water quality?",概念合成-功能,19
+23,"Some weather, this fish's habit is different, for example, summer. He likes to stay on that water surface. He likes to stay in that deep water place, or stay in that shady place on the shore, then in winter, they will like to stay in that sunny place or a warmer place, so in fact it can also provide a recommendation based on the weather or use the scene.",基于功能的先例,22
+24,"There may be some way to connect to the phone, some way to help the shark, like the AR probe camera, which will tell you if the fish is underwater.",概念合成-功能,23
+25,"Many of those best friend links are like, you can go and share on it, pk.",概念合成-功能,20
+26,"In fact, it has this companion property.",基于功能的评估,25
+27,"So, for example, this, which records how much time you spent outdoors today, how much time did you go through today since you picked up this stick?",概念合成-功能,13
+28,"Holding hands is a basic measure of health, and if you add some of the functions of a bracelet, you can measure the heart rate.",概念合成-功能,27
+29,Measuring sleep quality is definitely not realistic.,基于功能的评估,28
+30,"It's not like the traditional pet companion, it's just another function, a way to accompany in a tool-like way.",基于功能的评估,20
+31,"In fact, I think I may still have a little bit of a stereotype about this old man.",基于功能的评估,14
+32,"Older women may have several attributes, such as they like to go shopping, they may pick up their grandchildren, take care of their family, take care of their children; they like to dance in the square.",基于功能的先例,3
+33,The following are some of the factors that can be considered:,基于行为的分析,32
+34,"I'm going to make a square dancing robot because I found this is some old guy, he might be able to do some of this dance.",基于功能的先例,33
+35,The teacher is very helpful and can help you with your own actions.,概念合成-功能,34
+36,The dancers were able to take a picture of the dance and record it with a camera.,概念合成-功能,35
+37,"It has a companion function, which is not available yet, a recording function. He looks healthy, how many calories did you burn today?",概念合成-功能,34;35
+38,"It's a small invention, but I think it's actually a use case; it's probably a narrow, limited use case.",基于功能的评估,37
+39,Older women need to go to the grocery store and take care of their families,基于功能的先例,33
+40,"The food was heavy, the crutches were not moving, the wheelbarrow was not pushing well, the wheels were stuck.",基于功能的先例,39
+41,And we're going to turn it into electric.,概念合成-结构,40
+42,"The shape of a cow, the shape of a cow is probably too crazy, and the shape of that dog is not so good.",概念合成-结构,41
+43,It's not humanised.,基于结构的评估,42
+44,"Some of the older people like history, like the wooden bulls and horses.",基于结构的先例,42
+45,"And then we make it into a horse, like, the bottom of the balance car.",基于结构的先例,44
+46,"I might need a little bigger today, tomorrow a little smaller, I'll put a little bit of something in, then I'll probably just put one or two wheels.",概念合成-结构,45
+47,"It's like two wheels and now a small car is like, when it was four wheels, it's like when we were camping, and it's like, ""Oh, that's the way it is"".",基于结构的先例,46
+48,"The trajectory of the trail, the daily log of the purchase of a dish",概念合成-功能,47
+49,The first step is to climb the stairs.,概念合成-功能,39
+50,That was awesome.,基于功能的评估,49
+51,"The old man he lives on the 56th floor, he really can't move, he has to help it",基于功能的先例,49
+52,"He could do this with this handshake, or he could do this walk-on thing in Star Wars.",基于结构的先例,49
+53,"For example, he records the purchase of a dish, if anything is scanned, say it can scan some dishes, fresh or not.",概念合成-功能,39
+54,"I can't say a price in this city in the country at the moment. If the dealer bullies you on the price of the price, then your price I can make a basic judgment on this.",概念合成-功能,53
+55,"And finally, the health part, with this dishwasher, which is a little bit like the fish tank that I just saw, you can add some of this basic microwave wristband functionality.",基于功能的先例,13;28
+56,"And I'm going to use this to do something that's a little bit bigger than the shark, because it's a little bit bigger.",概念合成-功能,55
+57,I think this is healthy; at least it's a little more practical than square dancing.,基于功能的评估,56;38
+58,"The elderly men and women all said, for example, that they care for children.",基于功能的分析,3
+59,"If you take care of children, then you have a learning machine, now there are too many learning machines.",基于功能的评估,58
+60,"Think of no better way than a learning machine. After all, you are either letting your child study or taking care of your child. Take care of your child, because your robot is not as smart as you are.",基于功能的分析,59
+61,"He can help children learn! The older people can be liberated, after all, the older people he can't keep up with are not as bright minded as when he was younger.",概念合成-功能,60
+62,Now there is a cooking machine where food is put in the fridge. Put the ingredients in the fridge. He can cook.,概念合成-功能,61
+63,And then there's this old man. He likes to play chess.,概念合成-功能,62
+64,The idea is a bit like a full-fledged robot.,基于功能的评估,61;62;63
+65,"And you can't really say that you can make an encyclopedia out of a robot, so you say that this works like this, and then maybe it doesn't.",基于功能的评估,64
+66,"And when it comes to health, I think about this outdoors, outdoor exercise, which is definitely normal.",基于功能的先例,65
+67,"Make a shoe, it's healthy, it's first of all companionship right, you walk outside every day wearing shoes",基于功能的先例,66
+68,"The shoes are healthier, they can even give you a foot massage, give you a foot therapy.",概念合成-功能,13;67
+69,"But he could have problems, affecting the data.",基于功能的评估,68
+70,"It can help the elderly walk, he can help you more easily",概念合成-功能,67
+71,The song is sung by a group of people who are very close to the singing.,基于功能的先例,70
+72,The elderly fall seriously with age.,基于功能的先例,70
+73,"The ABS, the airbag, is a bit like the one used in emergency braking cars.",基于结构的先例,72
+74,There are certain assistive mechanisms that can help you fall.,概念合成-功能,73
+75,The elderly are older.,基于功能的先例,74
+76,There is also a location function that can be used to search for a location on the app.,概念合成-功能,75
+77,"The app has an early warning feature, for example, that the elderly person needs his children to look for him as far away as possible from home.",概念合成-功能,76
+78,"Similar to this elf, as a voice assistant. For example, the elderly people who want to buy vegetables, ask how to get to the nearest food court, there is a navigation",概念合成-功能,71;77

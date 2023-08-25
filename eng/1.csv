@@ -1,0 +1,53 @@
+节点编号,原文,设计行为,源节点
+1,"The elderly man his one. Oh, the period from the late 60s to the mid-80s, he actually each it can be divided into many stages, and they one stage a behavioral characteristic is not very clearly divided",基于功能的分析,0
+2,"And then for some elderly people who have no legs, and no mobility, its jaw is the health companion robot.",基于功能的分析,1
+3,"Or, oh, connection is a problem with connecting to the outside world.",基于功能的分析,2
+4,"Then for some of the older people who are just getting into aging. Saying their health robot more books on the health aspect, a health life is an open door for a healthy life.",基于功能的分析,1
+5,"And then actually, uh, in my mind, there's a point that's more interesting, which is some retirement, and then in the middle of retirement, these people are going into retirement.",基于功能的分析,1
+6,"They are like this: they suddenly don't need to work, and then they have to go through some new life, and then they have some physical discomfort, like eating grapes, and then they have some psychological panic, and they feel like they can't stop.",基于功能的先例,5
+7,"Well, I think of a robot of this kind, which is a kind of a targeted robot. It's this, it's more in favor of a smart embedded one.",基于结构的分析,6
+8,Then you can talk to him and make a plan for your untimely retirement.,概念合成-功能,6;7
+9,"Then there are some suggestions, then some suggestions for the various psychological discomforts that the elderly experience.",概念合成-功能,6;7
+10,"It's also a social activity, a way to communicate with other seniors, to enter retirement and share their joy.",概念合成-功能,6;7
+11,"And then take him with you, and that's really the transition.",基于功能的评估,10;5
+12,"And then the second option is to target the people who are in that situation, because normal activities are not convenient.",基于功能的分析,2
+13,"For many people, there are actually more auxiliary machines now.",基于功能的先例,12
+14,"But there are some elderly people who are blind, for example, and they are blind in their lives.",基于功能的先例,13
+15,I think we can still combine that with the identification technology to classify things.,概念合成-功能,12
+16,"In the later stages of retirement, they classify things and especially drugs, some of which are memory.",基于功能的先例,15
+17,The thing is that you need one. A robot similar to a housekeeper with a long-term record of life might help.,基于功能的分析,16
+18,"And the third thing I think is that the first idea that I had in my head was actually a little bit of a cliché, and I'm kind of a person who's more of a helper by nature.",基于功能的分析,2
+19,"The first is the gradual degradation of one of the organs of the elderly, and then the other is the inability to lift something.",基于功能的分析,18
+20,"It is not as different as before, but can be taken up by a ladder or a small canoe.",基于行为的先例,19
+21,"These, but this whole home-made robot, its cost and some more.",基于结构的评估,20
+22,"For the first option, there is a subcategory one. The situation is for these able-bodied elderly people, some of them are developing.",基于功能的分析,11
+23,"It doesn't actually require such labor anymore, but they can do some yoga cultural entertainment.",基于功能的先例,22
+24,"For some, it's the elderly, the mentally ill, the unable to find a job, the unable to find a way to get rid of these issues, in which case they may need a very detailed guidance, and then this guidance.",基于功能的分析,  
+25,The only thing that's not working is the phone.,基于功能的先例,24
+26,"But for some older people, this may not be enough.",基于功能的评估,25
+27,"Then another situation is that the ‬ applies to the elderly, but the user group may be the ‬ children and young people will have a  in case they have no time to think about it.",基于功能的先例,11
+28,"Children need to know about these situations, need to have some records of their daily lives.",基于功能的分析,27
+29,"But this record will have a... oh, this old man's problem is... if it's rusty... for a living... not used to the rule book... not like the rule book life...",基于功能的评估,28
+30,"Then there is the issue of privacy for the elderly. For this, they must be respectful and then you can live without the habit of control. Of course, health is very important, but it is not possible to ignore the wishes of the elderly.",基于功能的评估,29
+31,The privacy of the elderly is something we can do without surveillance.,概念合成-行为,30
+32,"The data is not just a record of the lives of older people, but a record of their lives, and then some analysis.",概念合成-行为,31
+33,"Even now, most AI can do it.",基于行为的先例,32
+34,"There is also a psychological problem with the elderly, and another is that the transition of friends is the range of friends, from colleagues. The proportion of colleagues is greatly reduced, then one's own circle has to open a new circle, and the social life of the elderly is also a relatively minor problem worth considering.",基于功能的分析,10
+35,"In this case, the answer is: ""Oh, but the individual is more like a public network than a public network"".",基于结构的分析,34
+36,"I even have a very bold idea, which sounds ridiculous; robots can act as emotional parrots.",概念合成-功能,35
+37,"In the case of the elderly with reduced mobility, it can also be a ""blindness"" or ""incapacity to distinguish"", but if the elderly is old and does not do enough, he may refuse all help.",基于功能的分析,12
+38,"The only thing they need is a little fulfillment in life, not all the package.",基于行为的分析,37
+39,Some of these words are: sort of thing. Special. There are medicines. That.,概念合成-功能,38
+40,"And then there's the other one: ""Spend a little bit more, because first aid is also very much in need of a reserve"".",概念合成-功能,39
+41,"For some elderly people in the hospital, the ward is now more about life oriented.",基于功能的分析,40
+42,"This is the second time he has seen a patient in an operating room because they have to avoid moving their supporting facilities, and then some intelligent is not enough.",基于功能的先例,41
+43,"Then, the series could be... if there were some, it would be... if there were no robots to do something.",概念合成-功能,42
+44,"So, for example, when you're getting smart, that robot is going to be in the form of a bed, and it could be a bed, as long as it's got a smart belt and a smart belt.",概念合成-结构,43
+45,"Then, ʽhelp solve a problem, help solve a psychological problem in the child‛.",基于功能的分析,5
+46,The only way to build a more realist community is to build a green and white online community.,概念合成-行为,45
+47,Help me find a match!,基于功能的评估,46
+48,"The younger generation can also be helped to cope with a newly-introduced ""incapacity to adapt"" to life in old age.",基于功能的评估,46
+49,The key to this robot is to have a reasonable means of monitoring.,基于结构的分析,46
+50,Because now the three major operators it has launched a network of elderly people.,基于功能的先例,49
+51,"Then you can go ahead and do something based on the three major carriers, which is to transmit over the network.",概念合成-结构,50
+52,"Then in the process of accompaniment. In this accompaniment word is mother, a state of children.",概念合成-行为,51;28

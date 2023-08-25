@@ -1,0 +1,53 @@
+节点编号,原文,设计行为,源节点
+1,"I'll define what middle-aged person is first, that doesn't allow me to search the internet, I think middle-aged person might be. Even if it's over 35 years old, middle-aged person doesn't know, then I give him a definition.",基于功能的分析,0
+2,"It is defined as having, for example, a spirit, or a mind, for example, he is empty, lonely, for example, less social, I would think that he has some psychological problems.",基于功能的分析,1
+3,"The word ""healthy companion"" is a big one, and I'll give him a definition that might be: ""I'll focus on my mind"".",基于功能的分析,0
+4,"For example, a language exchange robot for elderly people over 80 years old.",基于功能的分析,1;3
+5,There is also the analogy that having a pension means being rich.,基于功能的分析,4
+6,"The most commonly used type of social networking site is the social networking site, which is a social networking site.",概念合成-功能,5
+7,The following are some of the features of the app.,概念合成-功能,5
+8,"The behavior structure function gives him a little bit of a breakdown, called physical. One is called linguistic. Physical. For example, if an elderly person goes to the toilet, he goes with him to the toilet, an elderly person goes to the kitchen, he goes with him to the kitchen.",概念合成-行为,4
+9,"The language could be a chat, a bell.",概念合成-功能,6;7
+10,So maybe the point is that he takes the initiative to go and talk to the elderly instead of having the elderly talk to him.,基于行为的分析,9
+11,He is different from his classmate Ai. What kind of Titan is different from him?,基于行为的先例,10
+12,He said that he felt that the elderly man had been sitting there for half an hour and that it was appropriate for him to go up and talk.,概念合成-行为,11
+13,"The wheel is not a wheel, but a wheel.",概念合成-结构,8
+14,"For example, ‧ distance sensor? ‧ various sensors.",概念合成-结构,8
+15,"Health companionship for diabetes. It is a big problem in it. Blood sugar. Blood regular is easy to overdo, for example, eating a watermelon blood regular is overdo, then dizziness, or not eat for a long time.",基于功能的先例,1
+16,"This is the second one, taking a pill before and after meals, a grandmother probably every day.",基于功能的分析,15
+17,It's not necessarily lonely; middle-aged people may be retired; retired; functional; because I feel that long reminders are also companionship.,基于功能的评估,16
+18,"For example, he is going to pinch a needle. The needle is then inserted into the tube like a needle, and then reminds him of something, and then visualizes it through a something on the screen, in this way.",概念合成-行为,16
+19,Time reminds us to eat in the morning and late at night.,概念合成-功能,18
+20,The health alert is also available.,概念合成-功能,19
+21,My grandmother used to spend nights trying to figure out which fruits would lower blood sugar and which ones would not.,基于功能的先例,20
+22,"There's a physical walking process. A function that's actually a little bit similar to the one above, but it's just stacking this diabetic thing up.",基于功能的评估,13;15
+23,"The third may be to fill in a gap. Physically, for example, exercise, for example, play badminton or ping-pong at home.",基于功能的分析,0
+24,"For example, the lower limb; or the lower limb movement rehabilitation for some other example of lower limb movement, or for example, what is the leg or what is the leg of badminton?.",基于功能的分析,23
+25,"I have a problem with my knee, for example, with my knees.",基于功能的先例,24
+26,"Or maybe it's a companion, we can give him the word companion.",基于功能的评估,24
+27,"The following is a list of the most common symptoms of lower limb problems in the world, and the most common causes of lower limb problems in the world.",基于功能的分析,24
+28,"At home, for example, I'm shaking my legs right now, thinking about this topic, maybe I'm helping him by shaking his legs.",概念合成-功能,27
+29,What might he have? Functional reminders! A certain language reminders. Original reminders or task reminders? Including what?,概念合成-行为,28
+30,"How can a structure have a physical what? What is it called? Nor is it a spring, what is it about a physical what? What is a mechanical structure?",概念合成-结构,28
+31,"The fourth is: ""I know a very shocking story, for example, that old people in Japan are very likely to get HIV, not in China, especially when their old partner dies.",基于功能的先例,0
+32,"This is a real social pain point, but it is often the pain point of being covered up.",基于功能的评估,31
+33,"I think that this is something that I think everyone has, that this is a situation where maybe you are targeting an old person and you are getting a physical satisfaction, maybe you are getting a satisfaction in terms of humanity, humanity itself.",基于功能的分析,32
+34,"For example, massage robot massage is a form of massage therapy aimed at the whole body.",概念合成-功能,33
+35,"For example, I bought two or three things for our family. The massage chair is the kind that you can lie on, like a bed.",基于功能的先例,34
+36,But there is a problem with that. It has many functions that older people do not use.,基于功能的评估,35
+37,"I asked my grandmother in detail before, what was her problem? The massage parlor said that my grandmother felt that the pressure was right, my mother felt that she was hurting, because I was also thin, relatively thin, her bones were what. The girl might be my grandmother might wear two underwear, one outer cover she was two clothes. Then the two heads are relatively fat, he might be. He might be relatively fat, he might have to do.",基于行为的先例,36
+38,"So this is a voice voice modulation function. If it is voice, don't press it.",概念合成-功能,37
+39,"Because, before, it was. Including sometimes I could call him from my phone, but I couldn't get him to come once, so I called him once on my phone.",基于功能的先例,38
+40,"Or the one with a massage machine that is connected to oxygen like a remote control, that hangs a line, that the elderly don't use. It's just a very normal mode, it's not the other mode. Maybe 10,000 pieces of massage machine, it's 2,000 pieces, it's the most common type.",基于功能的先例,36;38
+41,I think the voice bar would be better.,基于功能的评估,38
+42,So the word structure might be this: ≪massage chair structure≫ plus voice module≫,概念合成-结构,35;41
+43,"In general, the land is relatively large. It costs more, for example, more than 20,000. Because my grandmother uses it every day, because he feels that he does not need it, he really does. I asked him, I watched them because I watched them, I saw why?",基于行为的先例,35
+44,"I think he's a good accompanist, but I think he's a good friend.",基于行为的评估,43;26
+45,Think about another one. What is the name of the universe? Entertainment. What's new about the entertainment robot. What is the universe?,基于功能的分析,0
+46,"Sometimes my grandmother likes to collect mail. So I said, ""I want to see the mail today, so you can search for me"".",基于功能的先例,45
+47,"For example, if I'm going to collect mail, you can find me the best documentary in China or something.",概念合成-功能,46
+48,"What is the point of saying who wasn't the first designer in China? Say that Zhang Zhang is the first designer, that Zhang Zhang is not dead, he is very strong. Then he will give you his documentary to my grandmother.",概念合成-功能,47
+49,"Of course, there will be active reminders, as the time goes on, and the comparison is a bit like a whisper.",概念合成-行为,45
+50,"Because I am like this, my grandmother and grandfather brushed their tongue brushes so hard, one day they might brush it, because he has nothing to do.",基于行为的先例,49
+51,"I'm not sure if I'm going to play the game, but I'm not going to play the game, and I'm not going to play the game, and I'm not going to play the game, and I'm not going to play the game, and I'm not going to play the game, and I'm not going to play the game, and I'm not going to play the game.",基于功能的先例,45
+52,"We might be a little bit like this, some games will come out and something will come out.",概念合成-功能,51

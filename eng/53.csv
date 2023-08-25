@@ -1,0 +1,47 @@
+节点编号,原文,设计行为,源节点
+1,"The first thing to consider is the input of the demand, then the user's subject, gender, age and city.",基于功能的分析,0
+2,"Create a roadmap, find user pain points and design opportunities",基于行为的分析,1
+3,"Consider the color, size, and material of the product, and then sketch the design.",基于结构的分析,2
+4,The average elderly user can take a machine with them to read,概念合成-功能,1;2
+5,"They should prefer to listen to some radio because it is usually more boring. For example, some e-books are functional.",基于功能的先例,4
+6,This is especially true in the home and other occasions when reading is needed.,基于行为的分析,5
+7,One of the biggest pain points in the market today is the attendance.,基于功能的先例,1
+8,The robot can be an elderly person's companion,概念合成-功能,7
+9,Helping the elderly to see their doctor,概念合成-行为,8
+10,The robot can also be used as an emergency alarm.,概念合成-功能,1
+11,For emergencies such as elderly falling,概念合成-功能,10
+12,The main function is to use AI to help users communicate with their needs using natural language.,概念合成-功能,4
+13,You can also quickly wake up and find the book or video you want to watch.,概念合成-功能,4
+14,The search engine is a very simple and easy to use tool.,概念合成-结构,13
+15,"The path to the operation is quick, the operation is stupid.",概念合成-行为,13
+16,It can be assisted by graphical voice,概念合成-功能,12
+17,But some of the elderly in rural areas are illiterate.,基于功能的先例,14
+18,"Wearable devices that are convenient, small and convenient",概念合成-结构,4
+19,Considering the factors of robotics in the elderly,基于结构的分析,18
+20,The market for medical robots for the elderly is currently zero.,基于功能的先例,8
+21,Clear pathways and procedures: allow patients to walk less and anticipate the next step,概念合成-功能,20
+22,"Information prompting: more clear, advance warning, when to get the test report, test results, analysis of test results",概念合成-功能,20
+23,Calling and analyzing information from previous visits,概念合成-功能,22
+24,Related guardians,概念合成-功能,22
+25,Supporting the elderly or using a wheelchair,概念合成-功能,8
+26,The paper medical records are available for follow-up visits,概念合成-功能,23
+27,"Structurally, it can be considered to support the elderly, perhaps to sit them down.",概念合成-结构,25
+28,"If it's a crutch, consider the size of the person being supported.",概念合成-结构,27
+29,We can also do a force analysis to see if the seat is the right size for the elderly.,基于结构的分析,28
+30,It's also a lot lighter.,概念合成-结构,29
+31,"I watched a few of the products that are currently available, including a fall, heart rate warning, and a warning about the possibility of a heart attack.",基于功能的先例,10
+32,"So if you fall, it will monitor your heart rate and some other information.",基于功能的先例,31
+33,It's a wearable device.,概念合成-行为,10
+34,"Monitoring physiological factors such as blood pressure, lipids, heart rate",概念合成-功能,33
+35,"At the same time, connect some monitoring devices in the home, such as when the physiological test after a fall does not reach the warning",概念合成-功能,34
+36,The need for older people to go out dancing,基于功能的先例,1
+37,"It can also be an electronic radio, a square dance player.",概念合成-功能,4
+38,The use of the Internet is much wider,基于功能的评估,4;37
+39,"I found that some of the older people now, who actually have cell phones, will do some simple operations to specifics, like this function, which they need to go where they need to go and maybe not do.",基于功能的先例,2
+40,"He'll collect WeChat, or he'll use some browser to search, and then he won't know how to search for this thing, and then there might be something else he needs to do with WeChat, and sometimes he might have to bind some little program, and then he might have it all tied up and then this information is particularly dispersed, and how do you put that information into an aggregate?",基于功能的先例,39
+41,And we could actually think about making a smart robot and then aggregate all of this search-related information into a collection that actually makes it easier for them to do a quick search.,概念合成-功能,40
+42,The use of these products is also more efficient.,基于功能的评估,41
+43,"I feel that some speech recognition now, older people do not necessarily speak standard Mandarin. Or what they say is not necessarily very direct or recognized more quickly, so maybe this ""dialect recognition function"" needs to be strengthened.",基于行为的先例,40
+44,Automatically extract some keywords and then search for them easily,概念合成-功能,43
+45,"He might have said a long sentence, which is a hint of how to do some keywords in that long sentence.",概念合成-功能,44
+46,Multi-platform cross-platform connectivity,概念合成-结构,41

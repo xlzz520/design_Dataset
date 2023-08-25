@@ -1,0 +1,55 @@
+节点编号,原文,设计行为,源节点
+1,"First, the appearance can be very different, some very small, some very large.",基于结构的分析,0
+2,"The first is to consider the slightly larger ones, the overall look of which might be like that robot in the hotel.",概念合成-结构,1
+3,It can move itself.,概念合成-行为,2
+4,"And it's going to be more functional because it's going to have a lot more room to move around, and it's going to help middle-aged people do a lot of things.",基于功能的分析,3
+5,The overall style of the building is rather lovely and rounded.,概念合成-结构,2
+6,"And then in terms of functionality, first of all, I think he should bring that sort of thing.",概念合成-功能,4
+7,It's not that hard to clean up if it can be used anywhere.,基于功能的评估,6
+8,The average person may also be able to compare the effort of cleaning the toilet with the average person.,基于功能的先例,7
+9,"And there's also the basic functional exchange of communication, which is very important because it's a companion.",基于功能的分析,8
+10,"And then in terms of health, it has a function to do with some of the life-sustaining aspects of memory.",基于功能的分析,9
+11,"He is a very sensitive person, and he feels that he should be considered for his medication, or for the cold and hot weather today.",概念合成-功能,10
+12,"Then we'll go to the second option for now. In terms of appearance. The second idea is a little bit smaller, probably similar to that desktop robot.",概念合成-结构,0
+13,The difference is a little bit bigger than the first one.,基于结构的评估,12;1
+14,A desktop word is probably about the size of a speaker.,概念合成-结构,13
+15,And this is probably a little bit like what you see in a smart home speaker today.,基于功能的分析,14
+16,"Because of its shape, it's better to carry it around.",概念合成-结构,15
+17,I feel like he can actually play a better accompaniment function than a cell phone or something.,基于功能的评估,16;15
+18,"It's also possible to add remote audio, which makes it easier to make video calls with your kids or friends your age.",概念合成-功能,17
+19,It also has a life-minder feature.,概念合成-功能,17
+20,The product should be basically available.,基于功能的评估,19
+21,"The new technology will also include a number of features, such as a smart medicine box.",概念合成-功能,17
+22,"And because it's so portable and so small, you can combine that with a little bit of functionality.",基于功能的评估,21;16
+23,"And then the third option, which is that it looks like a kind of cute companion robot.",概念合成-结构,1
+24,It's like the stuffed toy that kids love.,基于结构的先例,23
+25,So it may not feel like the two robots before it.,基于结构的评估,24;12;2
+26,"I'm going to be able to do a little bit of that, a little bit of that, a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that, and then a little bit of that.",基于结构的分析,25
+27,"For example, a design toy can be shaped like a toy.",概念合成-结构,26
+28,"It's probably the middle of the two, the middle of the volume.",概念合成-结构,27;12;2
+29,Its functional aspects can be combined with its physical features to produce some functions.,基于功能的分析,28
+30,"For example, you can communicate in real time.",概念合成-功能,29
+31,The oldest person in the world likes to listen to radio or drama and is given it in the form of audio.,概念合成-功能,29
+32,And then the life-reminder function is also important.,概念合成-功能,29;19
+33,"And the fourth thing is, in terms of appearance, I think I can make a miniature robot.",概念合成-结构,1
+34,And then you have the watch type.,基于结构的先例,33
+35,"The word ""snap"" is used to describe the way a person looks at a person, and the way they look at a person.",基于结构的评估,34
+36,The new watch will be a bit different from the current smartwatch in terms of functionality.,基于功能的分析,35
+37,"Because now kids will have little genius watches, but I don't know if older people will have similar products.",基于功能的先例,36
+38,"The older smartwatch, the more simple the interaction.",概念合成-行为,37
+39,"The problem is that older people are not so good at using their phones, and using them is a bit difficult.",基于行为的评估,38
+40,"The watch, which reminds you of your life, is also important.",概念合成-功能,39;19
+41,"This watch is also portable, as it is when you go out, whereas the previous watches were only portable at home.",概念合成-结构,41;23;12;2
+42,"I feel like it's mostly about looking at the watch, what functions it integrates.",基于功能的分析,41
+43,"For example, if you are going out, you can add something to help you know where to go, which makes it a little safer for you if you are going out by yourself.",概念合成-功能,42
+44,Navigation is also available.,概念合成-功能,42
+45,"And then there's the fifth, slightly more advanced, more humanoid form.",概念合成-结构,1
+46,"The size is also large, and is mainly kept in the home.",概念合成-结构,45
+47,"The first version is the same as the first one, but it has some features that are mainly for the home.",基于功能的分析,46;6;11
+48,"Then the sixth solution. Its shape can be that of a medium volume, but it can carry out the outdoor.",概念合成-结构,1
+49,It's probably the same size as that wheelchair.,基于结构的先例,48
+50,Can take wheels,概念合成-结构,49
+51,He is also a member of the National Council of Churches (NCC) and the National Council of Churches (NCC).,基于功能的分析,50
+52,"For example, if a middle-aged person goes out to buy some food or to the supermarket, the robot can help pick up, and he can drive home with his own wheels.",概念合成-行为,51
+53,"If he goes out, he can have that kind of navigation function, so it's not easy for the elderly to go out for a walk.",概念合成-功能,51
+54,"The functionality is a little more comprehensive, allowing you to combine the functions of home and outdoor.",基于功能的评估,52;53
